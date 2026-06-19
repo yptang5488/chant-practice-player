@@ -1,0 +1,1382 @@
+{
+  "id": "song_src_4671e574_dd8233",
+  "title": "Dingga",
+  "artist": "MAMAMOO",
+  "audio": {
+    "sourceId": "src_4671e574",
+    "playbackUrl": "./practice-data/audio/song_src_4671e574_dd8233.mp3",
+    "duration": 185.573878
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 7.62,
+      "end": 9.28,
+      "text": "딩가딩가할래",
+      "translation": "想要 Dingga Dingga",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l2",
+      "start": 9.28,
+      "end": 11.5,
+      "text": "친구들 모아",
+      "translation": "把朋友們聚起來",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "무무들 모아(MOO MOO們聚起來)",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 6,
+            "charEnd": 6
+          },
+          "romanizedText": "mumudeul moa(MOO MOO們聚起來)"
+        }
+      ]
+    },
+    {
+      "id": "l3",
+      "start": 11.5,
+      "end": 12.56,
+      "text": "한잔할래",
+      "translation": "想喝一杯",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l4",
+      "start": 12.56,
+      "end": 14.35,
+      "text": "Drink like a, like a, like a fish",
+      "translation": "像魚一樣喝個不停",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l5",
+      "start": 14.35,
+      "end": 15.56,
+      "text": "딩가딩 링가링",
+      "translation": "Dingga ding ringga ring",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l6",
+      "start": 15.56,
+      "end": 18.47,
+      "text": "노는 게 좋아 Yeah",
+      "translation": "喜歡玩樂 Yeah",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l7",
+      "start": 18.47,
+      "end": 20.62,
+      "text": "딩가딩가 딩가딩가",
+      "translation": "Dingga Dingga Dingga Dingga",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "딩가딩가 딩가딩가",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "딩가딩가 딩가딩가",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 9
+          },
+          "romanizedText": "dinggadingga dinggadingga"
+        }
+      ]
+    },
+    {
+      "id": "l8",
+      "start": 20.62,
+      "end": 22.31,
+      "text": "Ice cream 먹으러 갈래",
+      "translation": "想去吃冰淇淋",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Yeah",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 16,
+            "charEnd": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "l9",
+      "start": 22.31,
+      "end": 24.52,
+      "text": "나나나나나",
+      "translation": "Na na na na na",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l10",
+      "start": 24.52,
+      "end": 25.73,
+      "text": "딩가딩가",
+      "translation": "Dingga Dingga",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "마마무",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 4,
+            "charEnd": 4
+          },
+          "romanizedText": "mamamu"
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "start": 25.73,
+      "end": 29.75,
+      "text": "유유자적해 여기 방구석에",
+      "translation": "悠然自得地待在這房間角落",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l12",
+      "start": 29.75,
+      "end": 30.79,
+      "text": "언제부터인지",
+      "translation": "不知道從什麼時候開始",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l13",
+      "start": 30.79,
+      "end": 33.64,
+      "text": "사회와의 거리가 꽤나 멀지",
+      "translation": "和社會的距離變得相當遙遠",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l14",
+      "start": 33.64,
+      "end": 35.78,
+      "text": "이 여름이 다 지나갔네",
+      "translation": "這個夏天都已經過去了",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l15",
+      "start": 35.78,
+      "end": 37.77,
+      "text": "차가운 땀이나 나네",
+      "translation": "冒出一身冷汗",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l16",
+      "start": 37.77,
+      "end": 42.29,
+      "text": "밤이나 또 낮이나 제자리만 돌고 돌아",
+      "translation": "不管白天黑夜，都只是在原地打轉",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l17",
+      "start": 42.29,
+      "end": 43.92,
+      "text": "부족해 비타민 D",
+      "translation": "維他命 D 不足",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "D",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "D",
+            "occurrence": 1,
+            "charStart": 8,
+            "charEnd": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "start": 43.92,
+      "end": 46.06,
+      "text": "아까워요 Delivery fee",
+      "translation": "外送費好可惜",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "fee",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "fee",
+            "occurrence": 1,
+            "charStart": 14,
+            "charEnd": 17
+          }
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "start": 46.06,
+      "end": 48.06,
+      "text": "하필 완벽하네 날씨",
+      "translation": "偏偏天氣又完美",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "씨",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "씨",
+            "occurrence": 1,
+            "charStart": 9,
+            "charEnd": 10
+          },
+          "romanizedText": "ssi"
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "start": 48.06,
+      "end": 50.64,
+      "text": "청개구리 난 원래 집순이야",
+      "translation": "我本來就是唱反調的宅女",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l21",
+      "start": 50.64,
+      "end": 52.79,
+      "text": "내 친구는 날파리고",
+      "translation": "我的朋友只有小飛蟲",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l22",
+      "start": 52.79,
+      "end": 54.69,
+      "text": "외로움만 쌓이죠",
+      "translation": "只有寂寞越積越多",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l23",
+      "start": 54.69,
+      "end": 57.53,
+      "text": "해독할 시간이 필요해",
+      "translation": "需要一點解毒的時間",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l24",
+      "start": 57.53,
+      "end": 59.33,
+      "text": "딩가딩가할래",
+      "translation": "想要 Dingga Dingga",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l25",
+      "start": 59.33,
+      "end": 61.36,
+      "text": "친구들 모아",
+      "translation": "把朋友們聚起來",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "무무들 모아(MOO MOO們聚起來)",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 6,
+            "charEnd": 6
+          },
+          "romanizedText": "mumudeul moa(MOO MOO們聚起來)"
+        }
+      ]
+    },
+    {
+      "id": "l26",
+      "start": 61.36,
+      "end": 62.59,
+      "text": "한잔할래",
+      "translation": "想喝一杯",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l27",
+      "start": 62.59,
+      "end": 64.22,
+      "text": "Drink like a, like a, like a fish",
+      "translation": "像魚一樣喝個不停",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l28",
+      "start": 64.22,
+      "end": 65.57,
+      "text": "딩가링 링가링",
+      "translation": "Dingga ring ringga ring",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l29",
+      "start": 65.57,
+      "end": 68.61,
+      "text": "노는 게 좋아 Yeah",
+      "translation": "喜歡玩樂 Yeah",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l30",
+      "start": 68.61,
+      "end": 70.67,
+      "text": "딩가딩가 딩가딩가",
+      "translation": "Dingga Dingga Dingga Dingga",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "딩가딩가 딩가딩가",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "딩가딩가 딩가딩가",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 9
+          },
+          "romanizedText": "dinggadingga dinggadingga"
+        }
+      ]
+    },
+    {
+      "id": "l31",
+      "start": 70.67,
+      "end": 72.26,
+      "text": "Ice cream 먹으러 갈래",
+      "translation": "想去吃冰淇淋",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Yeah",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 16,
+            "charEnd": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "l32",
+      "start": 72.26,
+      "end": 74.6,
+      "text": "나나나나나",
+      "translation": "Na na na na na",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l33",
+      "start": 74.6,
+      "end": 76.55,
+      "text": "One, two, three, four 네 앞을 봐",
+      "translation": "一、二、三、四，看向你前方",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l34",
+      "start": 76.55,
+      "end": 78.61,
+      "text": "왜 다들 화나 있어",
+      "translation": "為什麼大家都在生氣",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l35",
+      "start": 78.61,
+      "end": 80.36,
+      "text": "요즘 너무 삭막해",
+      "translation": "最近實在太冷漠了",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "삭막해",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "삭막해",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 9
+          },
+          "romanizedText": "sakmakhae"
+        }
+      ]
+    },
+    {
+      "id": "l36",
+      "start": 80.36,
+      "end": 82.57,
+      "text": "그저 달콤한 휴식이 필요해",
+      "translation": "只是需要甜美的休息",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "필요해",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "필요해",
+            "occurrence": 1,
+            "charStart": 11,
+            "charEnd": 14
+          },
+          "romanizedText": "piryohae"
+        }
+      ]
+    },
+    {
+      "id": "l37",
+      "start": 82.57,
+      "end": 84.77,
+      "text": "I need to love myself",
+      "translation": "我需要愛自己",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l38",
+      "start": 84.77,
+      "end": 86.64,
+      "text": "All I need is your heart",
+      "translation": "我需要的只有你的心",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l39",
+      "start": 86.64,
+      "end": 90.58,
+      "text": "Oh me, oh my, ay",
+      "translation": "Oh me, oh my, ay",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l40",
+      "start": 90.58,
+      "end": 92.6,
+      "text": "드라마만 정주행해",
+      "translation": "只是不停追劇",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l41",
+      "start": 92.6,
+      "end": 94.63,
+      "text": "드라이브는 못 가네 찌뿌둥해",
+      "translation": "不能去兜風，身體都僵了",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "찌뿌둥해",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 15,
+            "charEnd": 15
+          },
+          "romanizedText": "jjippudunghae"
+        }
+      ]
+    },
+    {
+      "id": "l42",
+      "start": 94.63,
+      "end": 96.14,
+      "text": "폰 게임으로 주행",
+      "translation": "用手機遊戲來開車",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l43",
+      "start": 96.14,
+      "end": 97.52,
+      "text": "Time is ticking, ticking",
+      "translation": "時間滴答滴答流逝",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "ticking, ticking",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "ticking, ticking",
+            "occurrence": 1,
+            "charStart": 8,
+            "charEnd": 24
+          }
+        }
+      ]
+    },
+    {
+      "id": "l44",
+      "start": 97.52,
+      "end": 98.71,
+      "text": "Don't hold your breath",
+      "translation": "別屏住呼吸",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l45",
+      "start": 98.71,
+      "end": 100.54,
+      "text": "젊은 날이 Fade out",
+      "translation": "青春的日子正漸漸淡出",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "out",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "out",
+            "occurrence": 1,
+            "charStart": 11,
+            "charEnd": 14
+          }
+        }
+      ]
+    },
+    {
+      "id": "l46",
+      "start": 100.54,
+      "end": 102.07,
+      "text": "어디 가니 친구야",
+      "translation": "朋友啊，你要去哪裡",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "야",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "야",
+            "occurrence": 1,
+            "charStart": 8,
+            "charEnd": 9
+          },
+          "romanizedText": "ya"
+        }
+      ]
+    },
+    {
+      "id": "l47",
+      "start": 102.07,
+      "end": 103.08,
+      "text": "쌓인 먼지 털어",
+      "translation": "把堆積的灰塵拍掉",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "털어",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "털어",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 8
+          },
+          "romanizedText": "teoreo"
+        }
+      ]
+    },
+    {
+      "id": "l48",
+      "start": 103.08,
+      "end": 104.08,
+      "text": "우리끼리 걸어",
+      "translation": "我們自己一起走",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "걸어",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "걸어",
+            "occurrence": 1,
+            "charStart": 5,
+            "charEnd": 7
+          },
+          "romanizedText": "georeo"
+        }
+      ]
+    },
+    {
+      "id": "l49",
+      "start": 104.08,
+      "end": 105.45,
+      "text": "Let's role play",
+      "translation": "來角色扮演吧",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Let's role play",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Let's role play",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 15
+          }
+        }
+      ]
+    },
+    {
+      "id": "l50",
+      "start": 105.45,
+      "end": 107.27,
+      "text": "딩가딩가할래",
+      "translation": "想要 Dingga Dingga",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l51",
+      "start": 107.27,
+      "end": 109.26,
+      "text": "친구들 모아",
+      "translation": "把朋友們聚起來",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "무무들 모아(MOO MOO們聚起來)",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 6,
+            "charEnd": 6
+          },
+          "romanizedText": "mumudeul moa(MOO MOO們聚起來)"
+        }
+      ]
+    },
+    {
+      "id": "l52",
+      "start": 109.26,
+      "end": 110.69,
+      "text": "한잔할래",
+      "translation": "想喝一杯",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l53",
+      "start": 110.69,
+      "end": 112.16,
+      "text": "Drink like a, like a, like a fish",
+      "translation": "像魚一樣喝個不停",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l54",
+      "start": 112.16,
+      "end": 113.63,
+      "text": "딩가딩 링가링",
+      "translation": "Dingga ding ringga ring",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l55",
+      "start": 113.63,
+      "end": 116.23,
+      "text": "노는 게 좋아 Yeah",
+      "translation": "喜歡玩樂 Yeah",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l56",
+      "start": 116.23,
+      "end": 118.63,
+      "text": "딩가딩가 딩가딩가",
+      "translation": "Dingga Dingga Dingga Dingga",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "딩가딩가 딩가딩가",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "딩가딩가 딩가딩가",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 9
+          },
+          "romanizedText": "dinggadingga dinggadingga"
+        }
+      ]
+    },
+    {
+      "id": "l57",
+      "start": 118.63,
+      "end": 120.15,
+      "text": "Ice cream 먹으러 갈래",
+      "translation": "想去吃冰淇淋",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Yeah",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 16,
+            "charEnd": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "l58",
+      "start": 120.15,
+      "end": 122.68,
+      "text": "우리같이",
+      "translation": "和我們一起",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l59",
+      "start": 122.68,
+      "end": 124.12,
+      "text": "딩가딩가할래",
+      "translation": "想要 Dingga Dingga",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l60",
+      "start": 124.12,
+      "end": 126.18,
+      "text": "We all gotta get away",
+      "translation": "我們都得逃離一下",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l61",
+      "start": 126.18,
+      "end": 126.71,
+      "text": "외쳐 Ooh-ooh-ooh",
+      "translation": "喊出來 Ooh-ooh-ooh",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l62",
+      "start": 126.71,
+      "end": 128.68,
+      "text": "Ooh-ooh, ooh-ooh, ah",
+      "translation": "Ooh-ooh, ooh-ooh, ah",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l63",
+      "start": 128.68,
+      "end": 130.57,
+      "text": "Ooh-ooh, ooh-ooh, ah",
+      "translation": "Ooh-ooh, ooh-ooh, ah",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Ooh-ooh, ooh-ooh, ah",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Ooh-ooh, ooh-ooh, ah",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 20
+          }
+        }
+      ]
+    },
+    {
+      "id": "l64",
+      "start": 130.57,
+      "end": 132.54,
+      "text": "딩가딩가할래 Baby",
+      "translation": "想要 Dingga Dingga Baby",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l65",
+      "start": 132.54,
+      "end": 134.4,
+      "text": "Do you wanna dance?",
+      "translation": "你想跳舞嗎？",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l66",
+      "start": 134.4,
+      "end": 136.35,
+      "text": "Ooh-ooh, ooh-ooh, ah",
+      "translation": "Ooh-ooh, ooh-ooh, ah",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l67",
+      "start": 136.35,
+      "end": 138.7,
+      "text": "나나나나나",
+      "translation": "Na na na na na",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "마",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 5,
+            "charEnd": 5
+          },
+          "romanizedText": "ma"
+        }
+      ]
+    },
+    {
+      "id": "l68",
+      "start": 138.7,
+      "end": 140.6,
+      "text": "나나나나나",
+      "translation": "Na na na na na",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "마",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 5,
+            "charEnd": 5
+          },
+          "romanizedText": "ma"
+        }
+      ]
+    },
+    {
+      "id": "l69",
+      "start": 140.6,
+      "end": 142.62,
+      "text": "나나나나나",
+      "translation": "Na na na na na",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "무",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 5,
+            "charEnd": 5
+          },
+          "romanizedText": "mu"
+        }
+      ]
+    },
+    {
+      "id": "l70",
+      "start": 142.62,
+      "end": 143.5,
+      "text": "딩가딩가해",
+      "translation": "Dingga Dingga 起來",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l71",
+      "start": 143.5,
+      "end": 145.45,
+      "text": "딩가딩가할래",
+      "translation": "想要 Dingga Dingga",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l72",
+      "start": 145.45,
+      "end": 147.65,
+      "text": "친구들 모아",
+      "translation": "把朋友們聚起來",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "무무들 모아(MOO MOO們聚起來)",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 6,
+            "charEnd": 6
+          },
+          "romanizedText": "mumudeul moa(MOO MOO們聚起來)"
+        }
+      ]
+    },
+    {
+      "id": "l73",
+      "start": 147.65,
+      "end": 148.59,
+      "text": "한잔할래",
+      "translation": "想喝一杯",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l74",
+      "start": 148.59,
+      "end": 150.31,
+      "text": "Drink like a, like a, like a fish",
+      "translation": "像魚一樣喝個不停",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l75",
+      "start": 150.31,
+      "end": 151.68,
+      "text": "딩가딩 링가링",
+      "translation": "Dingga ding ringga ring",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l76",
+      "start": 151.68,
+      "end": 154.14,
+      "text": "노는 게 좋아 Yeah",
+      "translation": "喜歡玩樂 Yeah",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l77",
+      "start": 154.14,
+      "end": 156.56,
+      "text": "딩가딩가 딩가딩가",
+      "translation": "Dingga Dingga Dingga Dingga",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "딩가딩가 딩가딩가",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "딩가딩가 딩가딩가",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 9
+          },
+          "romanizedText": "dinggadingga dinggadingga"
+        }
+      ]
+    },
+    {
+      "id": "l78",
+      "start": 156.56,
+      "end": 158.31,
+      "text": "Ice cream 먹으러 갈래",
+      "translation": "想去吃冰淇淋",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Yeah",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 16,
+            "charEnd": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "l79",
+      "start": 158.31,
+      "end": 160.57,
+      "text": "우리같이",
+      "translation": "和我們一起",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l80",
+      "start": 160.57,
+      "end": 162.05,
+      "text": "딩가딩가할래",
+      "translation": "想要 Dingga Dingga",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l81",
+      "start": 162.05,
+      "end": 164.26,
+      "text": "We all gotta get away",
+      "translation": "我們都得逃離一下",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l82",
+      "start": 164.26,
+      "end": 164.91,
+      "text": "외쳐 Whoa",
+      "translation": "喊出來 Whoa",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l83",
+      "start": 164.91,
+      "end": 166.71,
+      "text": "Ooh-ooh, ooh-ooh, ah",
+      "translation": "Ooh-ooh, ooh-ooh, ah",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l84",
+      "start": 166.71,
+      "end": 168.37,
+      "text": "Ooh-ooh, ooh-ooh, ah",
+      "translation": "Ooh-ooh, ooh-ooh, ah",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Ooh-ooh, ooh-ooh, ah",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Ooh-ooh, ooh-ooh, ah",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 20
+          }
+        }
+      ]
+    },
+    {
+      "id": "l85",
+      "start": 168.37,
+      "end": 170.49,
+      "text": "딩가딩가할래 Baby",
+      "translation": "想要 Dingga Dingga Baby",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l86",
+      "start": 170.49,
+      "end": 172.35,
+      "text": "Do you wanna dance?",
+      "translation": "你想跳舞嗎？",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l87",
+      "start": 172.35,
+      "end": 174.32,
+      "text": "Ooh-ooh, ooh-ooh, ah",
+      "translation": "Ooh-ooh, ooh-ooh, ah",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l88",
+      "start": 174.32,
+      "end": 176.65,
+      "text": "나나나나나",
+      "translation": "Na na na na na",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "나나나나나",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "나나나나나",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 5
+          },
+          "romanizedText": "nanananana"
+        }
+      ]
+    },
+    {
+      "id": "l89",
+      "start": 176.65,
+      "end": 185.574,
+      "text": "딩가딩가",
+      "translation": "Dingga Dingga",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "딩가딩가",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "딩가딩가",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 4
+          },
+          "romanizedText": "dinggadingga"
+        }
+      ]
+    }
+  ],
+  "chantEvents": [
+    {
+      "id": "chant_mqi9l64x",
+      "start": 4,
+      "end": 7,
+      "text": "김용선(金容仙) 문별이(文星伊) 정휘인(丁輝人) 안혜진(安惠真)",
+      "label": "chant",
+      "romanizedText": null
+    }
+  ],
+  "lyricOffset": 5
+}

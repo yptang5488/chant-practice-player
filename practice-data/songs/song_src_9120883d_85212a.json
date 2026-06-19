@@ -1,0 +1,609 @@
+{
+  "id": "song_src_9120883d_85212a",
+  "title": "MAMAMOO - HIP應援",
+  "artist": "unknown",
+  "audio": {
+    "sourceId": "src_9120883d",
+    "playbackUrl": "./practice-data/audio/song_src_9120883d_85212a.mp3",
+    "duration": 197.880454
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 0.45,
+      "end": 3.42,
+      "text": "All I wanna be is 멋짐 내 마음대로 골라 kick it",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l2",
+      "start": 3.42,
+      "end": 7.22,
+      "text": "머리 어깨 무릎 다 hip해",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l3",
+      "start": 7.22,
+      "end": 10.54,
+      "text": "Do it, do it like me, do it, 나를 따라 해 kick it",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l4",
+      "start": 10.54,
+      "end": 13.48,
+      "text": "Clapping, clapping 모두 같이 hip, hip, hip, hip",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l5",
+      "start": 13.48,
+      "end": 26.64,
+      "text": "(Hip)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "HIP 해 김용선(金容仙) HIP 해 문별이(文星伊) HIP 해 정휘인(丁輝人) HIP 해 안혜진(安惠真) HIP 해 마마무(MAMAMOO) 마마무가 하면 HIP(MAMAMOO 做什麼都很 HIP）",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 5,
+            "charEnd": 5
+          },
+          "romanizedText": "HIP hae gimyongseon(金容仙) HIP hae munbyeori(文星伊) HIP hae jeonghwiin(丁輝人) HIP hae anhyejin(安惠真) HIP hae mamamu(MAMAMOO) mamamuga hamyeon HIP(MAMAMOO 做什麼都很 HIP）"
+        }
+      ]
+    },
+    {
+      "id": "l6",
+      "start": 26.64,
+      "end": 27.38,
+      "text": "(Hip, hip, hip)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l7",
+      "start": 27.38,
+      "end": 30.84,
+      "text": "I love you 네가 뭐라든 간에",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l8",
+      "start": 30.84,
+      "end": 34.64,
+      "text": "Respect you 네가 뭘 하든 간에 (She's crazy)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l9",
+      "start": 34.64,
+      "end": 38.29,
+      "text": "늘 따끈따끈해 그 관심이 따끔따끔해",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l10",
+      "start": 38.29,
+      "end": 41.59,
+      "text": "또 힐끔 힐끔 힐끔 (Hip, hip, hip)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l11",
+      "start": 41.59,
+      "end": 43.15,
+      "text": "이젠 모든 일이 가뿐해 veteran",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l12",
+      "start": 43.15,
+      "end": 44.64,
+      "text": "성공을 썰어 먹어 마치 michelin",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l13",
+      "start": 44.64,
+      "end": 47.01,
+      "text": "누구보다 빠른 걸음을 걸었네 비시즌",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l14",
+      "start": 47.01,
+      "end": 48.73,
+      "text": "잊은 지도 오래야 뒷걸음",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l15",
+      "start": 48.73,
+      "end": 52.56,
+      "text": "All I wanna be is 멋짐 내 멋대로 골라 kick it",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l16",
+      "start": 52.56,
+      "end": 55.45,
+      "text": "머리 어깨 무릎 다 hip (Hip, hip, hip)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l17",
+      "start": 55.45,
+      "end": 58.75,
+      "text": "삐삐삐 논란이 돼 my fashion (Oh)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l18",
+      "start": 58.75,
+      "end": 62.4,
+      "text": "별로 신경 안 써 그저 action (Yeah)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l19",
+      "start": 62.4,
+      "end": 66.07,
+      "text": "자꾸 click me, click me 홀린 듯이 zoom",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l20",
+      "start": 66.07,
+      "end": 69,
+      "text": "Close up, close up, close up",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l21",
+      "start": 69,
+      "end": 73.79,
+      "text": "Hip 해 hip, hip 머리 어깨 무릎 hip",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l22",
+      "start": 73.79,
+      "end": 76.86,
+      "text": "Hip, hip, hi-hi-hi-hip 해",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l23",
+      "start": 76.86,
+      "end": 80.28,
+      "text": "Hip, hip 머리 어깨 무릎 hip",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l24",
+      "start": 80.28,
+      "end": 83.07,
+      "text": "(Hip, hip) Hi-hi-hi-hip 해 hip (Hip, hip, hip)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l25",
+      "start": 83.07,
+      "end": 86.72,
+      "text": "(Attention) 어딜 가든 넌",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l26",
+      "start": 86.72,
+      "end": 90.42,
+      "text": "(Reflection) 빛날 수 있어 (Yeah)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l27",
+      "start": 90.42,
+      "end": 94.07,
+      "text": "세상에 넌 하나뿐인 걸",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l28",
+      "start": 94.07,
+      "end": 97.36,
+      "text": "근데 왜이래 네 얼굴에 침 뱉니 (칵투)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l29",
+      "start": 97.36,
+      "end": 99.34,
+      "text": "날 자극한 여러분 감사",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l30",
+      "start": 99.34,
+      "end": 100.86,
+      "text": "거기서 멈춘 찌질이 반사",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l31",
+      "start": 100.86,
+      "end": 103.01,
+      "text": "덕분에 나의 멘탈은 단단해",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l32",
+      "start": 103.01,
+      "end": 104.36,
+      "text": "난 다음 앨범 만들러 갈게",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l33",
+      "start": 104.36,
+      "end": 108.18,
+      "text": "All you wanna be is trendy 어그로 끌기 gimmick 때찌",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l34",
+      "start": 108.18,
+      "end": 111.16,
+      "text": "그런 애들 끼리끼리 hip (Hip, hip, hip)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l35",
+      "start": 111.16,
+      "end": 114.65,
+      "text": "삐삐삐 논란이 돼 my fashion (Oh)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l36",
+      "start": 114.65,
+      "end": 117.43,
+      "text": "별로 신경 안 써 그저 action (Yeah)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l37",
+      "start": 117.43,
+      "end": 122.14,
+      "text": "자꾸 click me, click me 홀린 듯이 zoom",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l38",
+      "start": 122.14,
+      "end": 124.7,
+      "text": "Close up, close up, close up",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l39",
+      "start": 124.7,
+      "end": 128.98,
+      "text": "Hip 해 hip, hip 머리 어깨 무릎 hip",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l40",
+      "start": 128.98,
+      "end": 132.44,
+      "text": "Hip, hip, hi-hi-hi-hip 해",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l41",
+      "start": 132.44,
+      "end": 135.89,
+      "text": "Hip, hip 머리 어깨 무릎 hip",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l42",
+      "start": 135.89,
+      "end": 138.93,
+      "text": "(Hip, hip) Hi-hi-hi-hip 해 hip (Hip, hip, hip)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l43",
+      "start": 138.93,
+      "end": 140.98,
+      "text": "코 묻은 티 삐져나온 입",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l44",
+      "start": 140.98,
+      "end": 142.51,
+      "text": "떡진 머리 난 상관없지",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l45",
+      "start": 142.51,
+      "end": 144.16,
+      "text": "코 묻은 티 삐져나온 입",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l46",
+      "start": 144.16,
+      "end": 146.05,
+      "text": "떡진 머리 내가 하면 hip",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l47",
+      "start": 146.05,
+      "end": 147.86,
+      "text": "코 묻은 티 삐져나온 팬티",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l48",
+      "start": 147.86,
+      "end": 149.63,
+      "text": "떡진 머리 난 상관없지",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l49",
+      "start": 149.63,
+      "end": 150.96,
+      "text": "코 묻은 티 삐져나온 팬티",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l50",
+      "start": 150.96,
+      "end": 166.63,
+      "text": "떡진 머리 내가 하면 hip",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l51",
+      "start": 166.63,
+      "end": 170.32,
+      "text": "삐삐삐 논란이 돼 my fashion (Oh)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l52",
+      "start": 170.32,
+      "end": 173.84,
+      "text": "별로 신경 안 써 그저 action (Yeah)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l53",
+      "start": 173.84,
+      "end": 177.5,
+      "text": "자꾸 click me, click me 홀린 듯이 zoom",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l54",
+      "start": 177.5,
+      "end": 180.1,
+      "text": "Close up, close up, close up",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l55",
+      "start": 180.1,
+      "end": 184.61,
+      "text": "Hip 해 hip, hip 머리 어깨 무릎 hip",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l56",
+      "start": 184.61,
+      "end": 188.22,
+      "text": "Hip, hip, hi-hi-hi-hip 해",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l57",
+      "start": 188.22,
+      "end": 191.33,
+      "text": "Hip, hip 머리 어깨 무릎 hip",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l58",
+      "start": 191.33,
+      "end": 197.88,
+      "text": "(Hip, hip) Hi-hi-hi-hip 해 hip (Hip, hip, hip)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    }
+  ],
+  "chantEvents": [],
+  "lyricOffset": 0
+}

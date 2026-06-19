@@ -1,0 +1,1116 @@
+{
+  "id": "song_src_aaf2a49c_da3ed6",
+  "title": "4 Flowers",
+  "artist": "MAMAMOO",
+  "audio": {
+    "sourceId": "src_29de72a6",
+    "playbackUrl": "./practice-data/audio/song_src_aaf2a49c_da3ed6.mp3",
+    "duration": 197.880454
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 12.266,
+      "end": 16.384,
+      "text": "화려하게 빛날 때",
+      "translation": "當絢爛地發光時",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l2",
+      "start": 16.384,
+      "end": 21.756,
+      "text": "활짝 피운 꽃은 지겠지",
+      "translation": "盛放的花終會凋謝吧",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l3",
+      "start": 21.756,
+      "end": 24.884,
+      "text": "한순간 깊게 물들어",
+      "translation": "一瞬間深深染上色彩",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l4",
+      "start": 24.884,
+      "end": 29.237,
+      "text": "봄날처럼 스치듯 안녕",
+      "translation": "像春日般擦身而過，道聲再見",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l5",
+      "start": 29.237,
+      "end": 32.264,
+      "text": "그을린 채로 깊게 패인",
+      "translation": "被灼傷後深深刻下痕跡",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "패인",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "패인",
+            "occurrence": 1,
+            "charStart": 10,
+            "charEnd": 12
+          },
+          "romanizedText": "paein"
+        }
+      ]
+    },
+    {
+      "id": "l6",
+      "start": 32.264,
+      "end": 34.213,
+      "text": "World turns blue, I’m the only one in pain?",
+      "translation": "世界轉為藍色，只有我一個人在痛嗎？",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "pain",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "pain",
+            "occurrence": 1,
+            "charStart": 38,
+            "charEnd": 42
+          }
+        }
+      ]
+    },
+    {
+      "id": "l7",
+      "start": 34.213,
+      "end": 36.173,
+      "text": "날카롭게 베인 상처 틈에 갇힌 채",
+      "translation": "被銳利割開的傷口縫隙中，就這樣被困住",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "베인",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "베인",
+            "occurrence": 1,
+            "charStart": 5,
+            "charEnd": 7
+          },
+          "romanizedText": "bein"
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "채",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "채",
+            "occurrence": 1,
+            "charStart": 17,
+            "charEnd": 18
+          },
+          "romanizedText": "chae"
+        }
+      ]
+    },
+    {
+      "id": "l8",
+      "start": 36.173,
+      "end": 39.743,
+      "text": "내내 계속돼 밤새 거친 호흡",
+      "translation": "整夜不停延續著粗重的呼吸",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "돼 ",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "돼 ",
+            "occurrence": 1,
+            "charStart": 5,
+            "charEnd": 7
+          },
+          "romanizedText": "dwae "
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "호",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "호",
+            "occurrence": 1,
+            "charStart": 13,
+            "charEnd": 14
+          },
+          "romanizedText": "ho"
+        }
+      ]
+    },
+    {
+      "id": "l9",
+      "start": 39.743,
+      "end": 41.75,
+      "text": "One for the memories, two for the flame",
+      "translation": "一獻給回憶，二獻給火焰",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "flame",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "flame",
+            "occurrence": 1,
+            "charStart": 34,
+            "charEnd": 39
+          }
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "start": 41.75,
+      "end": 44.229,
+      "text": "Three for the silence, four for the shame",
+      "translation": "三獻給沉默，四獻給羞愧",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "shame",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "shame",
+            "occurrence": 1,
+            "charStart": 36,
+            "charEnd": 41
+          }
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "start": 44.229,
+      "end": 48.103,
+      "text": "그 계절이 지나간 그 자리에",
+      "translation": "在那個季節走過後留下的位置",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l12",
+      "start": 48.103,
+      "end": 52.1,
+      "text": "꽃은 피고 꽃은 다시 지고",
+      "translation": "花會綻放，花也會再次凋謝",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "지고",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 14,
+            "charEnd": 14
+          },
+          "romanizedText": "jigo"
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "피고",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 5,
+            "charEnd": 5
+          },
+          "romanizedText": "pigo"
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "start": 52.1,
+      "end": 57.024,
+      "text": "이별 뒤에 우린 더 사랑하고",
+      "translation": "離別之後，我們更加相愛",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "사랑해",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 15,
+            "charEnd": 15
+          },
+          "romanizedText": "saranghae"
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "start": 57.024,
+      "end": 61.586,
+      "text": "흩어져도 뿌리는 하난 걸",
+      "translation": "就算散落，根仍是同一個",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l15",
+      "start": 61.586,
+      "end": 66.314,
+      "text": "이별 그 후에 다시 피우는 꽃",
+      "translation": "離別之後再次綻放的花",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l16",
+      "start": 66.314,
+      "end": 68.679,
+      "text": "4 Flowers eh eh eh",
+      "translation": "四朵花 eh eh eh",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "eh eh eh",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "eh eh eh",
+            "occurrence": 1,
+            "charStart": 10,
+            "charEnd": 18
+          }
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "start": 68.679,
+      "end": 70.686,
+      "text": "As petals shed eh eh",
+      "translation": "當花瓣飄落 eh eh",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "shed eh eh",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "shed eh eh",
+            "occurrence": 1,
+            "charStart": 10,
+            "charEnd": 20
+          }
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "start": 70.686,
+      "end": 75.38,
+      "text": "4 Flowers eh eh eh",
+      "translation": "四朵花 eh eh eh",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "eh eh eh",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "eh eh eh",
+            "occurrence": 1,
+            "charStart": 10,
+            "charEnd": 18
+          }
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "start": 75.38,
+      "end": 78.166,
+      "text": "4 Flowers eh eh eh",
+      "translation": "四朵花 eh eh eh",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "eh eh eh",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "eh eh eh",
+            "occurrence": 1,
+            "charStart": 10,
+            "charEnd": 18
+          }
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "start": 78.166,
+      "end": 80.004,
+      "text": "As petals shed eh eh",
+      "translation": "當花瓣飄落 eh eh",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "shed eh eh",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "shed eh eh",
+            "occurrence": 1,
+            "charStart": 10,
+            "charEnd": 20
+          }
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "start": 80.004,
+      "end": 86.09,
+      "text": "4 Flowers eh eh eh",
+      "translation": "四朵花 eh eh eh",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l22",
+      "start": 86.09,
+      "end": 88.228,
+      "text": "Falling petals",
+      "translation": "飄落的花瓣",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l23",
+      "start": 88.228,
+      "end": 90.331,
+      "text": "Deeper traces",
+      "translation": "更深的痕跡",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l24",
+      "start": 90.331,
+      "end": 94.231,
+      "text": "절대 멈추지 않을 Flow",
+      "translation": "絕不會停止的流動",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l25",
+      "start": 94.231,
+      "end": 95.83,
+      "text": "멀어졌던 way ey ey",
+      "translation": "曾經遠去的路 ey ey",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "way ey ey",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "way ey ey",
+            "occurrence": 1,
+            "charStart": 5,
+            "charEnd": 14
+          }
+        }
+      ]
+    },
+    {
+      "id": "l26",
+      "start": 95.83,
+      "end": 99.589,
+      "text": "웅크린 후에야 Breathe again e e (고개를 들어)",
+      "translation": "蜷縮過後才再次呼吸 e e（抬起頭）",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "gain e e ",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "gain e e ",
+            "occurrence": 1,
+            "charStart": 17,
+            "charEnd": 26
+          }
+        }
+      ]
+    },
+    {
+      "id": "l27",
+      "start": 99.589,
+      "end": 103.64,
+      "text": "끝이 끝나지 않도록 oh",
+      "translation": "讓結束不再結束 oh",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l28",
+      "start": 103.64,
+      "end": 105.9,
+      "text": "You're a flower that fell, scattered in the breeze",
+      "translation": "你是一朵落下、在微風中散開的花",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "fell",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "fell",
+            "occurrence": 1,
+            "charStart": 21,
+            "charEnd": 25
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "breeze",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "breeze",
+            "occurrence": 1,
+            "charStart": 44,
+            "charEnd": 50
+          }
+        }
+      ]
+    },
+    {
+      "id": "l29",
+      "start": 105.9,
+      "end": 108.216,
+      "text": "I'm the soil beneath, keeping all your memories",
+      "translation": "我是底下的土壤，保存著你所有的記憶",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "all your memories",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "all your memories",
+            "occurrence": 1,
+            "charStart": 30,
+            "charEnd": 47
+          }
+        }
+      ]
+    },
+    {
+      "id": "l30",
+      "start": 108.216,
+      "end": 110.326,
+      "text": "만남 이별 다 똑같지만",
+      "translation": "相遇與離別都一樣",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "만남 이별",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "만남 이별",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 5
+          },
+          "romanizedText": "mannam ibyeol"
+        }
+      ]
+    },
+    {
+      "id": "l31",
+      "start": 110.326,
+      "end": 112.813,
+      "text": "확실한 건 오직 내 결정",
+      "translation": "唯一確定的是我的決定",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l32",
+      "start": 112.813,
+      "end": 114.886,
+      "text": "One for the memories, two for the flame",
+      "translation": "一獻給回憶，二獻給火焰",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "flame",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "flame",
+            "occurrence": 1,
+            "charStart": 34,
+            "charEnd": 39
+          }
+        }
+      ]
+    },
+    {
+      "id": "l33",
+      "start": 114.886,
+      "end": 117.384,
+      "text": "Three for the silence, four for the shame",
+      "translation": "三獻給沉默，四獻給羞愧",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "shame",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "shame",
+            "occurrence": 1,
+            "charStart": 36,
+            "charEnd": 41
+          }
+        }
+      ]
+    },
+    {
+      "id": "l34",
+      "start": 117.384,
+      "end": 121.237,
+      "text": "우리가 지나온 그 자리에",
+      "translation": "在我們一路走過的那個位置",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l35",
+      "start": 121.237,
+      "end": 125.511,
+      "text": "꽃은 피고 꽃은 다시 지고",
+      "translation": "花會綻放，花也會再次凋謝",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "피고",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 5,
+            "charEnd": 5
+          },
+          "romanizedText": "pigo"
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "지고",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 14,
+            "charEnd": 14
+          },
+          "romanizedText": "jigo"
+        }
+      ]
+    },
+    {
+      "id": "l36",
+      "start": 125.511,
+      "end": 130.043,
+      "text": "이별 뒤에 우린 더 사랑하고",
+      "translation": "離別之後，我們更加相愛",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "사랑해",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 15,
+            "charEnd": 15
+          },
+          "romanizedText": "saranghae"
+        }
+      ]
+    },
+    {
+      "id": "l37",
+      "start": 130.043,
+      "end": 134.908,
+      "text": "흩어져도 뿌리는 하난 걸",
+      "translation": "就算散落，根仍是同一個",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l38",
+      "start": 134.908,
+      "end": 139.258,
+      "text": "이별 그 후에 다시 피우는 꽃",
+      "translation": "離別之後再次綻放的花",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l39",
+      "start": 139.258,
+      "end": 141.175,
+      "text": "Only for flowers",
+      "translation": "只為了花",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Only for flowers",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Only for flowers",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "l40",
+      "start": 141.175,
+      "end": 143.937,
+      "text": "여기 다시 그 위로",
+      "translation": "在這裡，再次往那之上",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l41",
+      "start": 143.937,
+      "end": 145.52,
+      "text": "Only for flowers",
+      "translation": "只為了花",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Only for flowers",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Only for flowers",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "l42",
+      "start": 145.52,
+      "end": 148.393,
+      "text": "흩날리던 기억들 다 모아",
+      "translation": "把那些飄散的記憶全都聚集起來",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l43",
+      "start": 148.393,
+      "end": 150.351,
+      "text": "Don’t let them slip away",
+      "translation": "別讓它們溜走",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l44",
+      "start": 150.351,
+      "end": 155.538,
+      "text": "We bring the light inside our hearts",
+      "translation": "我們把光帶進心裡",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l45",
+      "start": 155.538,
+      "end": 158.448,
+      "text": "새롭게 다시 피어나",
+      "translation": "嶄新地再次綻放",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l46",
+      "start": 158.448,
+      "end": 160.291,
+      "text": "4 Flowers (I’m still here)",
+      "translation": "四朵花（我仍在這裡）",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "4 Flowers",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "4 Flowers",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "l47",
+      "start": 160.291,
+      "end": 162.669,
+      "text": "4 Flowers (Burning red)",
+      "translation": "四朵花（燃燒成紅）",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "4 Flowers",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "4 Flowers",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "l48",
+      "start": 162.669,
+      "end": 164.784,
+      "text": "4 Flowers (Never disappear)",
+      "translation": "四朵花（永不消失）",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "4 Flowers ",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "4 Flowers ",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": "l49",
+      "start": 164.784,
+      "end": 167.44,
+      "text": "4 Flowers",
+      "translation": "四朵花",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "4 Flowers",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "4 Flowers",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "l50",
+      "start": 167.44,
+      "end": 172.338,
+      "text": "4 Flowers",
+      "translation": "四朵花",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l51",
+      "start": 172.338,
+      "end": 176.423,
+      "text": "4 Flowers",
+      "translation": "四朵花",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l52",
+      "start": 176.423,
+      "end": 178.448,
+      "text": "4 Flowers eh eh eh",
+      "translation": "四朵花 eh eh eh",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "eh eh eh",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "eh eh eh",
+            "occurrence": 1,
+            "charStart": 10,
+            "charEnd": 18
+          }
+        }
+      ]
+    },
+    {
+      "id": "l53",
+      "start": 178.448,
+      "end": 180.521,
+      "text": "As petals shed eh eh",
+      "translation": "當花瓣飄落 eh eh",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "shed eh eh",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "shed eh eh",
+            "occurrence": 1,
+            "charStart": 10,
+            "charEnd": 20
+          }
+        }
+      ]
+    },
+    {
+      "id": "l54",
+      "start": 180.521,
+      "end": 185.563,
+      "text": "4 Flowers eh eh eh",
+      "translation": "四朵花 eh eh eh",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "eh eh eh",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "eh eh eh",
+            "occurrence": 1,
+            "charStart": 10,
+            "charEnd": 18
+          }
+        }
+      ]
+    },
+    {
+      "id": "l55",
+      "start": 185.563,
+      "end": 189.865,
+      "text": "꽃은 피고 꽃은 다시 지고",
+      "translation": "花會綻放，花也會再次凋謝",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l56",
+      "start": 189.865,
+      "end": 202.803,
+      "text": "이별 뒤에 우린 더 사랑하고",
+      "translation": "離別之後，我們更加相愛",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "(SCREAM!!!!)",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 15,
+            "charEnd": 15
+          }
+        }
+      ]
+    }
+  ],
+  "chantEvents": [
+    {
+      "id": "chant_mqgymafj",
+      "start": 3,
+      "end": 7,
+      "text": "김용선(金容仙) 문별이(文星伊) 정휘인(丁輝人) 안혜진(安惠真)",
+      "label": "chant",
+      "romanizedText": null
+    },
+    {
+      "id": "chant_mqgykple",
+      "start": 7,
+      "end": 12,
+      "text": "마마무 무무랑 포.플.라.워",
+      "label": "chant",
+      "romanizedText": null
+    }
+  ],
+  "lyricOffset": -1
+}

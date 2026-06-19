@@ -1,0 +1,1630 @@
+{
+  "id": "song_src_3217368a_4037d6",
+  "title": "고고베베(gogobebe)",
+  "artist": "MAMAMOO",
+  "audio": {
+    "sourceId": "src_3217368a",
+    "playbackUrl": "./practice-data/audio/song_src_3217368a_4037d6.mp3",
+    "duration": 245.620688
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 0.82,
+      "end": 3.02,
+      "text": "일루와 일루와 일루와",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l2",
+      "start": 3.02,
+      "end": 5.94,
+      "text": "일루와 일루와 일루와",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "김용선",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 11,
+            "charEnd": 11
+          },
+          "romanizedText": "gimyongseon"
+        }
+      ]
+    },
+    {
+      "id": "l3",
+      "start": 5.94,
+      "end": 7.88,
+      "text": "일루와 일루와 일루와",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l4",
+      "start": 7.88,
+      "end": 10.94,
+      "text": "일루와 일루와 일루와",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "안혜진",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 11,
+            "charEnd": 11
+          },
+          "romanizedText": "anhyejin"
+        }
+      ]
+    },
+    {
+      "id": "l5",
+      "start": 10.94,
+      "end": 12.28,
+      "text": "폰은 저리 치워",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l6",
+      "start": 12.28,
+      "end": 13.44,
+      "text": "끼는 좀 더 부려",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l7",
+      "start": 13.44,
+      "end": 15.84,
+      "text": "골치 아픈 건 던져",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l8",
+      "start": 15.84,
+      "end": 17.99,
+      "text": "여기서 한 잔에 상처를 다 마셔",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l9",
+      "start": 17.99,
+      "end": 20.99,
+      "text": "착한 척은 그만둬",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "정휘인",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 9,
+            "charEnd": 9
+          },
+          "romanizedText": "jeonghwiin"
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "start": 20.99,
+      "end": 23.65,
+      "text": "붐 까까꿍 타다둥",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l11",
+      "start": 23.65,
+      "end": 26.04,
+      "text": "리듬에 몸을 맡겨",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l12",
+      "start": 26.04,
+      "end": 29.51,
+      "text": "뻔뻔하게 놀아 라라라",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "라 라 라",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "라라라",
+            "occurrence": 1,
+            "charStart": 8,
+            "charEnd": 11
+          },
+          "romanizedText": "ra ra ra"
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "start": 29.51,
+      "end": 33.03,
+      "text": "야야 하루 아침에 내가 변한 건 아냐",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l14",
+      "start": 33.03,
+      "end": 35.26,
+      "text": "별거 아닌 거에 의미 갖지 마 인마 어우 얘",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "문별이",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "마",
+            "occurrence": 1,
+            "charStart": 15,
+            "charEnd": 16
+          },
+          "romanizedText": "munbyeori"
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "start": 35.26,
+      "end": 36.45,
+      "text": "괜한 antipathy",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l16",
+      "start": 36.45,
+      "end": 38.15,
+      "text": "등 떠민 적 없지",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l17",
+      "start": 38.15,
+      "end": 38.6,
+      "text": "아이고 아이고 butterfly",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l18",
+      "start": 38.6,
+      "end": 40.16,
+      "text": "그냥 잔을 부딪쳐 zzann",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "zzann",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "zzann",
+            "occurrence": 1,
+            "charStart": 10,
+            "charEnd": 15
+          }
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "start": 40.16,
+      "end": 43.4,
+      "text": "It's okay to not be fine",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l20",
+      "start": 43.4,
+      "end": 45.39,
+      "text": "괜찮지 않아도 괜찮아",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l21",
+      "start": 45.39,
+      "end": 48.06,
+      "text": "뻔뻔하게 즐겨",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l22",
+      "start": 48.06,
+      "end": 49.38,
+      "text": "Drop, drop, drop",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "drop drop drop",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Drop, drop, drop",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "l23",
+      "start": 49.38,
+      "end": 50.17,
+      "text": "고고베베",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "고고베베",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "고고베베",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 4
+          },
+          "romanizedText": "gogobebe"
+        }
+      ]
+    },
+    {
+      "id": "l24",
+      "start": 50.17,
+      "end": 53.02,
+      "text": "던져 버려 suit & tie",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "숫앤타이",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "tie",
+            "occurrence": 1,
+            "charStart": 13,
+            "charEnd": 16,
+            "sourceMark": "strikethrough"
+          },
+          "romanizedText": "susaentai"
+        }
+      ]
+    },
+    {
+      "id": "l25",
+      "start": 53.02,
+      "end": 55.12,
+      "text": "드레스 코든 bling, bling, bling",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "고고베베",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 26,
+            "charEnd": 26
+          },
+          "romanizedText": "gogobebe"
+        }
+      ]
+    },
+    {
+      "id": "l26",
+      "start": 55.12,
+      "end": 57.97,
+      "text": "너와 나의 mix & match",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "믹샌매치",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "match",
+            "occurrence": 1,
+            "charStart": 12,
+            "charEnd": 17,
+            "sourceMark": "strikethrough"
+          },
+          "romanizedText": "miksaenmaechi"
+        }
+      ]
+    },
+    {
+      "id": "l27",
+      "start": 57.97,
+      "end": 59.36,
+      "text": "빼지 말고 drunken, drunken",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l28",
+      "start": 59.36,
+      "end": 60.34,
+      "text": "고고베베",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "고고베베",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "고고베베",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 4
+          },
+          "romanizedText": "gogobebe"
+        }
+      ]
+    },
+    {
+      "id": "l29",
+      "start": 60.34,
+      "end": 62.66,
+      "text": "뻔뻔하게 놀아",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "놀아",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "놀아",
+            "occurrence": 1,
+            "charStart": 5,
+            "charEnd": 7
+          },
+          "romanizedText": "nora"
+        }
+      ]
+    },
+    {
+      "id": "l30",
+      "start": 62.66,
+      "end": 65.01,
+      "text": "미친 듯이 즐겨",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "즐겨",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "즐겨",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 8
+          },
+          "romanizedText": "jeulgyeo"
+        }
+      ]
+    },
+    {
+      "id": "l31",
+      "start": 65.01,
+      "end": 67.47,
+      "text": "필요 없어 wrong & right",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "뤙앤라잇",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "right",
+            "occurrence": 1,
+            "charStart": 14,
+            "charEnd": 19,
+            "sourceMark": "strikethrough"
+          },
+          "romanizedText": "rwongaenrait"
+        }
+      ]
+    },
+    {
+      "id": "l32",
+      "start": 67.47,
+      "end": 69.08,
+      "text": "On and on, on and on",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l33",
+      "start": 69.08,
+      "end": 70.56,
+      "text": "고고베베",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "고고베베",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "고고베베",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 4
+          },
+          "romanizedText": "gogobebe"
+        }
+      ]
+    },
+    {
+      "id": "l34",
+      "start": 70.56,
+      "end": 72.25,
+      "text": "일루와 일루와 일루와",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l35",
+      "start": 72.25,
+      "end": 73.94,
+      "text": "일루와 일루와 일루와",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l36",
+      "start": 73.94,
+      "end": 75.45,
+      "text": "고고베베",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l37",
+      "start": 75.45,
+      "end": 77.2,
+      "text": "일루와 일루와 일루와",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l38",
+      "start": 77.2,
+      "end": 78.88,
+      "text": "일루와 일루와 일루와",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l39",
+      "start": 78.88,
+      "end": 81.64,
+      "text": "고고베베",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l40",
+      "start": 81.64,
+      "end": 82.69,
+      "text": "Look up the hill",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l41",
+      "start": 82.69,
+      "end": 83.93,
+      "text": "Focus, focus, focus",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l42",
+      "start": 83.93,
+      "end": 85.18,
+      "text": "난 나의 피사체",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l43",
+      "start": 85.18,
+      "end": 87.41,
+      "text": "무시해 잔소린 음소거 click, click 삑",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "click click 삑",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "click, click 삑",
+            "occurrence": 1,
+            "charStart": 12,
+            "charEnd": 26
+          },
+          "romanizedText": "click click ppik"
+        }
+      ]
+    },
+    {
+      "id": "l44",
+      "start": 87.41,
+      "end": 88.96,
+      "text": "이렇다 저렇다 가타부타",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l45",
+      "start": 88.96,
+      "end": 90.55,
+      "text": "꼭 말 많은 애들이 먼저",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l46",
+      "start": 90.55,
+      "end": 91.56,
+      "text": "영화에선 die해",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l47",
+      "start": 91.56,
+      "end": 92.32,
+      "text": "So raise 자기애",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l48",
+      "start": 92.32,
+      "end": 94.85,
+      "text": "It's okay to not be fine",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l49",
+      "start": 94.85,
+      "end": 97.73,
+      "text": "괜찮지 않아도 괜찮아",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l50",
+      "start": 97.73,
+      "end": 100.02,
+      "text": "뻔뻔하게 즐겨",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l51",
+      "start": 100.02,
+      "end": 100.84,
+      "text": "Drop, drop, drop",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Drop, drop, drop",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Drop, drop, drop",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "l52",
+      "start": 100.84,
+      "end": 102.5,
+      "text": "고고베베",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "고고베베",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "고고베베",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 4
+          },
+          "romanizedText": "gogobebe"
+        }
+      ]
+    },
+    {
+      "id": "l53",
+      "start": 102.5,
+      "end": 104.5,
+      "text": "던져 버려 suit & tie",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "숫앤타이",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "tie",
+            "occurrence": 1,
+            "charStart": 13,
+            "charEnd": 16
+          },
+          "romanizedText": "susaentai"
+        }
+      ]
+    },
+    {
+      "id": "l54",
+      "start": 104.5,
+      "end": 106.71,
+      "text": "드레스 코든 bling, bling, bling",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "고고베베",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 26,
+            "charEnd": 26
+          },
+          "romanizedText": "gogobebe"
+        }
+      ]
+    },
+    {
+      "id": "l55",
+      "start": 106.71,
+      "end": 109.42,
+      "text": "너와 나의 mix & match",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "믹샌매치",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "match",
+            "occurrence": 1,
+            "charStart": 12,
+            "charEnd": 17
+          },
+          "romanizedText": "miksaenmaechi"
+        }
+      ]
+    },
+    {
+      "id": "l56",
+      "start": 109.42,
+      "end": 110.93,
+      "text": "빼지 말고 drunken, drunken",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l57",
+      "start": 110.93,
+      "end": 112.49,
+      "text": "고고베베",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "고고베베",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "고고베베",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 4
+          },
+          "romanizedText": "gogobebe"
+        }
+      ]
+    },
+    {
+      "id": "l58",
+      "start": 112.49,
+      "end": 114.98,
+      "text": "뻔뻔하게 놀아",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "놀아",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "놀아",
+            "occurrence": 1,
+            "charStart": 5,
+            "charEnd": 7
+          },
+          "romanizedText": "nora"
+        }
+      ]
+    },
+    {
+      "id": "l59",
+      "start": 114.98,
+      "end": 117.07,
+      "text": "미친 듯이 즐겨",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "즐겨",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "즐겨",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 8
+          },
+          "romanizedText": "jeulgyeo"
+        }
+      ]
+    },
+    {
+      "id": "l60",
+      "start": 117.07,
+      "end": 119.85,
+      "text": "필요 없어 wrong & right",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "뤙앤라잇",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "right",
+            "occurrence": 1,
+            "charStart": 14,
+            "charEnd": 19
+          },
+          "romanizedText": "rwongaenrait"
+        }
+      ]
+    },
+    {
+      "id": "l61",
+      "start": 119.85,
+      "end": 121,
+      "text": "On and on, on and on",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l62",
+      "start": 121,
+      "end": 122.43,
+      "text": "고고베베",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "고고베베",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "고고베베",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 4
+          },
+          "romanizedText": "gogobebe"
+        }
+      ]
+    },
+    {
+      "id": "l63",
+      "start": 122.43,
+      "end": 124.24,
+      "text": "일루와 일루와 일루와",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l64",
+      "start": 124.24,
+      "end": 126.36,
+      "text": "일루와 일루와 일루와",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l65",
+      "start": 126.36,
+      "end": 127.49,
+      "text": "고고베베",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l66",
+      "start": 127.49,
+      "end": 128.48,
+      "text": "일루와 일루와 일루와",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l67",
+      "start": 128.48,
+      "end": 130.5,
+      "text": "일루와 일루와 일루와",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l68",
+      "start": 130.5,
+      "end": 131.89,
+      "text": "고고베베",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l69",
+      "start": 131.89,
+      "end": 135.36,
+      "text": "Nine, slash, six",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Nine, slash, six",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Nine, slash, six",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "l70",
+      "start": 135.36,
+      "end": 136.74,
+      "text": "Six, nineteen",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Six nineteen",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Six, nineteen",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l71",
+      "start": 136.74,
+      "end": 140.29,
+      "text": "Nine, slash, six",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Nine, slash, six",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Nine, slash, six",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "l72",
+      "start": 140.29,
+      "end": 141.5,
+      "text": "Gogobebe",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Gogobebe",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Gogobebe",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 8
+          }
+        }
+      ]
+    },
+    {
+      "id": "l73",
+      "start": 141.5,
+      "end": 143.83,
+      "text": "몸 다 풀었어",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "다 풀었어",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 7,
+            "charEnd": 7
+          },
+          "romanizedText": "da pureosseo"
+        }
+      ]
+    },
+    {
+      "id": "l74",
+      "start": 143.83,
+      "end": 146.1,
+      "text": "미칠 준비가 됐어",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "준비가 됐어",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 9,
+            "charEnd": 9
+          },
+          "romanizedText": "junbiga dwaesseo"
+        }
+      ]
+    },
+    {
+      "id": "l75",
+      "start": 146.1,
+      "end": 148.66,
+      "text": "시작해, whoa-ah-ah-ay-ya",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l76",
+      "start": 148.66,
+      "end": 150.4,
+      "text": "다들 난리가 나 나",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l77",
+      "start": 150.4,
+      "end": 152.77,
+      "text": "난리가 나",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l78",
+      "start": 152.77,
+      "end": 154.59,
+      "text": "고고베베",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "짝-짝-짝",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 0,
+            "charEnd": 0
+          },
+          "romanizedText": "jjak-jjak-jjak"
+        }
+      ]
+    },
+    {
+      "id": "l79",
+      "start": 154.59,
+      "end": 156.44,
+      "text": "던져 버려 suit & tie",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "숫앤타이",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "tie",
+            "occurrence": 1,
+            "charStart": 13,
+            "charEnd": 16
+          },
+          "romanizedText": "susaentai"
+        }
+      ]
+    },
+    {
+      "id": "l80",
+      "start": 156.44,
+      "end": 158.91,
+      "text": "드레스 코든 bling, bling, bling",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l81",
+      "start": 158.91,
+      "end": 161.31,
+      "text": "너와 나의 mix & match",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "믹샌매치",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "match",
+            "occurrence": 1,
+            "charStart": 12,
+            "charEnd": 17
+          },
+          "romanizedText": "miksaenmaechi"
+        }
+      ]
+    },
+    {
+      "id": "l82",
+      "start": 161.31,
+      "end": 162.89,
+      "text": "빼지 말고 drunken, drunken",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l83",
+      "start": 162.89,
+      "end": 164.31,
+      "text": "고고베베",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "고고베베",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "고고베베",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 4
+          },
+          "romanizedText": "gogobebe"
+        }
+      ]
+    },
+    {
+      "id": "l84",
+      "start": 164.31,
+      "end": 166.32,
+      "text": "뻔뻔하게 놀아",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "놀아",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "놀아",
+            "occurrence": 1,
+            "charStart": 5,
+            "charEnd": 7
+          },
+          "romanizedText": "nora"
+        }
+      ]
+    },
+    {
+      "id": "l85",
+      "start": 166.32,
+      "end": 168.8,
+      "text": "미친 듯이 즐겨",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "즐겨",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "즐겨",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 8
+          },
+          "romanizedText": "jeulgyeo"
+        }
+      ]
+    },
+    {
+      "id": "l86",
+      "start": 168.8,
+      "end": 171.43,
+      "text": "필요 없어 wrong & right",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "뤙앤라잇",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "right",
+            "occurrence": 1,
+            "charStart": 14,
+            "charEnd": 19
+          },
+          "romanizedText": "rwongaenrait"
+        }
+      ]
+    },
+    {
+      "id": "l87",
+      "start": 171.43,
+      "end": 172.55,
+      "text": "On and on, on and on",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l88",
+      "start": 172.55,
+      "end": 174.1,
+      "text": "고고베베",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "고고베베",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "고고베베",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 4
+          },
+          "romanizedText": "gogobebe"
+        }
+      ]
+    },
+    {
+      "id": "l89",
+      "start": 174.1,
+      "end": 176.12,
+      "text": "일루와 일루와 일루와",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l90",
+      "start": 176.12,
+      "end": 177.72,
+      "text": "일루와 일루와 일루와",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l91",
+      "start": 177.72,
+      "end": 179.35,
+      "text": "고고베베",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l92",
+      "start": 179.35,
+      "end": 181.12,
+      "text": "일루와 일루와 일루와",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l93",
+      "start": 181.12,
+      "end": 182.96,
+      "text": "일루와 일루와 일루와",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l94",
+      "start": 182.96,
+      "end": 186.1,
+      "text": "고고베베",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "김용선 문별이",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 4,
+            "charEnd": 4
+          },
+          "romanizedText": "gimyongseon munbyeori"
+        }
+      ]
+    },
+    {
+      "id": "l95",
+      "start": 186.1,
+      "end": 191.09,
+      "text": "고고베베",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "정휘인 안혜진 마마무",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 0,
+            "charEnd": 0
+          },
+          "romanizedText": "jeonghwiin anhyejin mamamu"
+        }
+      ]
+    },
+    {
+      "id": "l96",
+      "start": 191.09,
+      "end": 245.621,
+      "text": "고고베베",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "고고베베",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "고고베베",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 4
+          },
+          "romanizedText": "gogobebe"
+        }
+      ]
+    }
+  ],
+  "chantEvents": [],
+  "lyricOffset": -0.5
+}

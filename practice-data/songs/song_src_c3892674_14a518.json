@@ -1,0 +1,992 @@
+{
+  "id": "song_src_c3892674_14a518",
+  "title": "TWICE YES or YES MV",
+  "artist": "unknown",
+  "audio": {
+    "sourceId": "src_c3892674",
+    "playbackUrl": "./practice-data/audio/song_src_c3892674_14a518.mp3",
+    "duration": 268.794195
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 0,
+      "end": 2,
+      "text": "Hey boy",
+      "translation": "男孩",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l2",
+      "start": 2,
+      "end": 6,
+      "text": "Look I'm gonna make this simple for you",
+      "translation": "我在把问题简化",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l3",
+      "start": 6,
+      "end": 9,
+      "text": "You got two choices",
+      "translation": "你有两个选择",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l4",
+      "start": 9,
+      "end": 16,
+      "text": "Yes or yes",
+      "translation": "好或好",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l5",
+      "start": 16,
+      "end": 20,
+      "text": "Ah 둘 중에 하나만",
+      "translation": "在这当中二选一",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l6",
+      "start": 20,
+      "end": 22,
+      "text": "골라 yes or yes",
+      "translation": "选吧 好或好",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l7",
+      "start": 22,
+      "end": 27,
+      "text": "Ah 하나만 선택해",
+      "translation": "只能选一个",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l8",
+      "start": 27,
+      "end": 30,
+      "text": "어서 yes or yes",
+      "translation": "快点吧 好或好",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l9",
+      "start": 30,
+      "end": 31,
+      "text": "내가 이렇게도",
+      "translation": "我就如此",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l10",
+      "start": 31,
+      "end": 32,
+      "text": "이기적이었던가",
+      "translation": "自私吗",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l11",
+      "start": 32,
+      "end": 36,
+      "text": "뭔가 이렇게 갖고 싶던",
+      "translation": "我曾有过",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l12",
+      "start": 36,
+      "end": 38,
+      "text": "적 있었나 적 있었나",
+      "translation": "如此想要拥有的东西吗",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l13",
+      "start": 38,
+      "end": 40,
+      "text": "다 놀라 다 놀라",
+      "translation": "所有人都在诧异",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l14",
+      "start": 40,
+      "end": 42,
+      "text": "내 뻔뻔함에",
+      "translation": "因为我太厚颜无耻",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l15",
+      "start": 42,
+      "end": 44,
+      "text": "Come on and tell me yes",
+      "translation": "快来告诉我好吧",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l16",
+      "start": 44,
+      "end": 45,
+      "text": "생각보다 과감해진",
+      "translation": "比想象中果敢的",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l17",
+      "start": 45,
+      "end": 47,
+      "text": "나의 시나리오",
+      "translation": "我的剧本",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l18",
+      "start": 47,
+      "end": 49,
+      "text": "이 정도 plan이면",
+      "translation": "这样的计划",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l19",
+      "start": 49,
+      "end": 52,
+      "text": "완벽해 만족해 만족해",
+      "translation": "很完美 很满意 很满意",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l20",
+      "start": 52,
+      "end": 54,
+      "text": "I don't care I don't care",
+      "translation": "我不介意 不介意 不介意",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l21",
+      "start": 54,
+      "end": 55,
+      "text": "누가 뭐래도",
+      "translation": "不管谁说什么了",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l22",
+      "start": 55,
+      "end": 57,
+      "text": "You better tell me yes",
+      "translation": "你最好回答我说好",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l23",
+      "start": 57,
+      "end": 59,
+      "text": "내 맘은 정했어 yes",
+      "translation": "我心意已决",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l24",
+      "start": 59,
+      "end": 62,
+      "text": "그럼 이제 네 대답을 들을 차례",
+      "translation": "现在到你告诉我答复了",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l25",
+      "start": 62,
+      "end": 65,
+      "text": "힘들면 보기를 줄게",
+      "translation": "如果觉得困难 我能给你选项",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l26",
+      "start": 65,
+      "end": 67,
+      "text": "넌 고르기만 해",
+      "translation": "你只要选择就好",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l27",
+      "start": 67,
+      "end": 70,
+      "text": "고민할 필요도 없게 해줄게",
+      "translation": "不需要苦恼",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l28",
+      "start": 70,
+      "end": 74,
+      "text": "뭘 고를지 몰라 준비해봤어",
+      "translation": "看你不知道选什么好 我就为你准备了",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l29",
+      "start": 74,
+      "end": 76,
+      "text": "둘 중에 하나만",
+      "translation": "在这当中二选一吧",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l30",
+      "start": 76,
+      "end": 77,
+      "text": "골라 yes or yes",
+      "translation": "选吧 好或好",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l31",
+      "start": 77,
+      "end": 81,
+      "text": "네 마음을 몰라 준비해봤어",
+      "translation": "看你不清楚自己心意 我就为你准备了",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l32",
+      "start": 81,
+      "end": 83,
+      "text": "하나만 선택해",
+      "translation": "只能选一个",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l33",
+      "start": 83,
+      "end": 85,
+      "text": "어서 yes or yes",
+      "translation": "快点吧 好或好",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l34",
+      "start": 85,
+      "end": 88,
+      "text": "싫어는 싫어 나 아니면 우리",
+      "translation": "我不要你回答不好 你要我还是我们",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l35",
+      "start": 88,
+      "end": 91,
+      "text": "선택을 존중해 거절은 거절해",
+      "translation": "我尊重你的选择 拒绝你的弃权",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l36",
+      "start": 91,
+      "end": 95,
+      "text": "선택지는 하나 자 선택은 네 맘",
+      "translation": "选择只有一个 按你心意选择吧",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l37",
+      "start": 95,
+      "end": 99,
+      "text": "It's all up to you",
+      "translation": "随你喜欢",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l38",
+      "start": 99,
+      "end": 100,
+      "text": "둘 중에 하나만",
+      "translation": "在这当中二选一",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l39",
+      "start": 100,
+      "end": 102,
+      "text": "골라 yes or yes",
+      "translation": "选吧 好或好",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l40",
+      "start": 102,
+      "end": 104,
+      "text": "진심일까 do not guess",
+      "translation": "不要猜测这是否真心",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l41",
+      "start": 104,
+      "end": 106,
+      "text": "진심이니 do not ask",
+      "translation": "不要询问这是否真意",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l42",
+      "start": 106,
+      "end": 107,
+      "text": "애매한 좌우 말고",
+      "translation": "不要暧昧的左右摆头",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l43",
+      "start": 107,
+      "end": 109,
+      "text": "확실히 위아래로",
+      "translation": "我要确实的点头",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l44",
+      "start": 109,
+      "end": 111,
+      "text": "There's no letters N & O",
+      "translation": "这里可没有字母N和O",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l45",
+      "start": 111,
+      "end": 113,
+      "text": "지워버릴래 오늘부로",
+      "translation": "我要把它们删掉 从今以后",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l46",
+      "start": 113,
+      "end": 115,
+      "text": "복잡하게 고민할 필요없어",
+      "translation": "你无需苦恼了",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l47",
+      "start": 115,
+      "end": 116,
+      "text": "정답은 yes yes yo",
+      "translation": "正确答案是好 好",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l48",
+      "start": 116,
+      "end": 119,
+      "text": "없던 이기심도 자극하는",
+      "translation": "你的眼神",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l49",
+      "start": 119,
+      "end": 120,
+      "text": "너의 눈과",
+      "translation": "刺激了我的私心",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l50",
+      "start": 120,
+      "end": 122,
+      "text": "널 향한 호기심이 만나서",
+      "translation": "我对你的好奇心",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l51",
+      "start": 122,
+      "end": 125,
+      "text": "타올라 타올라",
+      "translation": "遇见你后焦急的不行",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l52",
+      "start": 125,
+      "end": 127,
+      "text": "타오른다 타오른다",
+      "translation": "很焦急 很焦急",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l53",
+      "start": 127,
+      "end": 129,
+      "text": "My heart burn burn burn",
+      "translation": "我的心要着火了",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l54",
+      "start": 129,
+      "end": 130,
+      "text": "You better hurry up",
+      "translation": "你最好加紧脚步",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l55",
+      "start": 130,
+      "end": 132,
+      "text": "조금 쉽게 말하자면",
+      "translation": "简单来说",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l56",
+      "start": 132,
+      "end": 134,
+      "text": "넌 뭘 골라도",
+      "translation": "无论你选择什么",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l57",
+      "start": 134,
+      "end": 136,
+      "text": "날 만나게 될 거야",
+      "translation": "也会遇见我",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l58",
+      "start": 136,
+      "end": 138,
+      "text": "뭐 좀 황당하긴 해도",
+      "translation": "虽然这有点荒唐",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l59",
+      "start": 138,
+      "end": 140,
+      "text": "억지라고 해도",
+      "translation": "有点强人所难",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l60",
+      "start": 140,
+      "end": 143,
+      "text": "절대 후회하지 않게 해줄게",
+      "translation": "但我绝对不会让你后悔的",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l61",
+      "start": 143,
+      "end": 147,
+      "text": "뭘 고를지 몰라 준비해봤어",
+      "translation": "看你不知道选什么才好 我就为你准备了",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l62",
+      "start": 147,
+      "end": 149,
+      "text": "둘 중에 하나만",
+      "translation": "在这当中二选一吧",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l63",
+      "start": 149,
+      "end": 150,
+      "text": "골라 yes or yes",
+      "translation": "选吧 好或好",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l64",
+      "start": 150,
+      "end": 154,
+      "text": "네 마음을 몰라 준비해봤어",
+      "translation": "看你不清楚自己心意 我就为你准备了",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l65",
+      "start": 154,
+      "end": 156,
+      "text": "하나만 선택해",
+      "translation": "只能选一个",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l66",
+      "start": 156,
+      "end": 157,
+      "text": "어서 yes or yes",
+      "translation": "快点 好或好",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l67",
+      "start": 157,
+      "end": 161,
+      "text": "싫어는 싫어 나 아니면 우리",
+      "translation": "我不要你说不好 你要我还是我们",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l68",
+      "start": 161,
+      "end": 164,
+      "text": "선택을 존중해 거절은 거절해",
+      "translation": "我尊重你的选择 拒绝你的弃权",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l69",
+      "start": 164,
+      "end": 168,
+      "text": "선택지는 하나 자 선택은 네 맘",
+      "translation": "选择只有一个 按你心意选择吧",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l70",
+      "start": 168,
+      "end": 174,
+      "text": "Now it's all up to you",
+      "translation": "随你喜欢",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l71",
+      "start": 174,
+      "end": 176,
+      "text": "Maybe not",
+      "translation": "可能是不",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l72",
+      "start": 174,
+      "end": 175,
+      "text": "No no",
+      "translation": "不 不",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l73",
+      "start": 175,
+      "end": 176,
+      "text": "Maybe yes",
+      "translation": "可能是好",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l74",
+      "start": 176,
+      "end": 177,
+      "text": "No no",
+      "translation": "不 不",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l75",
+      "start": 177,
+      "end": 179,
+      "text": "좀 더 선명하게",
+      "translation": "把你的心",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l76",
+      "start": 179,
+      "end": 181,
+      "text": "네 맘을 내게 보여봐",
+      "translation": "更清楚地展示给我看吧",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l77",
+      "start": 181,
+      "end": 184,
+      "text": "귀 기울여봐",
+      "translation": "你听听",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l78",
+      "start": 184,
+      "end": 188,
+      "text": "무슨 소리가 들리지 않니",
+      "translation": "没有听到什么声音吗",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l79",
+      "start": 188,
+      "end": 191,
+      "text": "It's simple Y E S hey",
+      "translation": "简单的一句好",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l80",
+      "start": 191,
+      "end": 192,
+      "text": "둘 중에 하나만",
+      "translation": "在这当中二选一",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l81",
+      "start": 192,
+      "end": 194,
+      "text": "골라 yes or yes",
+      "translation": "选吧 好或好",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l82",
+      "start": 194,
+      "end": 195,
+      "text": "하나만 선택해",
+      "translation": "只能选择一个",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l83",
+      "start": 195,
+      "end": 197,
+      "text": "어서 yes or yes",
+      "translation": "快点 好或好",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l84",
+      "start": 197,
+      "end": 199,
+      "text": "하나 더 보태서",
+      "translation": "我再给你加个选项吧",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l85",
+      "start": 199,
+      "end": 202,
+      "text": "Yes or yes or yes",
+      "translation": "好或好或好",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l86",
+      "start": 202,
+      "end": 204,
+      "text": "골라봐 자 선택은 네 맘",
+      "translation": "选吧 按你的心意行事",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l87",
+      "start": 204,
+      "end": 208,
+      "text": "뭘 고를지 몰라 준비해봤어",
+      "translation": "看你不知道选什么才好 我就为你准备了",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l88",
+      "start": 208,
+      "end": 210,
+      "text": "둘 중에 하나만",
+      "translation": "在这当中二选一吧",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l89",
+      "start": 210,
+      "end": 211,
+      "text": "골라 yes or yes",
+      "translation": "选吧 好或好",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l90",
+      "start": 211,
+      "end": 215,
+      "text": "네 마음을 몰라 준비해봤어",
+      "translation": "看你不清楚自己心意 我就为你准备了",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l91",
+      "start": 215,
+      "end": 217,
+      "text": "하나만 선택해",
+      "translation": "只能选择一个",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l92",
+      "start": 217,
+      "end": 218,
+      "text": "어서 yes or yes",
+      "translation": "快点 好或好",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l93",
+      "start": 218,
+      "end": 222,
+      "text": "싫어는 싫어 나 아니면 우리",
+      "translation": "我不要你说不好 你要我还是我们",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l94",
+      "start": 222,
+      "end": 225,
+      "text": "선택을 존중해 거절은 거절해",
+      "translation": "我尊重你的选择 拒绝的弃权",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l95",
+      "start": 225,
+      "end": 229,
+      "text": "선택지는 하나 자 선택은 네 맘",
+      "translation": "选择只有一个 按你心意选择吧",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l96",
+      "start": 229,
+      "end": 233,
+      "text": "It's all up to you",
+      "translation": "随你喜欢",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l97",
+      "start": 233,
+      "end": 234,
+      "text": "하나만 선택해",
+      "translation": "只能选择一个",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l98",
+      "start": 234,
+      "end": 236,
+      "text": "어서 yes or yes",
+      "translation": "快点 好或好",
+      "confidence": 0.98,
+      "segments": [],
+      "notes": []
+    }
+  ]
+}
