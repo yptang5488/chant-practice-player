@@ -2,7 +2,7 @@
   "songs": [
     {
       "id": "song_src_3217368a_4037d6",
-      "title": "고고베베(gogobebe)",
+      "title": "gogobebe",
       "artist": "MAMAMOO",
       "hasLyrics": true,
       "hasTranslation": false,
@@ -23,11 +23,22 @@
       "audioUrl": "./practice-data/audio/song_src_4671e574_dd8233.mp3"
     },
     {
-      "id": "song_src_9120883d_85212a",
-      "title": "MAMAMOO - HIP應援",
-      "artist": "unknown",
+      "id": "song_src_78240bc1_871183",
+      "title": "Wind flower",
+      "artist": "MAMAMOO",
       "hasLyrics": true,
-      "hasTranslation": false,
+      "hasTranslation": true,
+      "hasNotes": true,
+      "playerPath": "/player/song_src_78240bc1_871183",
+      "songUrl": "./practice-data/songs/song_src_78240bc1_871183.json",
+      "audioUrl": "./practice-data/audio/song_src_78240bc1_871183.mp3"
+    },
+    {
+      "id": "song_src_9120883d_85212a",
+      "title": "HIP",
+      "artist": "MAMAMOO",
+      "hasLyrics": true,
+      "hasTranslation": true,
       "hasNotes": true,
       "playerPath": "/player/song_src_9120883d_85212a",
       "songUrl": "./practice-data/songs/song_src_9120883d_85212a.json",
@@ -43,17 +54,6 @@
       "playerPath": "/player/song_src_aaf2a49c_da3ed6",
       "songUrl": "./practice-data/songs/song_src_aaf2a49c_da3ed6.json",
       "audioUrl": "./practice-data/audio/song_src_aaf2a49c_da3ed6.mp3"
-    },
-    {
-      "id": "song_src_c3892674_14a518",
-      "title": "TWICE YES or YES MV",
-      "artist": "unknown",
-      "hasLyrics": true,
-      "hasTranslation": true,
-      "hasNotes": false,
-      "playerPath": "/player/song_src_c3892674_14a518",
-      "songUrl": "./practice-data/songs/song_src_c3892674_14a518.json",
-      "audioUrl": "./practice-data/audio/song_src_c3892674_14a518.mp3"
     }
   ]
 }
