@@ -5,11 +5,22 @@
       "title": "gogobebe",
       "artist": "MAMAMOO",
       "hasLyrics": true,
-      "hasTranslation": false,
+      "hasTranslation": true,
       "hasNotes": true,
       "playerPath": "/player/song_src_3217368a_4037d6",
       "songUrl": "./practice-data/songs/song_src_3217368a_4037d6.json",
       "audioUrl": "./practice-data/audio/song_src_3217368a_4037d6.mp3"
+    },
+    {
+      "id": "song_src_410379cb_119c30",
+      "title": "AYA",
+      "artist": "MAMAMOO",
+      "hasLyrics": true,
+      "hasTranslation": true,
+      "hasNotes": true,
+      "playerPath": "/player/song_src_410379cb_119c30",
+      "songUrl": "./practice-data/songs/song_src_410379cb_119c30.json",
+      "audioUrl": "./practice-data/audio/song_src_410379cb_119c30.mp3"
     },
     {
       "id": "song_src_4671e574_dd8233",
@@ -34,6 +45,17 @@
       "audioUrl": "./practice-data/audio/song_src_78240bc1_871183.mp3"
     },
     {
+      "id": "song_src_7eb8ca84_8e25a7",
+      "title": "ILLELLA",
+      "artist": "MAMAMOO",
+      "hasLyrics": true,
+      "hasTranslation": true,
+      "hasNotes": true,
+      "playerPath": "/player/song_src_7eb8ca84_8e25a7",
+      "songUrl": "./practice-data/songs/song_src_7eb8ca84_8e25a7.json",
+      "audioUrl": "./practice-data/audio/song_src_7eb8ca84_8e25a7.mp3"
+    },
+    {
       "id": "song_src_9120883d_85212a",
       "title": "HIP",
       "artist": "MAMAMOO",
@@ -54,6 +76,17 @@
       "playerPath": "/player/song_src_aaf2a49c_da3ed6",
       "songUrl": "./practice-data/songs/song_src_aaf2a49c_da3ed6.json",
       "audioUrl": "./practice-data/audio/song_src_aaf2a49c_da3ed6.mp3"
+    },
+    {
+      "id": "song_src_dd5b4bae_8c9aab",
+      "title": "L.I.E.C",
+      "artist": "MAMAMOO",
+      "hasLyrics": true,
+      "hasTranslation": false,
+      "hasNotes": true,
+      "playerPath": "/player/song_src_dd5b4bae_8c9aab",
+      "songUrl": "./practice-data/songs/song_src_dd5b4bae_8c9aab.json",
+      "audioUrl": "./practice-data/audio/song_src_dd5b4bae_8c9aab.mp3"
     }
   ]
 }

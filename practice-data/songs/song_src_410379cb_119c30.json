@@ -1,0 +1,1110 @@
+{
+  "id": "song_src_410379cb_119c30",
+  "title": "AYA",
+  "artist": "MAMAMOO",
+  "audio": {
+    "sourceId": "src_410379cb",
+    "playbackUrl": "./practice-data/audio/song_src_410379cb_119c30.mp3",
+    "duration": 232.547846,
+    "trimStart": 0,
+    "trimEnd": 0
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 10.185,
+      "end": 11.862,
+      "text": "Hey ya",
+      "translation": "Hey ya",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Hey ya",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Hey ya",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 6
+          }
+        }
+      ]
+    },
+    {
+      "id": "l2",
+      "start": 11.862,
+      "end": 13.106,
+      "text": "비긴 것 같아",
+      "translation": "好像扯平了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l3",
+      "start": 13.106,
+      "end": 16.264,
+      "text": "애초에 이길 생각 따윈 없어",
+      "translation": "一開始就沒想過要贏",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l4",
+      "start": 16.264,
+      "end": 20.887,
+      "text": "봐 너나 나나 다 끝난 마당에 (으르렁 어이)",
+      "translation": "看吧，你我都已經結束了（低吼 hey）",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "으르렁 어이",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "으르렁 어이",
+            "occurrence": 1,
+            "charStart": 18,
+            "charEnd": 24
+          },
+          "romanizedText": "eureureong eoi"
+        }
+      ]
+    },
+    {
+      "id": "l5",
+      "start": 20.887,
+      "end": 22.476,
+      "text": "A-yo a-yo",
+      "translation": "A-yo a-yo",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l6",
+      "start": 22.476,
+      "end": 24.984,
+      "text": "You got me jumping like a crazy clown",
+      "translation": "你讓我像瘋狂小丑一樣跳動",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l7",
+      "start": 24.984,
+      "end": 26.193,
+      "text": "뭐해",
+      "translation": "你在做什麼",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l8",
+      "start": 26.193,
+      "end": 30.994,
+      "text": "썩은 이빨 뽑아내야지 아야",
+      "translation": "爛掉的牙該拔掉了，AYA",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "썩은 이빨",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "썩은 이빨",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 5
+          },
+          "romanizedText": "sseogeun ippal"
+        }
+      ]
+    },
+    {
+      "id": "l9",
+      "start": 30.994,
+      "end": 31.992,
+      "text": "I love U",
+      "translation": "I love U",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "I love U",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "I love U",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 8
+          }
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "start": 31.992,
+      "end": 33.816,
+      "text": "세상을 다 줄 것처럼 말하고",
+      "translation": "說得像要把全世界都給我",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l11",
+      "start": 33.816,
+      "end": 35.546,
+      "text": "Hate U",
+      "translation": "Hate U",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Hate U",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Hate U",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 6
+          }
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "start": 35.546,
+      "end": 36.738,
+      "text": "이젠 서로 화살을 겨눠",
+      "translation": "如今彼此把箭指向對方",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l13",
+      "start": 36.738,
+      "end": 37.866,
+      "text": "뻔하디뻔한 bad ending",
+      "translation": "老套到不行的 bad ending",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l14",
+      "start": 37.866,
+      "end": 39.229,
+      "text": "님 얼굴에 침을 뱉어",
+      "translation": "朝你的臉吐口水",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l15",
+      "start": 39.229,
+      "end": 41.647,
+      "text": "오점 하나 생겨 우린 남이 됐다",
+      "translation": "留下一道污點，我們成了陌生人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l16",
+      "start": 41.647,
+      "end": 46.894,
+      "text": "못된 사랑놀이에 미쳐",
+      "translation": "沉迷在壞掉的愛情遊戲裡",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "마마무",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 11,
+            "charEnd": 11
+          },
+          "romanizedText": "mamamu"
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "start": 46.894,
+      "end": 52.363,
+      "text": "이기적인 넌 이젠 지쳐",
+      "translation": "自私的你，如今讓我厭倦",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "TRAVEL",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 12,
+            "charEnd": 12
+          }
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "start": 52.363,
+      "end": 57.269,
+      "text": "눈물인지 또 빗물인지",
+      "translation": "是眼淚，還是雨水",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l19",
+      "start": 57.269,
+      "end": 59.817,
+      "text": "넌 내게 모욕감을 줬어",
+      "translation": "你讓我感到羞辱",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "줬어",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 12,
+            "charEnd": 12
+          },
+          "romanizedText": "jwosseo"
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "start": 59.817,
+      "end": 71.815,
+      "text": "눈물이 뚝 떨어진다",
+      "translation": "眼淚啪地落下",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "♫♫♫ 김용선金容仙\n♫♫♫ 문별이文星伊\n♫♫♫ 정휘인丁輝人",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 10,
+            "charEnd": 10
+          },
+          "romanizedText": "♫♫♫ gimyongseon金容仙\n♫♫♫ munbyeori文星伊\n♫♫♫ jeonghwiin丁輝人"
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "start": 71.815,
+      "end": 73.506,
+      "text": "툭 떨어진다",
+      "translation": "啪地落下",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "안혜진安惠真",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "툭 떨어진다",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 6
+          },
+          "romanizedText": "anhyejin安惠真"
+        }
+      ]
+    },
+    {
+      "id": "l22",
+      "start": 73.506,
+      "end": 78.412,
+      "text": "눈물이야 빗물이야 아야",
+      "translation": "是眼淚，還是雨水，AYA",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "아야",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "아야",
+            "occurrence": 1,
+            "charStart": 10,
+            "charEnd": 12
+          },
+          "romanizedText": "aya"
+        }
+      ]
+    },
+    {
+      "id": "l23",
+      "start": 78.412,
+      "end": 81.272,
+      "text": "눈물이야 빗물이야 아야",
+      "translation": "是眼淚，還是雨水，AYA",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "아야",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "아야",
+            "occurrence": 1,
+            "charStart": 10,
+            "charEnd": 12
+          },
+          "romanizedText": "aya"
+        }
+      ]
+    },
+    {
+      "id": "l24",
+      "start": 81.272,
+      "end": 83.865,
+      "text": "눈물이 툭",
+      "translation": "眼淚啪地",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l25",
+      "start": 83.865,
+      "end": 84.789,
+      "text": "들었다 놨다",
+      "translation": "把我捧起又放下",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l26",
+      "start": 84.789,
+      "end": 86.36,
+      "text": "이제 그만해",
+      "translation": "現在到此為止吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l27",
+      "start": 86.36,
+      "end": 88.713,
+      "text": "너나 나나 아냐 어린애",
+      "translation": "你我都不是小孩",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l28",
+      "start": 88.713,
+      "end": 90.979,
+      "text": "아야야 꼴도 보기 싫어",
+      "translation": "AYA YA，連看都不想看",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l29",
+      "start": 90.979,
+      "end": 94.026,
+      "text": "I’m so done",
+      "translation": "I’m so done",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l30",
+      "start": 94.026,
+      "end": 95.201,
+      "text": "너는 내 killer",
+      "translation": "你是我的 killer",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l31",
+      "start": 95.201,
+      "end": 96.371,
+      "text": "영화 속 villain",
+      "translation": "電影裡的 villain",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l32",
+      "start": 96.371,
+      "end": 97.812,
+      "text": "사랑을 속이는 dealer",
+      "translation": "欺騙愛情的 dealer",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l33",
+      "start": 97.812,
+      "end": 99.008,
+      "text": "숨겨봤자 수면 위로",
+      "translation": "再怎麼藏也會浮上水面",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l34",
+      "start": 99.008,
+      "end": 100.532,
+      "text": "you’re a criminal",
+      "translation": "you’re a criminal",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "you’re a criminal",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "you’re a criminal",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 17
+          }
+        }
+      ]
+    },
+    {
+      "id": "l35",
+      "start": 100.532,
+      "end": 101.693,
+      "text": "늦었어 이미 넌",
+      "translation": "太遲了，你早已如此",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "늦었어 이미 넌",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "늦었어 이미 넌",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 8
+          },
+          "romanizedText": "neujeosseo imi neon"
+        }
+      ]
+    },
+    {
+      "id": "l36",
+      "start": 101.693,
+      "end": 104.547,
+      "text": "방아쇠는 내 손에 gun shot shot",
+      "translation": "扳機在我手中，gun shot shot",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "shot shot",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "shot shot",
+            "occurrence": 1,
+            "charStart": 14,
+            "charEnd": 23
+          }
+        }
+      ]
+    },
+    {
+      "id": "l37",
+      "start": 104.547,
+      "end": 105.743,
+      "text": "A-yo a-yo",
+      "translation": "A-yo a-yo",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l38",
+      "start": 105.743,
+      "end": 108.264,
+      "text": "You got me jumping like a crazy clown",
+      "translation": "你讓我像瘋狂小丑一樣跳動",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l39",
+      "start": 108.264,
+      "end": 109.508,
+      "text": "뭐해",
+      "translation": "你在做什麼",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l40",
+      "start": 109.508,
+      "end": 114.983,
+      "text": "썩은 이빨 뽑아내야지 아야",
+      "translation": "爛掉的牙該拔掉了，AYA",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "썩은 이빨 ",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "썩은 이빨 ",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 6
+          },
+          "romanizedText": "sseogeun ippal "
+        }
+      ]
+    },
+    {
+      "id": "l41",
+      "start": 114.983,
+      "end": 120.125,
+      "text": "못된 사랑놀이에 미쳐",
+      "translation": "沉迷在壞掉的愛情遊戲裡",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "마마무",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 11,
+            "charEnd": 11
+          },
+          "romanizedText": "mamamu"
+        }
+      ]
+    },
+    {
+      "id": "l42",
+      "start": 120.125,
+      "end": 125.421,
+      "text": "이기적인 넌 이젠 지쳐",
+      "translation": "自私的你，如今讓我厭倦",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "TRAVEL",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 12,
+            "charEnd": 12
+          }
+        }
+      ]
+    },
+    {
+      "id": "l43",
+      "start": 125.421,
+      "end": 130.453,
+      "text": "눈물인지 또 빗물인지",
+      "translation": "是眼淚，還是雨水",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l44",
+      "start": 130.453,
+      "end": 133.152,
+      "text": "넌 내게 모욕감을 줬어",
+      "translation": "你讓我感到羞辱",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "줬어",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 12,
+            "charEnd": 12
+          },
+          "romanizedText": "jwosseo"
+        }
+      ]
+    },
+    {
+      "id": "l45",
+      "start": 133.152,
+      "end": 145.419,
+      "text": "눈물이 뚝 떨어진다",
+      "translation": "眼淚啪地落下",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "♫♫♫ 김용선金容仙 \n♫♫♫ 문별이文星伊 \n♫♫♫ 정휘인丁輝人",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 10,
+            "charEnd": 10
+          },
+          "romanizedText": "♫♫♫ gimyongseon金容仙 \n♫♫♫ munbyeori文星伊 \n♫♫♫ jeonghwiin丁輝人"
+        }
+      ]
+    },
+    {
+      "id": "l46",
+      "start": 145.419,
+      "end": 146.473,
+      "text": "툭 떨어진다",
+      "translation": "啪地落下",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "안혜진安惠真",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "툭 떨어진다",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 6
+          },
+          "romanizedText": "anhyejin安惠真"
+        }
+      ]
+    },
+    {
+      "id": "l47",
+      "start": 146.473,
+      "end": 151.338,
+      "text": "눈물이야 빗물이야 아야",
+      "translation": "是眼淚，還是雨水，AYA",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "아야",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "아야",
+            "occurrence": 1,
+            "charStart": 10,
+            "charEnd": 12
+          },
+          "romanizedText": "aya"
+        }
+      ]
+    },
+    {
+      "id": "l48",
+      "start": 151.338,
+      "end": 154.266,
+      "text": "눈물이야 빗물이야 아야",
+      "translation": "是眼淚，還是雨水，AYA",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "아야",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "아야",
+            "occurrence": 1,
+            "charStart": 10,
+            "charEnd": 12
+          },
+          "romanizedText": "aya"
+        }
+      ]
+    },
+    {
+      "id": "l49",
+      "start": 154.266,
+      "end": 157.058,
+      "text": "눈물이 툭",
+      "translation": "眼淚啪地",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l50",
+      "start": 157.058,
+      "end": 160.283,
+      "text": "And it’s over 끝났어",
+      "translation": "And it’s over，結束了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l51",
+      "start": 160.283,
+      "end": 162.365,
+      "text": "더이상 못하겠어",
+      "translation": "再也撐不下去了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l52",
+      "start": 162.365,
+      "end": 167.052,
+      "text": "남은 감정도 없어 (oh na na na)",
+      "translation": "連剩下的感情也沒有了（oh na na na）",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "oh na na na",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "oh na na na",
+            "occurrence": 1,
+            "charStart": 11,
+            "charEnd": 22
+          }
+        }
+      ]
+    },
+    {
+      "id": "l53",
+      "start": 167.052,
+      "end": 170.19,
+      "text": "이건 아냐 sad ending",
+      "translation": "這不是我要的 sad ending",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l54",
+      "start": 170.19,
+      "end": 175.018,
+      "text": "널 만난 내 잘못이야",
+      "translation": "遇見你是我的錯",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l55",
+      "start": 175.018,
+      "end": 177.734,
+      "text": "눈물이 툭",
+      "translation": "眼淚啪地",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "눈물이 툭",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "눈물이 툭",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 5
+          },
+          "romanizedText": "nunmuri tuk"
+        }
+      ]
+    },
+    {
+      "id": "l56",
+      "start": 177.734,
+      "end": 182.403,
+      "text": "아야 툭 떨어진다",
+      "translation": "AYA，啪地落下",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l57",
+      "start": 182.403,
+      "end": 186.098,
+      "text": "뚝뚝뚝뚝",
+      "translation": "啪嗒啪嗒啪嗒啪嗒",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l58",
+      "start": 186.098,
+      "end": 189.443,
+      "text": "Drop drop drop drop",
+      "translation": "Drop drop drop drop",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l59",
+      "start": 189.443,
+      "end": 193.183,
+      "text": "뚝뚝뚝뚝",
+      "translation": "啪嗒啪嗒啪嗒啪嗒",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l60",
+      "start": 193.183,
+      "end": 194.58,
+      "text": "뚝 떨어진다",
+      "translation": "啪地落下",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l61",
+      "start": 194.58,
+      "end": 198.144,
+      "text": "눈물이야 빗물이야 아 아 아야",
+      "translation": "是眼淚，還是雨水，啊啊 AYA",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "눈물이야 빗물이야",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "눈물이야 빗물이야",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 9
+          },
+          "romanizedText": "nunmuriya bitmuriya"
+        }
+      ]
+    },
+    {
+      "id": "l62",
+      "start": 198.144,
+      "end": 201.577,
+      "text": "happy ending 뚝 떨어진다",
+      "translation": "happy ending，啪地落下",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l63",
+      "start": 201.577,
+      "end": 205.347,
+      "text": "눈물이야 빗물이야 아 아 아야",
+      "translation": "是眼淚，還是雨水，啊啊 AYA",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "눈물이야 빗물이야",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "눈물이야 빗물이야",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 9
+          },
+          "romanizedText": "nunmuriya bitmuriya"
+        }
+      ]
+    },
+    {
+      "id": "l64",
+      "start": 205.347,
+      "end": 208.988,
+      "text": "정나미가 뚝 떨어진다",
+      "translation": "情分啪地全掉光",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l65",
+      "start": 208.988,
+      "end": 232.548,
+      "text": "AYA",
+      "translation": "AYA",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "AYA",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "AYA",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 3
+          }
+        }
+      ]
+    }
+  ],
+  "chantEvents": [
+    {
+      "id": "chant_mqnq5gwa",
+      "start": 2,
+      "end": 3,
+      "text": "김용선金容仙",
+      "label": "chant",
+      "romanizedText": null
+    },
+    {
+      "id": "chant_mqnq6j68",
+      "start": 4,
+      "end": 5,
+      "text": "문별이文星伊",
+      "label": "chant",
+      "romanizedText": null
+    },
+    {
+      "id": "chant_mqnq86ng",
+      "start": 7,
+      "end": 8,
+      "text": "정휘인丁輝人",
+      "label": "chant",
+      "romanizedText": null
+    },
+    {
+      "id": "chant_mqnq8rx8",
+      "start": 9,
+      "end": 10,
+      "text": "안혜진安惠真",
+      "label": "chant",
+      "romanizedText": null
+    }
+  ],
+  "lyricOffset": 0
+}

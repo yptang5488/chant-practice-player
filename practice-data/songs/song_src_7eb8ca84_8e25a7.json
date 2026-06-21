@@ -1,0 +1,1158 @@
+{
+  "id": "song_src_7eb8ca84_8e25a7",
+  "title": "ILLELLA",
+  "artist": "MAMAMOO",
+  "audio": {
+    "sourceId": "src_7eb8ca84",
+    "playbackUrl": "./practice-data/audio/song_src_7eb8ca84_8e25a7.mp3",
+    "duration": 256.603719,
+    "trimStart": 32,
+    "trimEnd": 38
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 5.18,
+      "end": 5.78,
+      "text": "(Hey)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l2",
+      "start": 5.78,
+      "end": 8.51,
+      "text": "One, two, three, 밤이 깊어져",
+      "translation": "One, two, three，夜越來越深",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "One, two, three",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "One, two, three",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 15
+          }
+        }
+      ]
+    },
+    {
+      "id": "l3",
+      "start": 8.51,
+      "end": 11.03,
+      "text": "단둘이 밤이 길어져",
+      "translation": "只剩我們倆，夜越來越長",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "단둘이",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "단둘이",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 3
+          },
+          "romanizedText": "danduri"
+        }
+      ]
+    },
+    {
+      "id": "l4",
+      "start": 11.03,
+      "end": 14.17,
+      "text": "12시가 뭐가 문제야",
+      "translation": "午夜十二點又有什麼問題",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "12시",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "12시",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 3
+          },
+          "romanizedText": "12si"
+        }
+      ]
+    },
+    {
+      "id": "l5",
+      "start": 14.17,
+      "end": 16.66,
+      "text": "일낼라 해, 일낼라 해",
+      "translation": "要出事了，要出事了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l6",
+      "start": 16.66,
+      "end": 19.56,
+      "text": "골목길 밤은 깊어지고",
+      "translation": "巷弄裡的夜越來越深",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "골목길",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "골목길",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 3
+          },
+          "romanizedText": "golmokgil"
+        }
+      ]
+    },
+    {
+      "id": "l7",
+      "start": 19.56,
+      "end": 22.31,
+      "text": "달빛이 꽉 차올라",
+      "translation": "月光漸漸滿溢",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "달빛이",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "달빛이",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 3
+          },
+          "romanizedText": "dalbichi"
+        }
+      ]
+    },
+    {
+      "id": "l8",
+      "start": 22.31,
+      "end": 25.04,
+      "text": "Ooh-ooh-ooh (이리야!)",
+      "translation": "Ooh-ooh-ooh (過來呀！)",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "이리야!",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "이리야!",
+            "occurrence": 1,
+            "charStart": 13,
+            "charEnd": 17
+          },
+          "romanizedText": "iriya!"
+        }
+      ]
+    },
+    {
+      "id": "l9",
+      "start": 25.04,
+      "end": 28.52,
+      "text": "일낼라 해 (해), 일낼라, 일내, yeah",
+      "translation": "要出事了，出事了，要闖禍了，yeah",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l10",
+      "start": 28.52,
+      "end": 30.67,
+      "text": "해가 뜨기 전에 난",
+      "translation": "在太陽升起之前",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l11",
+      "start": 30.67,
+      "end": 33.51,
+      "text": "너를 떠보고 싶은 오늘 밤 (oh-ooh)",
+      "translation": "今晚我想試探你的心",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l12",
+      "start": 33.51,
+      "end": 36.15,
+      "text": "일이 날까, 일이나 낼까?",
+      "translation": "會出事嗎，還是乾脆鬧一場？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l13",
+      "start": 36.15,
+      "end": 38.88,
+      "text": "별이 빛나는 밤에",
+      "translation": "在星光閃耀的夜晚",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "빛나는 밤에",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "빛나는 밤에",
+            "occurrence": 1,
+            "charStart": 3,
+            "charEnd": 9
+          },
+          "romanizedText": "bitnaneun bame"
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "start": 38.88,
+      "end": 41.83,
+      "text": "너의 눈빛에 취하고 있어",
+      "translation": "我正沉醉在你的眼神裡",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l15",
+      "start": 41.83,
+      "end": 44.59,
+      "text": "아닌 척해도 티가 나 점점",
+      "translation": "就算裝作不是，也越來越明顯",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l16",
+      "start": 44.59,
+      "end": 47.35,
+      "text": "일이 날까, 일이나 낼까?",
+      "translation": "會出事嗎，還是乾脆鬧一場？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l17",
+      "start": 47.35,
+      "end": 50.26,
+      "text": "모두 잠든 이 밤에",
+      "translation": "在所有人都睡著的今晚",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "잠든 이 밤에",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "잠든 이 밤에",
+            "occurrence": 1,
+            "charStart": 3,
+            "charEnd": 10
+          },
+          "romanizedText": "jamdeun i bame"
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "start": 50.26,
+      "end": 53.01,
+      "text": "이 밤은 다크나이트 또 논란이 따라와 (mmh)",
+      "translation": "今晚是黑暗騎士，又惹來爭議",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l19",
+      "start": 53.01,
+      "end": 55.58,
+      "text": "화끈하게 don't stop, 더, 더 따라봐 (봐)",
+      "translation": "火熱地 don't stop，再多跟上些",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l20",
+      "start": 55.58,
+      "end": 58.27,
+      "text": "우린 야만 (야만) 말려봐라 암만",
+      "translation": "我們就是野蠻，怎麼攔都沒用",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "야만",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "야만",
+            "occurrence": 2,
+            "charStart": 7,
+            "charEnd": 9
+          },
+          "romanizedText": "yaman"
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "암만",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "암만",
+            "occurrence": 1,
+            "charStart": 16,
+            "charEnd": 18
+          },
+          "romanizedText": "amman"
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "start": 58.27,
+      "end": 60.79,
+      "text": "잔뜩 성이 난 야수처럼 으르렁대",
+      "translation": "像滿腔怒火的野獸般低吼",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l22",
+      "start": 60.79,
+      "end": 63.61,
+      "text": "One, two, three, 밤이 깊어져",
+      "translation": "One, two, three，夜越來越深",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "One, two, three",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "One, two, three",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 15
+          }
+        }
+      ]
+    },
+    {
+      "id": "l23",
+      "start": 63.61,
+      "end": 66.4,
+      "text": "단둘이 밤이 길어져",
+      "translation": "只剩我們倆，夜越來越長",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "단둘이",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "단둘이",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 3
+          },
+          "romanizedText": "danduri"
+        }
+      ]
+    },
+    {
+      "id": "l24",
+      "start": 66.4,
+      "end": 69.02,
+      "text": "12시가 뭐가 문제야",
+      "translation": "午夜十二點又有什麼問題",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "12시",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "12시",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 3
+          },
+          "romanizedText": "12si"
+        }
+      ]
+    },
+    {
+      "id": "l25",
+      "start": 69.02,
+      "end": 71.99,
+      "text": "일낼라 해, 일낼라 해",
+      "translation": "要出事了，要出事了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l26",
+      "start": 71.99,
+      "end": 74.57,
+      "text": "골목길 밤은 깊어지고",
+      "translation": "巷弄裡的夜越來越深",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "골목길",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "골목길",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 3
+          },
+          "romanizedText": "golmokgil"
+        }
+      ]
+    },
+    {
+      "id": "l27",
+      "start": 74.57,
+      "end": 77.82,
+      "text": "달빛이 꽉 차올라",
+      "translation": "月光漸漸滿溢",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "달빛이",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "달빛이",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 3
+          },
+          "romanizedText": "dalbichi"
+        }
+      ]
+    },
+    {
+      "id": "l28",
+      "start": 77.82,
+      "end": 80.23,
+      "text": "Ooh-ooh-ooh (이리야!)",
+      "translation": "Ooh-ooh-ooh (過來呀！)",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "이리야!",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "이리야!",
+            "occurrence": 1,
+            "charStart": 13,
+            "charEnd": 17
+          },
+          "romanizedText": "iriya!"
+        }
+      ]
+    },
+    {
+      "id": "l29",
+      "start": 80.23,
+      "end": 84.55,
+      "text": "일낼라 해 (해), 일낼라, 일내, yeah (eh, eh, eh)",
+      "translation": "要出事了，出事了，要闖禍了，yeah",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "마마무 일낼라",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "yeah (eh, eh, eh)",
+            "occurrence": 1,
+            "charStart": 20,
+            "charEnd": 37
+          },
+          "romanizedText": "mamamu ilnaelra"
+        }
+      ]
+    },
+    {
+      "id": "l30",
+      "start": 84.55,
+      "end": 87.2,
+      "text": "일낼라-라-라 해 (eh-eh, eh)",
+      "translation": "要出事啦啦啦",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "마마무 일낼차",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "일낼라-라-라 해 (eh-eh, eh)",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 21
+          },
+          "romanizedText": "mamamu ilnaelcha"
+        }
+      ]
+    },
+    {
+      "id": "l31",
+      "start": 87.2,
+      "end": 91.31,
+      "text": "일낼라-라-라 해-eh-eh",
+      "translation": "要出事啦啦啦",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "마마무 사랑해",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "일낼라-라-라 해-eh-eh",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 15
+          },
+          "romanizedText": "mamamu saranghae"
+        }
+      ]
+    },
+    {
+      "id": "l32",
+      "start": 91.31,
+      "end": 94.24,
+      "text": "일낼라 해, 일낼라, 일내, yeah (일내, yeah)",
+      "translation": "要出事了，出事了，要闖禍了，yeah",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l33",
+      "start": 94.24,
+      "end": 96.9,
+      "text": "달밤에 기대어",
+      "translation": "倚著月夜",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l34",
+      "start": 96.9,
+      "end": 99.44,
+      "text": "너와 나 뒹굴뒹굴",
+      "translation": "你和我翻來覆去",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l35",
+      "start": 99.44,
+      "end": 101.02,
+      "text": "부풀어 커진 마음",
+      "translation": "膨脹變大的心意",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "커진",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "커진",
+            "occurrence": 1,
+            "charStart": 4,
+            "charEnd": 6
+          },
+          "romanizedText": "keojin"
+        }
+      ]
+    },
+    {
+      "id": "l36",
+      "start": 101.02,
+      "end": 102.27,
+      "text": "뒤척여 매일 밤",
+      "translation": "每晚都輾轉難眠",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "매일 ",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "매일 ",
+            "occurrence": 1,
+            "charStart": 4,
+            "charEnd": 7
+          },
+          "romanizedText": "maeil "
+        }
+      ]
+    },
+    {
+      "id": "l37",
+      "start": 102.27,
+      "end": 103.51,
+      "text": "집에 가지 마",
+      "translation": "別回家",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l38",
+      "start": 103.51,
+      "end": 105.33,
+      "text": "취하는 밤에",
+      "translation": "在微醺的夜裡",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "취하는 밤에",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "취하는 밤에",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 6
+          },
+          "romanizedText": "chwihaneun bame"
+        }
+      ]
+    },
+    {
+      "id": "l39",
+      "start": 105.33,
+      "end": 108.22,
+      "text": "너와 밤거리를 헤매고 있어",
+      "translation": "我和你徘徊在夜色街頭",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "헤매고 있어",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "헤매고 있어",
+            "occurrence": 1,
+            "charStart": 8,
+            "charEnd": 14
+          },
+          "romanizedText": "hemaego isseo"
+        }
+      ]
+    },
+    {
+      "id": "l40",
+      "start": 108.22,
+      "end": 110.93,
+      "text": "모든 것들이 다 멋져 보여",
+      "translation": "一切看起來都如此美好",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "다 멋져 보여",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "다 멋져 보여",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 14
+          },
+          "romanizedText": "da meotjyeo boyeo"
+        }
+      ]
+    },
+    {
+      "id": "l41",
+      "start": 110.93,
+      "end": 113.41,
+      "text": "일이 날까, 일이나 낼까?",
+      "translation": "會出事嗎，還是乾脆鬧一場？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l42",
+      "start": 113.41,
+      "end": 116.14,
+      "text": "Eh, eh, ayy (이리야!)",
+      "translation": "Eh, eh, ayy (過來呀！)",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "이리야!",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "이리야!",
+            "occurrence": 1,
+            "charStart": 13,
+            "charEnd": 17
+          },
+          "romanizedText": "iriya!"
+        }
+      ]
+    },
+    {
+      "id": "l43",
+      "start": 129.64,
+      "end": 132.68,
+      "text": "One, two, three, 밤이 깊어져",
+      "translation": "One, two, three，夜越來越深",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "One, two, three",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "One, two, three",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 15
+          }
+        }
+      ]
+    },
+    {
+      "id": "l44",
+      "start": 132.68,
+      "end": 135.1,
+      "text": "단둘이 밤이 길어져",
+      "translation": "只剩我們倆，夜越來越長",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "단둘이",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "단둘이",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 3
+          },
+          "romanizedText": "danduri"
+        }
+      ]
+    },
+    {
+      "id": "l45",
+      "start": 135.1,
+      "end": 138.08,
+      "text": "12시가 뭐가 문제야",
+      "translation": "午夜十二點又有什麼問題",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "12시",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "12시",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 3
+          },
+          "romanizedText": "12si"
+        }
+      ]
+    },
+    {
+      "id": "l46",
+      "start": 138.08,
+      "end": 140.78,
+      "text": "일낼라 해, 일낼라 해 (일낼라, 일내, yeah)",
+      "translation": "要出事了，要出事了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l47",
+      "start": 140.78,
+      "end": 143.46,
+      "text": "골목길 밤은 깊어지고",
+      "translation": "巷弄裡的夜越來越深",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "골목길",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "골목길",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 3
+          },
+          "romanizedText": "golmokgil"
+        }
+      ]
+    },
+    {
+      "id": "l48",
+      "start": 143.46,
+      "end": 146.14,
+      "text": "달빛이 꽉 차올라",
+      "translation": "月光漸漸滿溢",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "달빛이",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "달빛이",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 3
+          },
+          "romanizedText": "dalbichi"
+        }
+      ]
+    },
+    {
+      "id": "l49",
+      "start": 146.14,
+      "end": 148.89,
+      "text": "Ooh-ooh-ooh (이리야!)",
+      "translation": "Ooh-ooh-ooh (過來呀！)",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "이리야!",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "이리야!",
+            "occurrence": 1,
+            "charStart": 13,
+            "charEnd": 17
+          },
+          "romanizedText": "iriya!"
+        }
+      ]
+    },
+    {
+      "id": "l50",
+      "start": 148.89,
+      "end": 152.64,
+      "text": "일낼라 해 (해), 일낼라, 일내, yeah (yeah)",
+      "translation": "要出事了，出事了，要闖禍了，yeah",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "김용선金容仙",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "yeah (yeah)",
+            "occurrence": 1,
+            "charStart": 20,
+            "charEnd": 31
+          },
+          "romanizedText": "gimyongseon金容仙"
+        }
+      ]
+    },
+    {
+      "id": "l51",
+      "start": 152.64,
+      "end": 155.62,
+      "text": "일낼라-la-la 해 (hey, eh)",
+      "translation": "要出事-la-la 了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "문별이文星伊 정휘인丁輝人",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "일낼라-la-la 해 (hey, eh)",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 21
+          },
+          "romanizedText": "munbyeori文星伊 jeonghwiin丁輝人"
+        }
+      ]
+    },
+    {
+      "id": "l52",
+      "start": 155.62,
+      "end": 159.69,
+      "text": "일낼라-la-la 해-eh-eh (oh-oh-oh-oh)",
+      "translation": "要出事-la-la 了-eh-eh",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "안혜진安惠真 마마무 일낼라",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "일낼라-la-la 해-eh-eh (oh-oh-oh-oh)",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 31
+          },
+          "romanizedText": "anhyejin安惠真 mamamu ilnaelra"
+        }
+      ]
+    },
+    {
+      "id": "l53",
+      "start": 159.69,
+      "end": 162.95,
+      "text": "일낼라 해 (one more, yo), 일낼라, 일내, yeah (la-la-la)",
+      "translation": "要出事了，出事了，要闖禍了，yeah",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "마마무 일낼차",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "일낼라 해 (one more, yo), 일낼라, 일내, yeah (la-la-la)",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 46
+          },
+          "romanizedText": "mamamu ilnaelcha"
+        }
+      ]
+    },
+    {
+      "id": "l54",
+      "start": 162.95,
+      "end": 166.52,
+      "text": "일낼라-la-la 해 (la-la-la, oh-eh, yeah)",
+      "translation": "要出事-la-la 了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "마마무 사랑해 마마무",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "일낼라-la-la 해 (la-la-la, oh-eh, yeah)",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 35
+          },
+          "romanizedText": "mamamu saranghae mamamu"
+        }
+      ]
+    },
+    {
+      "id": "l55",
+      "start": 166.52,
+      "end": 170.82,
+      "text": "일낼라-la-la 해-eh-eh (일낼라 해)",
+      "translation": "要出事-la-la 了-eh-eh",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "고마워",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "일낼라-la-la",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 9
+          },
+          "romanizedText": "gomawo"
+        }
+      ]
+    },
+    {
+      "id": "l56",
+      "start": 170.82,
+      "end": 270.104,
+      "text": "일낼라 해, 일낼라, 일내, yeah",
+      "translation": "要出事了，出事了，要闖禍了，yeah",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "SCREAM!!!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 20,
+            "charEnd": 20
+          }
+        }
+      ]
+    }
+  ],
+  "chantEvents": [
+    {
+      "id": "chant_mqm4d8aw",
+      "start": -8,
+      "end": 2,
+      "text": "마마무 김용선金容仙\n마마무 문별이文星伊\n마마무 정휘인丁輝人\n마마무 안혜진安惠真\n마마무 일낼라\n마마무 일낼차",
+      "label": "chant",
+      "romanizedText": null
+    },
+    {
+      "id": "chant_mqm3unma",
+      "start": 118,
+      "end": 129,
+      "text": "김용선金容仙 일낼라\n문별이文星伊 일낼라\n정휘인丁輝人 일낼라\n안혜진安惠真 일낼라",
+      "label": "chant",
+      "romanizedText": null
+    }
+  ],
+  "lyricOffset": 10
+}

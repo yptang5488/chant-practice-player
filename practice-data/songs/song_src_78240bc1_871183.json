@@ -5,7 +5,9 @@
   "audio": {
     "sourceId": "src_78240bc1",
     "playbackUrl": "./practice-data/audio/song_src_78240bc1_871183.mp3",
-    "duration": 245.179501
+    "duration": 245.179501,
+    "trimStart": 0,
+    "trimEnd": 0
   },
   "lyrics": [
     {
@@ -1090,11 +1092,10 @@
   "chantEvents": [
     {
       "id": "chant_mql2ekka",
-      "start": 6,
+      "start": 7,
       "end": 8,
       "text": "마 마 무",
       "label": "chant",
-      "position": null,
       "romanizedText": null
     },
     {
@@ -1103,7 +1104,6 @@
       "end": 228.5,
       "text": "문별이文星伊 김용선金容仙 정휘인丁輝人 안혜진安惠真",
       "label": "chant",
-      "position": null,
       "romanizedText": null
     },
     {
@@ -1112,7 +1112,6 @@
       "end": 233,
       "text": "Win.d Flo.wer",
       "label": "chant",
-      "position": null,
       "romanizedText": null
     }
   ],

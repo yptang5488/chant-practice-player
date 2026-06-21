@@ -13,7 +13,7 @@
       "start": 0.82,
       "end": 3.02,
       "text": "일루와 일루와 일루와",
-      "translation": null,
+      "translation": "過來吧 過來吧 過來吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -23,7 +23,7 @@
       "start": 3.02,
       "end": 5.94,
       "text": "일루와 일루와 일루와",
-      "translation": null,
+      "translation": "過來吧 過來吧 過來吧",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -31,7 +31,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "김용선",
+          "text": "김용선金容仙",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -39,7 +39,7 @@
             "charStart": 11,
             "charEnd": 11
           },
-          "romanizedText": "gimyongseon"
+          "romanizedText": "gimyongseon金容仙"
         }
       ]
     },
@@ -48,7 +48,7 @@
       "start": 5.94,
       "end": 7.88,
       "text": "일루와 일루와 일루와",
-      "translation": null,
+      "translation": "過來吧 過來吧 過來吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -58,7 +58,7 @@
       "start": 7.88,
       "end": 10.94,
       "text": "일루와 일루와 일루와",
-      "translation": null,
+      "translation": "過來吧 過來吧 過來吧",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -66,7 +66,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "안혜진",
+          "text": "안혜진安惠真",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -74,7 +74,7 @@
             "charStart": 11,
             "charEnd": 11
           },
-          "romanizedText": "anhyejin"
+          "romanizedText": "anhyejin安惠真"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "start": 10.94,
       "end": 12.28,
       "text": "폰은 저리 치워",
-      "translation": null,
+      "translation": "把手機放一邊",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -93,7 +93,7 @@
       "start": 12.28,
       "end": 13.44,
       "text": "끼는 좀 더 부려",
-      "translation": null,
+      "translation": "再多展現一點魅力",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -103,7 +103,7 @@
       "start": 13.44,
       "end": 15.84,
       "text": "골치 아픈 건 던져",
-      "translation": null,
+      "translation": "把煩心事都丟開",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -113,7 +113,7 @@
       "start": 15.84,
       "end": 17.99,
       "text": "여기서 한 잔에 상처를 다 마셔",
-      "translation": null,
+      "translation": "在這裡用一杯酒喝下所有傷口",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -123,7 +123,7 @@
       "start": 17.99,
       "end": 20.99,
       "text": "착한 척은 그만둬",
-      "translation": null,
+      "translation": "別再假裝乖巧",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -131,7 +131,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "정휘인",
+          "text": "정휘인丁輝人",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -139,7 +139,7 @@
             "charStart": 9,
             "charEnd": 9
           },
-          "romanizedText": "jeonghwiin"
+          "romanizedText": "jeonghwiin丁輝人"
         }
       ]
     },
@@ -148,7 +148,7 @@
       "start": 20.99,
       "end": 23.65,
       "text": "붐 까까꿍 타다둥",
-      "translation": null,
+      "translation": "Boom 叩叩咚 噠噠咚",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -158,7 +158,7 @@
       "start": 23.65,
       "end": 26.04,
       "text": "리듬에 몸을 맡겨",
-      "translation": null,
+      "translation": "把身體交給節奏",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -168,7 +168,7 @@
       "start": 26.04,
       "end": 29.51,
       "text": "뻔뻔하게 놀아 라라라",
-      "translation": null,
+      "translation": "厚著臉皮玩吧 啦啦啦",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -193,7 +193,7 @@
       "start": 29.51,
       "end": 33.03,
       "text": "야야 하루 아침에 내가 변한 건 아냐",
-      "translation": null,
+      "translation": "呀呀 我不是一夕之間就變了",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -203,7 +203,7 @@
       "start": 33.03,
       "end": 35.26,
       "text": "별거 아닌 거에 의미 갖지 마 인마 어우 얘",
-      "translation": null,
+      "translation": "別對小事賦予意義啦 兄弟 oh yeah",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -211,7 +211,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "문별이",
+          "text": "문별이文星伊",
           "placement": "replace-phrase",
           "anchor": {
             "matchText": "마",
@@ -219,7 +219,7 @@
             "charStart": 15,
             "charEnd": 16
           },
-          "romanizedText": "munbyeori"
+          "romanizedText": "munbyeori文星伊"
         }
       ]
     },
@@ -228,7 +228,7 @@
       "start": 35.26,
       "end": 36.45,
       "text": "괜한 antipathy",
-      "translation": null,
+      "translation": "無謂的 antipathy",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -238,7 +238,7 @@
       "start": 36.45,
       "end": 38.15,
       "text": "등 떠민 적 없지",
-      "translation": null,
+      "translation": "我可沒推過誰一把",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -248,7 +248,7 @@
       "start": 38.15,
       "end": 38.6,
       "text": "아이고 아이고 butterfly",
-      "translation": null,
+      "translation": "哎唷 哎唷 butterfly",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -258,7 +258,7 @@
       "start": 38.6,
       "end": 40.16,
       "text": "그냥 잔을 부딪쳐 zzann",
-      "translation": null,
+      "translation": "就把酒杯碰在一起 zzann",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -282,7 +282,7 @@
       "start": 40.16,
       "end": 43.4,
       "text": "It's okay to not be fine",
-      "translation": null,
+      "translation": "It's okay to not be fine",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -292,7 +292,7 @@
       "start": 43.4,
       "end": 45.39,
       "text": "괜찮지 않아도 괜찮아",
-      "translation": null,
+      "translation": "就算不好也沒關係",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -302,7 +302,7 @@
       "start": 45.39,
       "end": 48.06,
       "text": "뻔뻔하게 즐겨",
-      "translation": null,
+      "translation": "厚著臉皮享受吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -312,7 +312,7 @@
       "start": 48.06,
       "end": 49.38,
       "text": "Drop, drop, drop",
-      "translation": null,
+      "translation": "Drop, drop, drop",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -336,7 +336,7 @@
       "start": 49.38,
       "end": 50.17,
       "text": "고고베베",
-      "translation": null,
+      "translation": "gogobebe",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -361,7 +361,7 @@
       "start": 50.17,
       "end": 53.02,
       "text": "던져 버려 suit & tie",
-      "translation": null,
+      "translation": "把 suit & tie 丟掉",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -369,7 +369,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "숫앤타이",
+          "text": "suit.and.tie",
           "placement": "replace-phrase",
           "anchor": {
             "matchText": "tie",
@@ -377,8 +377,7 @@
             "charStart": 13,
             "charEnd": 16,
             "sourceMark": "strikethrough"
-          },
-          "romanizedText": "susaentai"
+          }
         }
       ]
     },
@@ -387,7 +386,7 @@
       "start": 53.02,
       "end": 55.12,
       "text": "드레스 코든 bling, bling, bling",
-      "translation": null,
+      "translation": "Dress code 就是 bling, bling, bling",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -412,7 +411,7 @@
       "start": 55.12,
       "end": 57.97,
       "text": "너와 나의 mix & match",
-      "translation": null,
+      "translation": "你和我的 mix & match",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -420,7 +419,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "믹샌매치",
+          "text": "mix.and.match",
           "placement": "replace-phrase",
           "anchor": {
             "matchText": "match",
@@ -428,8 +427,7 @@
             "charStart": 12,
             "charEnd": 17,
             "sourceMark": "strikethrough"
-          },
-          "romanizedText": "miksaenmaechi"
+          }
         }
       ]
     },
@@ -438,7 +436,7 @@
       "start": 57.97,
       "end": 59.36,
       "text": "빼지 말고 drunken, drunken",
-      "translation": null,
+      "translation": "別退縮 drunken, drunken",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -448,7 +446,7 @@
       "start": 59.36,
       "end": 60.34,
       "text": "고고베베",
-      "translation": null,
+      "translation": "gogobebe",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -473,7 +471,7 @@
       "start": 60.34,
       "end": 62.66,
       "text": "뻔뻔하게 놀아",
-      "translation": null,
+      "translation": "厚著臉皮玩吧",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -498,7 +496,7 @@
       "start": 62.66,
       "end": 65.01,
       "text": "미친 듯이 즐겨",
-      "translation": null,
+      "translation": "像瘋了一樣享受吧",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -523,7 +521,7 @@
       "start": 65.01,
       "end": 67.47,
       "text": "필요 없어 wrong & right",
-      "translation": null,
+      "translation": "不需要 wrong & right",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -531,16 +529,14 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "뤙앤라잇",
-          "placement": "replace-phrase",
+          "text": "wrong.and.right",
+          "placement": "insert-at",
           "anchor": {
-            "matchText": "right",
-            "occurrence": 1,
-            "charStart": 14,
-            "charEnd": 19,
-            "sourceMark": "strikethrough"
-          },
-          "romanizedText": "rwongaenrait"
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 19,
+            "charEnd": 19
+          }
         }
       ]
     },
@@ -549,7 +545,7 @@
       "start": 67.47,
       "end": 69.08,
       "text": "On and on, on and on",
-      "translation": null,
+      "translation": "On and on, on and on",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -559,7 +555,7 @@
       "start": 69.08,
       "end": 70.56,
       "text": "고고베베",
-      "translation": null,
+      "translation": "gogobebe",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -584,7 +580,7 @@
       "start": 70.56,
       "end": 72.25,
       "text": "일루와 일루와 일루와",
-      "translation": null,
+      "translation": "過來吧 過來吧 過來吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -594,7 +590,7 @@
       "start": 72.25,
       "end": 73.94,
       "text": "일루와 일루와 일루와",
-      "translation": null,
+      "translation": "過來吧 過來吧 過來吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -604,7 +600,7 @@
       "start": 73.94,
       "end": 75.45,
       "text": "고고베베",
-      "translation": null,
+      "translation": "gogobebe",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -614,7 +610,7 @@
       "start": 75.45,
       "end": 77.2,
       "text": "일루와 일루와 일루와",
-      "translation": null,
+      "translation": "過來吧 過來吧 過來吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -624,7 +620,7 @@
       "start": 77.2,
       "end": 78.88,
       "text": "일루와 일루와 일루와",
-      "translation": null,
+      "translation": "過來吧 過來吧 過來吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -634,7 +630,7 @@
       "start": 78.88,
       "end": 81.64,
       "text": "고고베베",
-      "translation": null,
+      "translation": "gogobebe",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -644,7 +640,7 @@
       "start": 81.64,
       "end": 82.69,
       "text": "Look up the hill",
-      "translation": null,
+      "translation": "抬頭望向山丘",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -654,7 +650,7 @@
       "start": 82.69,
       "end": 83.93,
       "text": "Focus, focus, focus",
-      "translation": null,
+      "translation": "Focus, focus, focus",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -664,7 +660,7 @@
       "start": 83.93,
       "end": 85.18,
       "text": "난 나의 피사체",
-      "translation": null,
+      "translation": "我是自己的拍攝主角",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -674,7 +670,7 @@
       "start": 85.18,
       "end": 87.41,
       "text": "무시해 잔소린 음소거 click, click 삑",
-      "translation": null,
+      "translation": "無視那些嘮叨 靜音 click, click 嗶",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -699,7 +695,7 @@
       "start": 87.41,
       "end": 88.96,
       "text": "이렇다 저렇다 가타부타",
-      "translation": null,
+      "translation": "說東說西、七嘴八舌",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -709,7 +705,7 @@
       "start": 88.96,
       "end": 90.55,
       "text": "꼭 말 많은 애들이 먼저",
-      "translation": null,
+      "translation": "那些話最多的人總是先",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -719,7 +715,7 @@
       "start": 90.55,
       "end": 91.56,
       "text": "영화에선 die해",
-      "translation": null,
+      "translation": "在電影裡 die 掉",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -729,7 +725,7 @@
       "start": 91.56,
       "end": 92.32,
       "text": "So raise 자기애",
-      "translation": null,
+      "translation": "So raise 自愛",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -739,7 +735,7 @@
       "start": 92.32,
       "end": 94.85,
       "text": "It's okay to not be fine",
-      "translation": null,
+      "translation": "It's okay to not be fine",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -749,7 +745,7 @@
       "start": 94.85,
       "end": 97.73,
       "text": "괜찮지 않아도 괜찮아",
-      "translation": null,
+      "translation": "就算不好也沒關係",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -759,7 +755,7 @@
       "start": 97.73,
       "end": 100.02,
       "text": "뻔뻔하게 즐겨",
-      "translation": null,
+      "translation": "厚著臉皮享受吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -769,7 +765,7 @@
       "start": 100.02,
       "end": 100.84,
       "text": "Drop, drop, drop",
-      "translation": null,
+      "translation": "Drop, drop, drop",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -793,7 +789,7 @@
       "start": 100.84,
       "end": 102.5,
       "text": "고고베베",
-      "translation": null,
+      "translation": "gogobebe",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -818,7 +814,7 @@
       "start": 102.5,
       "end": 104.5,
       "text": "던져 버려 suit & tie",
-      "translation": null,
+      "translation": "把 suit & tie 丟掉",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -826,15 +822,14 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "숫앤타이",
+          "text": "suit.and.tie",
           "placement": "replace-phrase",
           "anchor": {
             "matchText": "tie",
             "occurrence": 1,
             "charStart": 13,
             "charEnd": 16
-          },
-          "romanizedText": "susaentai"
+          }
         }
       ]
     },
@@ -843,7 +838,7 @@
       "start": 104.5,
       "end": 106.71,
       "text": "드레스 코든 bling, bling, bling",
-      "translation": null,
+      "translation": "Dress code 就是 bling, bling, bling",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -868,7 +863,7 @@
       "start": 106.71,
       "end": 109.42,
       "text": "너와 나의 mix & match",
-      "translation": null,
+      "translation": "你和我的 mix & match",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -876,15 +871,14 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "믹샌매치",
+          "text": "mix.and.match",
           "placement": "replace-phrase",
           "anchor": {
             "matchText": "match",
             "occurrence": 1,
             "charStart": 12,
             "charEnd": 17
-          },
-          "romanizedText": "miksaenmaechi"
+          }
         }
       ]
     },
@@ -893,7 +887,7 @@
       "start": 109.42,
       "end": 110.93,
       "text": "빼지 말고 drunken, drunken",
-      "translation": null,
+      "translation": "別退縮 drunken, drunken",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -903,7 +897,7 @@
       "start": 110.93,
       "end": 112.49,
       "text": "고고베베",
-      "translation": null,
+      "translation": "gogobebe",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -928,7 +922,7 @@
       "start": 112.49,
       "end": 114.98,
       "text": "뻔뻔하게 놀아",
-      "translation": null,
+      "translation": "厚著臉皮玩吧",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -953,7 +947,7 @@
       "start": 114.98,
       "end": 117.07,
       "text": "미친 듯이 즐겨",
-      "translation": null,
+      "translation": "像瘋了一樣享受吧",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -978,7 +972,7 @@
       "start": 117.07,
       "end": 119.85,
       "text": "필요 없어 wrong & right",
-      "translation": null,
+      "translation": "不需要 wrong & right",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -986,15 +980,14 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "뤙앤라잇",
+          "text": "wrong.and.right",
           "placement": "replace-phrase",
           "anchor": {
             "matchText": "right",
             "occurrence": 1,
             "charStart": 14,
             "charEnd": 19
-          },
-          "romanizedText": "rwongaenrait"
+          }
         }
       ]
     },
@@ -1003,7 +996,7 @@
       "start": 119.85,
       "end": 121,
       "text": "On and on, on and on",
-      "translation": null,
+      "translation": "On and on, on and on",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -1013,7 +1006,7 @@
       "start": 121,
       "end": 122.43,
       "text": "고고베베",
-      "translation": null,
+      "translation": "gogobebe",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -1038,7 +1031,7 @@
       "start": 122.43,
       "end": 124.24,
       "text": "일루와 일루와 일루와",
-      "translation": null,
+      "translation": "過來吧 過來吧 過來吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -1048,7 +1041,7 @@
       "start": 124.24,
       "end": 126.36,
       "text": "일루와 일루와 일루와",
-      "translation": null,
+      "translation": "過來吧 過來吧 過來吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -1058,7 +1051,7 @@
       "start": 126.36,
       "end": 127.49,
       "text": "고고베베",
-      "translation": null,
+      "translation": "gogobebe",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -1068,7 +1061,7 @@
       "start": 127.49,
       "end": 128.48,
       "text": "일루와 일루와 일루와",
-      "translation": null,
+      "translation": "過來吧 過來吧 過來吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -1078,7 +1071,7 @@
       "start": 128.48,
       "end": 130.5,
       "text": "일루와 일루와 일루와",
-      "translation": null,
+      "translation": "過來吧 過來吧 過來吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -1088,7 +1081,7 @@
       "start": 130.5,
       "end": 131.89,
       "text": "고고베베",
-      "translation": null,
+      "translation": "gogobebe",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -1098,7 +1091,7 @@
       "start": 131.89,
       "end": 135.36,
       "text": "Nine, slash, six",
-      "translation": null,
+      "translation": "Nine, slash, six",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -1122,7 +1115,7 @@
       "start": 135.36,
       "end": 136.74,
       "text": "Six, nineteen",
-      "translation": null,
+      "translation": "Six, nineteen",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -1146,7 +1139,7 @@
       "start": 136.74,
       "end": 140.29,
       "text": "Nine, slash, six",
-      "translation": null,
+      "translation": "Nine, slash, six",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -1170,7 +1163,7 @@
       "start": 140.29,
       "end": 141.5,
       "text": "Gogobebe",
-      "translation": null,
+      "translation": "Gogobebe",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -1194,7 +1187,7 @@
       "start": 141.5,
       "end": 143.83,
       "text": "몸 다 풀었어",
-      "translation": null,
+      "translation": "身體都熱開了",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -1219,7 +1212,7 @@
       "start": 143.83,
       "end": 146.1,
       "text": "미칠 준비가 됐어",
-      "translation": null,
+      "translation": "已經準備好瘋狂",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -1244,7 +1237,7 @@
       "start": 146.1,
       "end": 148.66,
       "text": "시작해, whoa-ah-ah-ay-ya",
-      "translation": null,
+      "translation": "開始吧 whoa-ah-ah-ay-ya",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -1254,7 +1247,7 @@
       "start": 148.66,
       "end": 150.4,
       "text": "다들 난리가 나 나",
-      "translation": null,
+      "translation": "大家都鬧翻天了",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -1264,7 +1257,7 @@
       "start": 150.4,
       "end": 152.77,
       "text": "난리가 나",
-      "translation": null,
+      "translation": "鬧翻天了",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -1274,7 +1267,7 @@
       "start": 152.77,
       "end": 154.59,
       "text": "고고베베",
-      "translation": null,
+      "translation": "gogobebe",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -1299,7 +1292,7 @@
       "start": 154.59,
       "end": 156.44,
       "text": "던져 버려 suit & tie",
-      "translation": null,
+      "translation": "把 suit & tie 丟掉",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -1307,15 +1300,14 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "숫앤타이",
+          "text": "suit.and.tie",
           "placement": "replace-phrase",
           "anchor": {
             "matchText": "tie",
             "occurrence": 1,
             "charStart": 13,
             "charEnd": 16
-          },
-          "romanizedText": "susaentai"
+          }
         }
       ]
     },
@@ -1324,7 +1316,7 @@
       "start": 156.44,
       "end": 158.91,
       "text": "드레스 코든 bling, bling, bling",
-      "translation": null,
+      "translation": "Dress code 就是 bling, bling, bling",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -1334,7 +1326,7 @@
       "start": 158.91,
       "end": 161.31,
       "text": "너와 나의 mix & match",
-      "translation": null,
+      "translation": "你和我的 mix & match",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -1342,15 +1334,14 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "믹샌매치",
+          "text": "mix.and.match",
           "placement": "replace-phrase",
           "anchor": {
             "matchText": "match",
             "occurrence": 1,
             "charStart": 12,
             "charEnd": 17
-          },
-          "romanizedText": "miksaenmaechi"
+          }
         }
       ]
     },
@@ -1359,7 +1350,7 @@
       "start": 161.31,
       "end": 162.89,
       "text": "빼지 말고 drunken, drunken",
-      "translation": null,
+      "translation": "別退縮 drunken, drunken",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -1369,7 +1360,7 @@
       "start": 162.89,
       "end": 164.31,
       "text": "고고베베",
-      "translation": null,
+      "translation": "gogobebe",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -1394,7 +1385,7 @@
       "start": 164.31,
       "end": 166.32,
       "text": "뻔뻔하게 놀아",
-      "translation": null,
+      "translation": "厚著臉皮玩吧",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -1419,7 +1410,7 @@
       "start": 166.32,
       "end": 168.8,
       "text": "미친 듯이 즐겨",
-      "translation": null,
+      "translation": "像瘋了一樣享受吧",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -1444,7 +1435,7 @@
       "start": 168.8,
       "end": 171.43,
       "text": "필요 없어 wrong & right",
-      "translation": null,
+      "translation": "不需要 wrong & right",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -1452,15 +1443,14 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "뤙앤라잇",
+          "text": "wrong.and.right",
           "placement": "replace-phrase",
           "anchor": {
             "matchText": "right",
             "occurrence": 1,
             "charStart": 14,
             "charEnd": 19
-          },
-          "romanizedText": "rwongaenrait"
+          }
         }
       ]
     },
@@ -1469,7 +1459,7 @@
       "start": 171.43,
       "end": 172.55,
       "text": "On and on, on and on",
-      "translation": null,
+      "translation": "On and on, on and on",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -1479,7 +1469,7 @@
       "start": 172.55,
       "end": 174.1,
       "text": "고고베베",
-      "translation": null,
+      "translation": "gogobebe",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -1504,7 +1494,7 @@
       "start": 174.1,
       "end": 176.12,
       "text": "일루와 일루와 일루와",
-      "translation": null,
+      "translation": "過來吧 過來吧 過來吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -1514,7 +1504,7 @@
       "start": 176.12,
       "end": 177.72,
       "text": "일루와 일루와 일루와",
-      "translation": null,
+      "translation": "過來吧 過來吧 過來吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -1524,7 +1514,7 @@
       "start": 177.72,
       "end": 179.35,
       "text": "고고베베",
-      "translation": null,
+      "translation": "gogobebe",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -1534,7 +1524,7 @@
       "start": 179.35,
       "end": 181.12,
       "text": "일루와 일루와 일루와",
-      "translation": null,
+      "translation": "過來吧 過來吧 過來吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -1544,7 +1534,7 @@
       "start": 181.12,
       "end": 182.96,
       "text": "일루와 일루와 일루와",
-      "translation": null,
+      "translation": "過來吧 過來吧 過來吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -1554,7 +1544,7 @@
       "start": 182.96,
       "end": 186.1,
       "text": "고고베베",
-      "translation": null,
+      "translation": "gogobebe",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -1562,7 +1552,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "김용선 문별이",
+          "text": "김용선金容仙 문별이文星伊",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -1570,7 +1560,7 @@
             "charStart": 4,
             "charEnd": 4
           },
-          "romanizedText": "gimyongseon munbyeori"
+          "romanizedText": "gimyongseon金容仙 munbyeori文星伊"
         }
       ]
     },
@@ -1579,7 +1569,7 @@
       "start": 186.1,
       "end": 191.09,
       "text": "고고베베",
-      "translation": null,
+      "translation": "gogobebe",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -1587,7 +1577,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "정휘인 안혜진 마마무",
+          "text": "정휘인丁輝人 안혜진安惠真 마마무",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -1595,7 +1585,7 @@
             "charStart": 0,
             "charEnd": 0
           },
-          "romanizedText": "jeonghwiin anhyejin mamamu"
+          "romanizedText": "jeonghwiin丁輝人 anhyejin安惠真 mamamu"
         }
       ]
     },
@@ -1604,7 +1594,7 @@
       "start": 191.09,
       "end": 245.621,
       "text": "고고베베",
-      "translation": null,
+      "translation": "gogobebe",
       "confidence": 0.9,
       "segments": [],
       "notes": [

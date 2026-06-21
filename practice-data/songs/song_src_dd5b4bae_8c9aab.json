@@ -1,0 +1,1050 @@
+{
+  "id": "song_src_dd5b4bae_8c9aab",
+  "title": "L.I.E.C",
+  "artist": "MAMAMOO",
+  "audio": {
+    "sourceId": "src_dd5b4bae",
+    "playbackUrl": "./practice-data/audio/song_src_dd5b4bae_8c9aab.mp3",
+    "duration": 175.449977,
+    "trimStart": 0,
+    "trimEnd": 0
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 8.16,
+      "end": 10.25,
+      "text": "L.I.E.C",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l2",
+      "start": 10.25,
+      "end": 12.46,
+      "text": "질러 나와 같이",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l3",
+      "start": 12.46,
+      "end": 16.12,
+      "text": "돌아이같이 다",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l4",
+      "start": 16.12,
+      "end": 16.85,
+      "text": "L.I.E.C",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l5",
+      "start": 16.85,
+      "end": 18.64,
+      "text": "Do what you wanna do",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "do",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 20,
+            "charEnd": 20
+          }
+        }
+      ]
+    },
+    {
+      "id": "l6",
+      "start": 18.64,
+      "end": 20.52,
+      "text": "같이 가 모두",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "두",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 7,
+            "charEnd": 7
+          },
+          "romanizedText": "du"
+        }
+      ]
+    },
+    {
+      "id": "l7",
+      "start": 20.52,
+      "end": 22.94,
+      "text": "Phone 은 잠시 down",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l8",
+      "start": 22.94,
+      "end": 26.7,
+      "text": "잡아 택시 타고 Let's ride",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "ride",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 19,
+            "charEnd": 19
+          }
+        }
+      ]
+    },
+    {
+      "id": "l9",
+      "start": 26.7,
+      "end": 28.6,
+      "text": "먹고 마시고",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l10",
+      "start": 28.6,
+      "end": 31.91,
+      "text": "I'm feeling alive",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l11",
+      "start": 31.91,
+      "end": 34.12,
+      "text": "후 한숨만 나와",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "후",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "후",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 1
+          },
+          "romanizedText": "hu"
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "start": 34.12,
+      "end": 36.33,
+      "text": "툭 치면 울 것 같은",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "툭",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "툭",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 1
+          },
+          "romanizedText": "tuk"
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "start": 36.33,
+      "end": 39.19,
+      "text": "하루가 지나간다",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l14",
+      "start": 39.19,
+      "end": 41.48,
+      "text": "난 멋지게 살고 싶은데",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l15",
+      "start": 41.48,
+      "end": 43.27,
+      "text": "못 놀고 살고 있어",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "왜!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 10,
+            "charEnd": 10
+          },
+          "romanizedText": "wae!"
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "start": 43.27,
+      "end": 44.05,
+      "text": "괜찮아",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l17",
+      "start": 44.05,
+      "end": 47,
+      "text": "너의 하루 끝엔 내가 서있어",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l18",
+      "start": 47,
+      "end": 49.13,
+      "text": "No doubt",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l19",
+      "start": 49.13,
+      "end": 53.44,
+      "text": "그냥 네 멋대로 해 다",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l20",
+      "start": 53.44,
+      "end": 56.56,
+      "text": "네비엔 없는 길로 가",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l21",
+      "start": 56.56,
+      "end": 59.59,
+      "text": "Go, go, go 고생 끝",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Go, go, go",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Go, go, go",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": "l22",
+      "start": 59.59,
+      "end": 60.48,
+      "text": "Let's get started",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l23",
+      "start": 60.48,
+      "end": 62.9,
+      "text": "놀아 같이 다",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l24",
+      "start": 62.9,
+      "end": 64.09,
+      "text": "L.I.E.C",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l25",
+      "start": 64.09,
+      "end": 65.76,
+      "text": "Do what you wanna do",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "do",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 20,
+            "charEnd": 20
+          }
+        }
+      ]
+    },
+    {
+      "id": "l26",
+      "start": 65.76,
+      "end": 67.74,
+      "text": "같이 가 모두",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "두",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 7,
+            "charEnd": 7
+          },
+          "romanizedText": "du"
+        }
+      ]
+    },
+    {
+      "id": "l27",
+      "start": 67.74,
+      "end": 70.49,
+      "text": "Phone 은 잠시 down",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l28",
+      "start": 70.49,
+      "end": 73.69,
+      "text": "잡아 택시 타고 Let's ride",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "ride",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 19,
+            "charEnd": 19
+          }
+        }
+      ]
+    },
+    {
+      "id": "l29",
+      "start": 73.69,
+      "end": 75.53,
+      "text": "먹고 마시고",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l30",
+      "start": 75.53,
+      "end": 78.9,
+      "text": "I'm feeling alive",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l31",
+      "start": 78.9,
+      "end": 80.76,
+      "text": "어디야 왜 혼자야",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l32",
+      "start": 80.76,
+      "end": 82.49,
+      "text": "지금이 몇 시야 빨리 나와",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l33",
+      "start": 82.49,
+      "end": 85.17,
+      "text": "주머니 텅 잔고 걱정 하지마",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "텅",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "텅",
+            "occurrence": 1,
+            "charStart": 4,
+            "charEnd": 5
+          },
+          "romanizedText": "teong"
+        }
+      ]
+    },
+    {
+      "id": "l34",
+      "start": 85.17,
+      "end": 86.79,
+      "text": "빚내도 내가 다 쏴",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "쏴",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "쏴",
+            "occurrence": 1,
+            "charStart": 9,
+            "charEnd": 10
+          },
+          "romanizedText": "sswa"
+        }
+      ]
+    },
+    {
+      "id": "l35",
+      "start": 86.79,
+      "end": 91.64,
+      "text": "내 마음대로 살아갈거야 난",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l36",
+      "start": 91.64,
+      "end": 94.9,
+      "text": "Life is so cool, cool, cool",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "cool, cool, cool",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "cool, cool, cool",
+            "occurrence": 1,
+            "charStart": 11,
+            "charEnd": 27
+          }
+        }
+      ]
+    },
+    {
+      "id": "l37",
+      "start": 94.9,
+      "end": 96.51,
+      "text": "해보고 싶은 게 많았는데",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l38",
+      "start": 96.51,
+      "end": 98.79,
+      "text": "달만 보고 사는 게 웃프네",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l39",
+      "start": 98.79,
+      "end": 102.91,
+      "text": "(L.I, L.I, L.I) L.I.E.C",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "L.I.E.C",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "L.I.E.C",
+            "occurrence": 1,
+            "charStart": 16,
+            "charEnd": 23
+          }
+        }
+      ]
+    },
+    {
+      "id": "l40",
+      "start": 102.91,
+      "end": 105.32,
+      "text": "Do what you wanna do",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "do",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 20,
+            "charEnd": 20
+          }
+        }
+      ]
+    },
+    {
+      "id": "l41",
+      "start": 105.32,
+      "end": 107.2,
+      "text": "같이 가 모두",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "두",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 7,
+            "charEnd": 7
+          },
+          "romanizedText": "du"
+        }
+      ]
+    },
+    {
+      "id": "l42",
+      "start": 107.2,
+      "end": 109.73,
+      "text": "Phone 은 잠시 down",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l43",
+      "start": 109.73,
+      "end": 112.95,
+      "text": "잡아 택시 타고 Let's ride",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "ride",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 19,
+            "charEnd": 19
+          }
+        }
+      ]
+    },
+    {
+      "id": "l44",
+      "start": 112.95,
+      "end": 114.9,
+      "text": "먹고 마시고",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l45",
+      "start": 114.9,
+      "end": 125.72,
+      "text": "I'm feeling alive",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "김용선金容仙 문별이文星伊 정휘인丁輝人 안혜진安惠真 SCREAM!!!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 17,
+            "charEnd": 17
+          },
+          "romanizedText": "gimyongseon金容仙 munbyeori文星伊 jeonghwiin丁輝人 anhyejin安惠真 SCREAM!!!"
+        }
+      ]
+    },
+    {
+      "id": "l46",
+      "start": 125.72,
+      "end": 127.82,
+      "text": "그냥 해 너 답게",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l47",
+      "start": 127.82,
+      "end": 129.86,
+      "text": "모두 뻑이 가게 해",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l48",
+      "start": 129.86,
+      "end": 131.93,
+      "text": "그냥 해 답답할 땐",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l49",
+      "start": 131.93,
+      "end": 134.06,
+      "text": "L.I.E.C",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "L.I.E.C",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "L.I.E.C",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 7
+          }
+        }
+      ]
+    },
+    {
+      "id": "l50",
+      "start": 134.06,
+      "end": 135.6,
+      "text": "그냥 해 너 답게",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l51",
+      "start": 135.6,
+      "end": 137.39,
+      "text": "모두 뻑이 가게 해",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l52",
+      "start": 137.39,
+      "end": 141.45,
+      "text": "그냥 해 답답할 땐",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l53",
+      "start": 141.45,
+      "end": 142.58,
+      "text": "L.I.E.C",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "후",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 7,
+            "charEnd": 7
+          },
+          "romanizedText": "hu"
+        }
+      ]
+    },
+    {
+      "id": "l54",
+      "start": 142.58,
+      "end": 144.49,
+      "text": "Do what you wanna do",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "do",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 20,
+            "charEnd": 20
+          }
+        }
+      ]
+    },
+    {
+      "id": "l55",
+      "start": 144.49,
+      "end": 146.35,
+      "text": "같이 가 모두",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "두",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 7,
+            "charEnd": 7
+          },
+          "romanizedText": "du"
+        }
+      ]
+    },
+    {
+      "id": "l56",
+      "start": 146.35,
+      "end": 149.14,
+      "text": "Phone 은 잠시 down",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l57",
+      "start": 149.14,
+      "end": 152.24,
+      "text": "잡아 택시 타고 Let's ride",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "ride",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 19,
+            "charEnd": 19
+          }
+        }
+      ]
+    },
+    {
+      "id": "l58",
+      "start": 152.24,
+      "end": 154.14,
+      "text": "먹고 마시고",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l59",
+      "start": 154.14,
+      "end": 157.45,
+      "text": "I'm feeling alive",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l60",
+      "start": 157.45,
+      "end": 160.58,
+      "text": "그냥 해",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l61",
+      "start": 160.58,
+      "end": 162.04,
+      "text": "그냥 뻑이 가게 해",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l62",
+      "start": 162.04,
+      "end": 165.41,
+      "text": "L.I.E.C 이건 진심",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "L.I.E.C 이건 진심",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "L.I.E.C 이건 진심",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 13
+          },
+          "romanizedText": "L.I.E.C igeon jinsim"
+        }
+      ]
+    },
+    {
+      "id": "l63",
+      "start": 165.41,
+      "end": 167.67,
+      "text": "그냥 해",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l64",
+      "start": 167.67,
+      "end": 169.62,
+      "text": "그냥 뻑이 가게 해",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l65",
+      "start": 169.62,
+      "end": 175.45,
+      "text": "L.I.E.C",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "L.I.E.C",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "L.I.E.C",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 7
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "SCREAM!!!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 7,
+            "charEnd": 7
+          }
+        }
+      ]
+    }
+  ],
+  "chantEvents": [
+    {
+      "id": "chant_mqnp9qna",
+      "start": 0.5,
+      "end": 2.5,
+      "text": "SCREAM!!!",
+      "label": "chant",
+      "romanizedText": null
+    }
+  ],
+  "lyricOffset": 0.5
+}
