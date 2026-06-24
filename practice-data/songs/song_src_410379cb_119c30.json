@@ -4,7 +4,7 @@
   "artist": "MAMAMOO",
   "audio": {
     "sourceId": "src_410379cb",
-    "playbackUrl": "./practice-data/audio/song_src_410379cb_119c30.mp3",
+    "playbackUrl": "/media/raw/src_410379cb.mp3",
     "duration": 232.547846,
     "trimStart": 0,
     "trimEnd": 0

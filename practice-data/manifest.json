@@ -7,9 +7,8 @@
       "hasLyrics": true,
       "hasTranslation": true,
       "hasNotes": true,
-      "playerPath": "/player/song_src_16e9e503_0e65e3",
-      "songUrl": "./practice-data/songs/song_src_16e9e503_0e65e3.json",
-      "audioUrl": "./practice-data/audio/song_src_16e9e503_0e65e3.mp3"
+      "playerPath": "/youtube-player/song_src_16e9e503_0e65e3",
+      "songUrl": "./practice-data/songs/song_src_16e9e503_0e65e3.json"
     },
     {
       "id": "song_src_3217368a_4037d6",
@@ -18,9 +17,8 @@
       "hasLyrics": true,
       "hasTranslation": true,
       "hasNotes": true,
-      "playerPath": "/player/song_src_3217368a_4037d6",
-      "songUrl": "./practice-data/songs/song_src_3217368a_4037d6.json",
-      "audioUrl": "./practice-data/audio/song_src_3217368a_4037d6.mp3"
+      "playerPath": "/youtube-player/song_src_3217368a_4037d6",
+      "songUrl": "./practice-data/songs/song_src_3217368a_4037d6.json"
     },
     {
       "id": "song_src_363e8e0c_f442cc",
@@ -29,9 +27,8 @@
       "hasLyrics": true,
       "hasTranslation": true,
       "hasNotes": true,
-      "playerPath": "/player/song_src_363e8e0c_f442cc",
-      "songUrl": "./practice-data/songs/song_src_363e8e0c_f442cc.json",
-      "audioUrl": "./practice-data/audio/song_src_363e8e0c_f442cc.mp3"
+      "playerPath": "/youtube-player/song_src_363e8e0c_f442cc",
+      "songUrl": "./practice-data/songs/song_src_363e8e0c_f442cc.json"
     },
     {
       "id": "song_src_410379cb_119c30",
@@ -40,9 +37,8 @@
       "hasLyrics": true,
       "hasTranslation": true,
       "hasNotes": true,
-      "playerPath": "/player/song_src_410379cb_119c30",
-      "songUrl": "./practice-data/songs/song_src_410379cb_119c30.json",
-      "audioUrl": "./practice-data/audio/song_src_410379cb_119c30.mp3"
+      "playerPath": "/youtube-player/song_src_410379cb_119c30",
+      "songUrl": "./practice-data/songs/song_src_410379cb_119c30.json"
     },
     {
       "id": "song_src_4671e574_dd8233",
@@ -51,9 +47,8 @@
       "hasLyrics": true,
       "hasTranslation": true,
       "hasNotes": true,
-      "playerPath": "/player/song_src_4671e574_dd8233",
-      "songUrl": "./practice-data/songs/song_src_4671e574_dd8233.json",
-      "audioUrl": "./practice-data/audio/song_src_4671e574_dd8233.mp3"
+      "playerPath": "/youtube-player/song_src_4671e574_dd8233",
+      "songUrl": "./practice-data/songs/song_src_4671e574_dd8233.json"
     },
     {
       "id": "song_src_78240bc1_871183",
@@ -62,9 +57,8 @@
       "hasLyrics": true,
       "hasTranslation": true,
       "hasNotes": true,
-      "playerPath": "/player/song_src_78240bc1_871183",
-      "songUrl": "./practice-data/songs/song_src_78240bc1_871183.json",
-      "audioUrl": "./practice-data/audio/song_src_78240bc1_871183.mp3"
+      "playerPath": "/youtube-player/song_src_78240bc1_871183",
+      "songUrl": "./practice-data/songs/song_src_78240bc1_871183.json"
     },
     {
       "id": "song_src_7eb8ca84_8e25a7",
@@ -73,9 +67,8 @@
       "hasLyrics": true,
       "hasTranslation": true,
       "hasNotes": true,
-      "playerPath": "/player/song_src_7eb8ca84_8e25a7",
-      "songUrl": "./practice-data/songs/song_src_7eb8ca84_8e25a7.json",
-      "audioUrl": "./practice-data/audio/song_src_7eb8ca84_8e25a7.mp3"
+      "playerPath": "/youtube-player/song_src_7eb8ca84_8e25a7",
+      "songUrl": "./practice-data/songs/song_src_7eb8ca84_8e25a7.json"
     },
     {
       "id": "song_src_9120883d_85212a",
@@ -84,9 +77,8 @@
       "hasLyrics": true,
       "hasTranslation": true,
       "hasNotes": true,
-      "playerPath": "/player/song_src_9120883d_85212a",
-      "songUrl": "./practice-data/songs/song_src_9120883d_85212a.json",
-      "audioUrl": "./practice-data/audio/song_src_9120883d_85212a.mp3"
+      "playerPath": "/youtube-player/song_src_9120883d_85212a",
+      "songUrl": "./practice-data/songs/song_src_9120883d_85212a.json"
     },
     {
       "id": "song_src_aaf2a49c_da3ed6",
@@ -95,9 +87,8 @@
       "hasLyrics": true,
       "hasTranslation": true,
       "hasNotes": true,
-      "playerPath": "/player/song_src_aaf2a49c_da3ed6",
-      "songUrl": "./practice-data/songs/song_src_aaf2a49c_da3ed6.json",
-      "audioUrl": "./practice-data/audio/song_src_aaf2a49c_da3ed6.mp3"
+      "playerPath": "/youtube-player/song_src_aaf2a49c_da3ed6",
+      "songUrl": "./practice-data/songs/song_src_aaf2a49c_da3ed6.json"
     },
     {
       "id": "song_src_dd5b4bae_8c9aab",
@@ -106,9 +97,8 @@
       "hasLyrics": true,
       "hasTranslation": false,
       "hasNotes": true,
-      "playerPath": "/player/song_src_dd5b4bae_8c9aab",
-      "songUrl": "./practice-data/songs/song_src_dd5b4bae_8c9aab.json",
-      "audioUrl": "./practice-data/audio/song_src_dd5b4bae_8c9aab.mp3"
+      "playerPath": "/youtube-player/song_src_dd5b4bae_8c9aab",
+      "songUrl": "./practice-data/songs/song_src_dd5b4bae_8c9aab.json"
     },
     {
       "id": "song_src_ef7e0be7_1722aa",
@@ -117,9 +107,54 @@
       "hasLyrics": true,
       "hasTranslation": true,
       "hasNotes": true,
-      "playerPath": "/player/song_src_ef7e0be7_1722aa",
-      "songUrl": "./practice-data/songs/song_src_ef7e0be7_1722aa.json",
-      "audioUrl": "./practice-data/audio/song_src_ef7e0be7_1722aa.mp3"
+      "playerPath": "/youtube-player/song_src_ef7e0be7_1722aa",
+      "songUrl": "./practice-data/songs/song_src_ef7e0be7_1722aa.json"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_16e9e503",
+      "sourceUrl": "./practice-data/sources/src_16e9e503.json"
+    },
+    {
+      "id": "src_qevrw9pp",
+      "sourceUrl": "./practice-data/sources/src_qevrw9pp.json"
+    },
+    {
+      "id": "src_363e8e0c",
+      "sourceUrl": "./practice-data/sources/src_363e8e0c.json"
+    },
+    {
+      "id": "src_410379cb",
+      "sourceUrl": "./practice-data/sources/src_410379cb.json"
+    },
+    {
+      "id": "src_4671e574",
+      "sourceUrl": "./practice-data/sources/src_4671e574.json"
+    },
+    {
+      "id": "src_78240bc1",
+      "sourceUrl": "./practice-data/sources/src_78240bc1.json"
+    },
+    {
+      "id": "src_7eb8ca84",
+      "sourceUrl": "./practice-data/sources/src_7eb8ca84.json"
+    },
+    {
+      "id": "src_9120883d",
+      "sourceUrl": "./practice-data/sources/src_9120883d.json"
+    },
+    {
+      "id": "src_29de72a6",
+      "sourceUrl": "./practice-data/sources/src_29de72a6.json"
+    },
+    {
+      "id": "src_dd5b4bae",
+      "sourceUrl": "./practice-data/sources/src_dd5b4bae.json"
+    },
+    {
+      "id": "src_ef7e0be7",
+      "sourceUrl": "./practice-data/sources/src_ef7e0be7.json"
     }
   ]
 }
