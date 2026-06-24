@@ -5,8 +5,8 @@
   "audio": {
     "sourceId": "src_78240bc1",
     "playbackUrl": "./practice-data/audio/song_src_78240bc1_871183.mp3",
-    "duration": 245.179501,
-    "trimStart": 0,
+    "duration": 245.016961,
+    "trimStart": 8.5,
     "trimEnd": 0
   },
   "lyrics": [
@@ -1115,5 +1115,5 @@
       "romanizedText": null
     }
   ],
-  "lyricOffset": 9
+  "lyricOffset": 0
 }

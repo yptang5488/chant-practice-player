@@ -3,9 +3,11 @@
   "title": "gogobebe",
   "artist": "MAMAMOO",
   "audio": {
-    "sourceId": "src_3217368a",
+    "sourceId": "src_qevrw9pp",
     "playbackUrl": "./practice-data/audio/song_src_3217368a_4037d6.mp3",
-    "duration": 245.620688
+    "duration": 200.156009,
+    "trimStart": 0,
+    "trimEnd": 0
   },
   "lyrics": [
     {
@@ -1592,7 +1594,7 @@
     {
       "id": "l96",
       "start": 191.09,
-      "end": 245.621,
+      "end": 200.156009,
       "text": "고고베베",
       "translation": "gogobebe",
       "confidence": 0.9,
@@ -1616,5 +1618,5 @@
     }
   ],
   "chantEvents": [],
-  "lyricOffset": -0.5
+  "lyricOffset": 0
 }

@@ -5,7 +5,9 @@
   "audio": {
     "sourceId": "src_29de72a6",
     "playbackUrl": "./practice-data/audio/song_src_aaf2a49c_da3ed6.mp3",
-    "duration": 197.880454
+    "duration": 226.719637,
+    "trimStart": 6.5,
+    "trimEnd": 0
   },
   "lyrics": [
     {

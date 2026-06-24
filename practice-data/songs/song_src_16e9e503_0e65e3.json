@@ -1,0 +1,1028 @@
+{
+  "id": "song_src_16e9e503_0e65e3",
+  "title": "Decalcomanie",
+  "artist": "MAMAMOO",
+  "audio": {
+    "sourceId": "src_16e9e503",
+    "playbackUrl": "./practice-data/audio/song_src_16e9e503_0e65e3.mp3",
+    "duration": 238.817234,
+    "trimStart": 24.5,
+    "trimEnd": 0
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 2.04,
+      "end": 3.1,
+      "text": "Knock Knock",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l2",
+      "start": 3.1,
+      "end": 6.11,
+      "text": "낯선 너의 등장이",
+      "translation": "陌生的你登場",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "마마무",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 9,
+            "charEnd": 9
+          },
+          "romanizedText": "Mamamoo"
+        }
+      ]
+    },
+    {
+      "id": "l3",
+      "start": 6.11,
+      "end": 10.19,
+      "text": "평소답지 않은 눈빛이",
+      "translation": "那不像平常的眼神",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "안혜진",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 11,
+            "charEnd": 11
+          },
+          "romanizedText": "安惠真"
+        }
+      ]
+    },
+    {
+      "id": "l4",
+      "start": 10.19,
+      "end": 14.21,
+      "text": "뭔가 느낌이 좀 수상해",
+      "translation": "感覺有點可疑",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l5",
+      "start": 14.21,
+      "end": 18.53,
+      "text": "지금은 12시10분전",
+      "translation": "現在是午夜前十分鐘",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l6",
+      "start": 18.53,
+      "end": 22.7,
+      "text": "점점 분위기에 취하고",
+      "translation": "漸漸沉醉在氣氛裡",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "마마무",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 11,
+            "charEnd": 11
+          },
+          "romanizedText": "Mamamoo"
+        }
+      ]
+    },
+    {
+      "id": "l7",
+      "start": 22.7,
+      "end": 26.93,
+      "text": "눈빛은 서로를 비추고",
+      "translation": "目光映照著彼此",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "김용선",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 11,
+            "charEnd": 11
+          },
+          "romanizedText": "金容仙"
+        }
+      ]
+    },
+    {
+      "id": "l8",
+      "start": 26.93,
+      "end": 31.05,
+      "text": "흐르는 침묵도 끈적해",
+      "translation": "流動的沉默也變得黏膩",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l9",
+      "start": 31.05,
+      "end": 36.2,
+      "text": "터질 것만 같은 우리 사이",
+      "translation": "我們之間像快要爆發",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l10",
+      "start": 36.2,
+      "end": 40.22,
+      "text": "너와나 입을 맞춰 I feel good",
+      "translation": "你和我雙唇相貼 I feel good",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "맞춰 I feel good",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "맞춰 I feel good",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 21
+          },
+          "romanizedText": "matchwo I feel good"
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "start": 40.22,
+      "end": 44.62,
+      "text": "너에게 나를 맡겨 I feel good",
+      "translation": "把我交給你 I feel good",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "맡겨 I feel good",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "맡겨 I feel good",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 21
+          },
+          "romanizedText": "matgyeo I feel good"
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "start": 44.62,
+      "end": 49.35,
+      "text": "이건 좀 위험해 위험해 위험해 나",
+      "translation": "這有點危險 危險 危險 我",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l13",
+      "start": 49.35,
+      "end": 52.82,
+      "text": "선을 넘을 것만 같아",
+      "translation": "好像快要越線",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l14",
+      "start": 52.82,
+      "end": 56.96,
+      "text": "너와나 같이 그린 I feel good",
+      "translation": "你和我一起描繪 I feel good",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "그린 I feel good",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "그린 I feel good",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 21
+          },
+          "romanizedText": "geurin I feel good"
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "start": 56.96,
+      "end": 61.1,
+      "text": "오렌지 빛깔 그림 I feel good",
+      "translation": "橘色光芒的畫面 I feel good",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "그림 I feel good",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "그림 I feel good",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 21
+          },
+          "romanizedText": "geurim I feel good"
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "start": 61.1,
+      "end": 66.19,
+      "text": "조금은 위험해 위험해 위험해도",
+      "translation": "就算有點危險 危險 危險",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l17",
+      "start": 66.19,
+      "end": 69.35,
+      "text": "멈출 수가 없어 나",
+      "translation": "我也停不下來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l18",
+      "start": 69.35,
+      "end": 72.58,
+      "text": "I feel good",
+      "translation": "I feel good",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l19",
+      "start": 72.58,
+      "end": 76.69,
+      "text": "Knock Knock 그때 예상했었지",
+      "translation": "Knock Knock 那時我就預感到了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "마마무",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 20,
+            "charEnd": 20
+          },
+          "romanizedText": "Mamamoo"
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "start": 76.69,
+      "end": 80.95,
+      "text": "여잔 촉이 정말 빠르지",
+      "translation": "女人的直覺真的很快",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "정휘인",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 12,
+            "charEnd": 12
+          },
+          "romanizedText": "丁輝人"
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "start": 80.95,
+      "end": 84.94,
+      "text": "이미 물은 엎질러졌어",
+      "translation": "覆水已經難收",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l22",
+      "start": 84.94,
+      "end": 88.34,
+      "text": "우린 몰래 새벽을 맞네",
+      "translation": "我們偷偷迎來清晨",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "문별이",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 12,
+            "charEnd": 12
+          },
+          "romanizedText": "文星伊"
+        }
+      ]
+    },
+    {
+      "id": "l23",
+      "start": 88.34,
+      "end": 89.34,
+      "text": "At that time",
+      "translation": "At that time",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l24",
+      "start": 89.34,
+      "end": 90.24,
+      "text": "Knock Knock",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l25",
+      "start": 90.24,
+      "end": 91.68,
+      "text": "지난 여름부터 밤낮",
+      "translation": "從去年夏天開始日日夜夜",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "밤낮",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "밤낮",
+            "occurrence": 1,
+            "charStart": 8,
+            "charEnd": 10
+          },
+          "romanizedText": "bamnat"
+        }
+      ]
+    },
+    {
+      "id": "l26",
+      "start": 91.68,
+      "end": 93.04,
+      "text": "사춘기 소녀처럼",
+      "translation": "像青春期少女一樣",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l27",
+      "start": 93.04,
+      "end": 94.41,
+      "text": "꿈꾸게 만들었어 로맨스",
+      "translation": "讓我夢見浪漫",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l28",
+      "start": 94.41,
+      "end": 96.07,
+      "text": "오늘만 기다렸어 Oh Yes",
+      "translation": "我一直等著今天 Oh Yes",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Oh Yes",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Oh Yes",
+            "occurrence": 1,
+            "charStart": 9,
+            "charEnd": 15
+          }
+        }
+      ]
+    },
+    {
+      "id": "l29",
+      "start": 96.07,
+      "end": 97.92,
+      "text": "Oh 핸드폰은 Off 치명적인 호흡",
+      "translation": "Oh 手機關機 致命的呼吸",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l30",
+      "start": 97.92,
+      "end": 99.92,
+      "text": "비밀스런 파티 깔아 레드 카펫",
+      "translation": "祕密派對 鋪上紅毯",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "파티",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "파티",
+            "occurrence": 1,
+            "charStart": 5,
+            "charEnd": 7
+          },
+          "romanizedText": "pati"
+        }
+      ]
+    },
+    {
+      "id": "l31",
+      "start": 99.92,
+      "end": 101.94,
+      "text": "내 공간에 와준 널 환영해",
+      "translation": "歡迎你來到我的空間",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l32",
+      "start": 101.94,
+      "end": 103.86,
+      "text": "Knock Knock Knock Knock",
+      "translation": "Knock Knock Knock Knock",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Knock Knock Knock Knock",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Knock Knock Knock Knock",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 23
+          }
+        }
+      ]
+    },
+    {
+      "id": "l33",
+      "start": 103.86,
+      "end": 105.37,
+      "text": "두 손을 머리위로",
+      "translation": "雙手舉過頭頂",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l34",
+      "start": 105.37,
+      "end": 107.29,
+      "text": "Clap your hands",
+      "translation": "Clap your hands",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l35",
+      "start": 107.29,
+      "end": 111.08,
+      "text": "너와나 입을 맞춰 I feel good",
+      "translation": "你和我雙唇相貼 I feel good",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "맞춰 I feel good",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "맞춰 I feel good",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 21
+          },
+          "romanizedText": "matchwo I feel good"
+        }
+      ]
+    },
+    {
+      "id": "l36",
+      "start": 111.08,
+      "end": 115.42,
+      "text": "너에게 나를 맡겨 I feel good",
+      "translation": "把我交給你 I feel good",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "맡겨 I feel good",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "맡겨 I feel good",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 21
+          },
+          "romanizedText": "matgyeo I feel good"
+        }
+      ]
+    },
+    {
+      "id": "l37",
+      "start": 115.42,
+      "end": 120.12,
+      "text": "이건 좀 위험해 위험해 위험해 나",
+      "translation": "這有點危險 危險 危險 我",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l38",
+      "start": 120.12,
+      "end": 123.58,
+      "text": "선을 넘을 것만 같아",
+      "translation": "好像快要越線",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l39",
+      "start": 123.58,
+      "end": 127.78,
+      "text": "너와나 같이 그린 I feel good",
+      "translation": "你和我一起描繪 I feel good",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "그린 I feel good",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "그린 I feel good",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 21
+          },
+          "romanizedText": "geurin I feel good"
+        }
+      ]
+    },
+    {
+      "id": "l40",
+      "start": 127.78,
+      "end": 132,
+      "text": "오렌지 빛깔 그림 I feel good",
+      "translation": "橘色光芒的畫面 I feel good",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "그림 I feel good",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "그림 I feel good",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 21
+          },
+          "romanizedText": "geurim I feel good"
+        }
+      ]
+    },
+    {
+      "id": "l41",
+      "start": 132,
+      "end": 136.9,
+      "text": "조금은 위험해 위험해 위험해도",
+      "translation": "就算有點危險 危險 危險",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l42",
+      "start": 136.9,
+      "end": 140.06,
+      "text": "멈출 수가 없어 나",
+      "translation": "我也停不下來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l43",
+      "start": 140.06,
+      "end": 142.33,
+      "text": "I feel good",
+      "translation": "I feel good",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l44",
+      "start": 142.33,
+      "end": 146.06,
+      "text": "나를 깨우는 너의 속삭임 (I feel good)",
+      "translation": "喚醒我的你的低語 (I feel good)",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l45",
+      "start": 146.06,
+      "end": 150.22,
+      "text": "너의 손짓 또 몸짓 (I feel good)",
+      "translation": "你的手勢還有身姿 (I feel good)",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l46",
+      "start": 150.22,
+      "end": 154.46,
+      "text": "너와 단둘이 맞은 아침이 (I feel good)",
+      "translation": "和你兩人迎來的早晨 (I feel good)",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l47",
+      "start": 154.46,
+      "end": 157.95,
+      "text": "I feel good good good good",
+      "translation": "I feel good good good good",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l48",
+      "start": 157.95,
+      "end": 159.88,
+      "text": "헝클어진 머리 헐크 같은 바디",
+      "translation": "凌亂的頭髮 像浩克般的身體",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l49",
+      "start": 159.88,
+      "end": 161.87,
+      "text": "라인 보고 싶어 백허그까지 너 uh",
+      "translation": "想看你的線條 還有從背後抱住你 uh",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l50",
+      "start": 161.87,
+      "end": 164.06,
+      "text": "고개를 끄덕 끄덕 숨 쉴 수가 없네",
+      "translation": "不停點頭 點頭 我快無法呼吸",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l51",
+      "start": 164.06,
+      "end": 165.17,
+      "text": "I can't control myself",
+      "translation": "I can't control myself",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l52",
+      "start": 165.17,
+      "end": 166.36,
+      "text": "준비했어 널 위해",
+      "translation": "我為你準備好了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l53",
+      "start": 166.36,
+      "end": 170.02,
+      "text": "MAMAMOO is coming back for you",
+      "translation": "MAMAMOO is coming back for you",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "MAMAMOO is coming back for you",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "MAMAMOO is coming back for you",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 30
+          }
+        }
+      ]
+    },
+    {
+      "id": "l54",
+      "start": 170.02,
+      "end": 172.11,
+      "text": "Knock Knock Knock Knock",
+      "translation": "Knock Knock Knock Knock",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l55",
+      "start": 172.11,
+      "end": 173.55,
+      "text": "손을 머리위로",
+      "translation": "手舉過頭頂",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l56",
+      "start": 173.55,
+      "end": 176.24,
+      "text": "Clap your hands",
+      "translation": "Clap your hands",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l57",
+      "start": 176.24,
+      "end": 181.38,
+      "text": "너와나 입을 맞춰 I feel good",
+      "translation": "你和我雙唇相貼 I feel good",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "맞춰 I feel good",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "맞춰 I feel good",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 21
+          },
+          "romanizedText": "matchwo I feel good"
+        }
+      ]
+    },
+    {
+      "id": "l58",
+      "start": 181.38,
+      "end": 185.75,
+      "text": "너에게 나를 맡겨 I feel good",
+      "translation": "把我交給你 I feel good",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "맡겨 I feel good",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "맡겨 I feel good",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 21
+          },
+          "romanizedText": "matgyeo I feel good"
+        }
+      ]
+    },
+    {
+      "id": "l59",
+      "start": 185.75,
+      "end": 190.39,
+      "text": "이건 좀 위험해 위험해 위험해 나",
+      "translation": "這有點危險 危險 危險 我",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l60",
+      "start": 190.39,
+      "end": 193.82,
+      "text": "선을 넘을 것만 같아",
+      "translation": "好像快要越線",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l61",
+      "start": 193.82,
+      "end": 198.08,
+      "text": "너와나 같이 그린 I feel good",
+      "translation": "你和我一起描繪 I feel good",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "그린 I feel good",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "그린 I feel good",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 21
+          },
+          "romanizedText": "geurin I feel good"
+        }
+      ]
+    },
+    {
+      "id": "l62",
+      "start": 198.08,
+      "end": 202.23,
+      "text": "오렌지 빛깔 그림 I feel good",
+      "translation": "橘色光芒的畫面 I feel good",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "그림 I feel good",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "그림 I feel good",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 21
+          },
+          "romanizedText": "geurim I feel good"
+        }
+      ]
+    },
+    {
+      "id": "l63",
+      "start": 202.23,
+      "end": 207.28,
+      "text": "서로가 만들어 낸 서로가 묻혀진",
+      "translation": "由彼此創造 由彼此染上",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l64",
+      "start": 207.28,
+      "end": 238.817,
+      "text": "데칼코마니 같아 I feel good",
+      "translation": "像 Decalcomanie 一樣 I feel good",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "데칼코마니 같아",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "데칼코마니 같아",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 8
+          },
+          "romanizedText": "dekalkomani gata"
+        }
+      ]
+    }
+  ],
+  "chantEvents": [],
+  "lyricOffset": 0
+}

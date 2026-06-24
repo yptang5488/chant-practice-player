@@ -1,6 +1,17 @@
 {
   "songs": [
     {
+      "id": "song_src_16e9e503_0e65e3",
+      "title": "Decalcomanie",
+      "artist": "MAMAMOO",
+      "hasLyrics": true,
+      "hasTranslation": true,
+      "hasNotes": true,
+      "playerPath": "/player/song_src_16e9e503_0e65e3",
+      "songUrl": "./practice-data/songs/song_src_16e9e503_0e65e3.json",
+      "audioUrl": "./practice-data/audio/song_src_16e9e503_0e65e3.mp3"
+    },
+    {
       "id": "song_src_3217368a_4037d6",
       "title": "gogobebe",
       "artist": "MAMAMOO",
@@ -10,6 +21,17 @@
       "playerPath": "/player/song_src_3217368a_4037d6",
       "songUrl": "./practice-data/songs/song_src_3217368a_4037d6.json",
       "audioUrl": "./practice-data/audio/song_src_3217368a_4037d6.mp3"
+    },
+    {
+      "id": "song_src_363e8e0c_f442cc",
+      "title": "Egotistic",
+      "artist": "MAMAMOO",
+      "hasLyrics": true,
+      "hasTranslation": true,
+      "hasNotes": true,
+      "playerPath": "/player/song_src_363e8e0c_f442cc",
+      "songUrl": "./practice-data/songs/song_src_363e8e0c_f442cc.json",
+      "audioUrl": "./practice-data/audio/song_src_363e8e0c_f442cc.mp3"
     },
     {
       "id": "song_src_410379cb_119c30",
@@ -87,6 +109,17 @@
       "playerPath": "/player/song_src_dd5b4bae_8c9aab",
       "songUrl": "./practice-data/songs/song_src_dd5b4bae_8c9aab.json",
       "audioUrl": "./practice-data/audio/song_src_dd5b4bae_8c9aab.mp3"
+    },
+    {
+      "id": "song_src_ef7e0be7_1722aa",
+      "title": "Mr.애매모호(Mr.Ambiguous)",
+      "artist": "MAMAMOO",
+      "hasLyrics": true,
+      "hasTranslation": true,
+      "hasNotes": true,
+      "playerPath": "/player/song_src_ef7e0be7_1722aa",
+      "songUrl": "./practice-data/songs/song_src_ef7e0be7_1722aa.json",
+      "audioUrl": "./practice-data/audio/song_src_ef7e0be7_1722aa.mp3"
     }
   ]
 }

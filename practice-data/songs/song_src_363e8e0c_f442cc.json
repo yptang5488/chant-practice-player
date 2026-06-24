@@ -1,0 +1,1312 @@
+{
+  "id": "song_src_363e8e0c_f442cc",
+  "title": "Egotistic",
+  "artist": "MAMAMOO",
+  "audio": {
+    "sourceId": "src_363e8e0c",
+    "playbackUrl": "./practice-data/audio/song_src_363e8e0c_f442cc.mp3",
+    "duration": 203.987302,
+    "trimStart": 0,
+    "trimEnd": 0
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 9.2,
+      "end": 12.5,
+      "text": "난 너의 위성 네 주윌 맴돌지",
+      "translation": "我是你的衛星 繞著你打轉",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l2",
+      "start": 12.5,
+      "end": 14.8,
+      "text": "그렇다고 네가 태양은 아니니",
+      "translation": "但這不代表你就是太陽",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l3",
+      "start": 14.8,
+      "end": 17,
+      "text": "너의 멋대로 중심이 돼",
+      "translation": "別擅自成為中心",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "중심이 돼",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "중심이 돼",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 12
+          },
+          "romanizedText": "jungsimi dwae"
+        }
+      ]
+    },
+    {
+      "id": "l4",
+      "start": 17,
+      "end": 19.3,
+      "text": "제멋대로 굴면 안 돼",
+      "translation": "不能只照你的意思來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "굴면 안 돼",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "굴면 안 돼",
+            "occurrence": 1,
+            "charStart": 5,
+            "charEnd": 11
+          },
+          "romanizedText": "gulmyeon an dwae"
+        }
+      ]
+    },
+    {
+      "id": "l5",
+      "start": 19.3,
+      "end": 21.9,
+      "text": "어떻게 한순간의 떨림이",
+      "translation": "一瞬間的心動怎麼會",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l6",
+      "start": 21.9,
+      "end": 24.5,
+      "text": "소리 없이 너의 두 눈을 가리니",
+      "translation": "無聲地蒙住你的雙眼",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l7",
+      "start": 24.5,
+      "end": 26.6,
+      "text": "너의 뜻대로 흘러가네",
+      "translation": "一切都照你的意思流動",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "흘러가네",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "흘러가네",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 11
+          },
+          "romanizedText": "heulreogane"
+        }
+      ]
+    },
+    {
+      "id": "l8",
+      "start": 26.6,
+      "end": 29.3,
+      "text": "내게 상처를 주면 안 돼",
+      "translation": "你不能傷害我",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "주면 안 돼",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "주면 안 돼",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 13
+          },
+          "romanizedText": "jumyeon an dwae"
+        }
+      ]
+    },
+    {
+      "id": "l9",
+      "start": 29.3,
+      "end": 31.1,
+      "text": "넌 네 생각만 하지",
+      "translation": "你只想著你自己",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l10",
+      "start": 31.1,
+      "end": 33,
+      "text": "그래 뭐 그게 참 당연한 듯이",
+      "translation": "好吧 彷彿那理所當然",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l11",
+      "start": 33,
+      "end": 35.2,
+      "text": "어리석게 너에게만 맞춰 왔던 게",
+      "translation": "我愚蠢地只配合著你",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "맞",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "맞",
+            "occurrence": 1,
+            "charStart": 10,
+            "charEnd": 11
+          },
+          "romanizedText": "mat"
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "start": 35.2,
+      "end": 37.5,
+      "text": "날 괴롭히네 마지막까지 외롭게 해",
+      "translation": "折磨著我 到最後還讓我孤單",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "날",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "날",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 1
+          },
+          "romanizedText": "nal"
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "막",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "막",
+            "occurrence": 1,
+            "charStart": 9,
+            "charEnd": 10
+          },
+          "romanizedText": "mak"
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "start": 37.5,
+      "end": 39.9,
+      "text": "할 말이 없어 Go away",
+      "translation": "沒什麼好說的 Go away",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Go away",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Go away",
+            "occurrence": 1,
+            "charStart": 8,
+            "charEnd": 15
+          }
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "start": 39.9,
+      "end": 42.2,
+      "text": "설명이 더 필요해?",
+      "translation": "還需要更多說明嗎？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l15",
+      "start": 42.2,
+      "end": 45.9,
+      "text": "화를 내도 내 입만 아프다니까",
+      "translation": "就算生氣也只是我白費唇舌",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l16",
+      "start": 45.9,
+      "end": 47.7,
+      "text": "넌 멋대로만 해",
+      "translation": "你總是任性妄為",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l17",
+      "start": 47.7,
+      "end": 50.3,
+      "text": "난 언제나 너너너너 해",
+      "translation": "我總是只顧著你你你你",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "너너너너",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "너너너너",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 10
+          },
+          "romanizedText": "neoneoneoneo"
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "start": 50.3,
+      "end": 53.6,
+      "text": "넌 언제나 나나나나 해",
+      "translation": "你總是只顧著我我我我",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "나나나나",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "나나나나",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 10
+          },
+          "romanizedText": "nananana"
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "start": 53.6,
+      "end": 56.2,
+      "text": "움띠야이야 띠야이야",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "움띠야이야 띠야이야",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "움띠야이야 띠야이야",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 10
+          },
+          "romanizedText": "umttiyaiya ttiyaiya"
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "start": 56.2,
+      "end": 58.5,
+      "text": "(네 멋대로 중심이 돼)",
+      "translation": "（別擅自成為中心）",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l21",
+      "start": 58.5,
+      "end": 60.3,
+      "text": "넌 너만 생각해",
+      "translation": "你只想著你自己",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l22",
+      "start": 60.3,
+      "end": 63.7,
+      "text": "그럴 거면 너너너나 해 에이에",
+      "translation": "既然這樣 你就顧好你自己",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l23",
+      "start": 63.7,
+      "end": 65.9,
+      "text": "움띠야이야 띠야이야",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "움띠야이야 띠야이야",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "움띠야이야 띠야이야",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 10
+          },
+          "romanizedText": "umttiyaiya ttiyaiya"
+        }
+      ]
+    },
+    {
+      "id": "l24",
+      "start": 65.9,
+      "end": 68.5,
+      "text": "(네 멋대로 굴면 안 돼)",
+      "translation": "（不能只照你的意思來）",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l25",
+      "start": 68.5,
+      "end": 70.4,
+      "text": "멋대로만 해 Ay",
+      "translation": "只照你的意思來 Ay",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "마마무",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 9,
+            "charEnd": 9
+          },
+          "romanizedText": "mamamu"
+        }
+      ]
+    },
+    {
+      "id": "l26",
+      "start": 70.4,
+      "end": 73.4,
+      "text": "밤을 새워 버렸어",
+      "translation": "我徹夜未眠",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l27",
+      "start": 73.4,
+      "end": 75.9,
+      "text": "차갑게 식은 머리도",
+      "translation": "連冷靜下來的腦袋",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l28",
+      "start": 75.9,
+      "end": 78.2,
+      "text": "너의 태도가 이해 안 돼",
+      "translation": "也無法理解你的態度",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "이해 안 돼",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "이해 안 돼",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 13
+          },
+          "romanizedText": "ihae an dwae"
+        }
+      ]
+    },
+    {
+      "id": "l29",
+      "start": 78.2,
+      "end": 80.5,
+      "text": "이젠 조금씩 지쳐 가네",
+      "translation": "現在我漸漸累了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "지쳐 가네",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "지쳐 가네",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 12
+          },
+          "romanizedText": "jichyeo gane"
+        }
+      ]
+    },
+    {
+      "id": "l30",
+      "start": 80.5,
+      "end": 83.1,
+      "text": "이젠 나도 내 앞길 챙기지",
+      "translation": "現在我也會顧好自己的路",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l31",
+      "start": 83.1,
+      "end": 85.6,
+      "text": "너 없다고 무너질 내가 아니니",
+      "translation": "我不是沒有你就會崩潰的人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l32",
+      "start": 85.6,
+      "end": 87.9,
+      "text": "너의 품에서 벗어날래",
+      "translation": "我要離開你的懷抱",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "벗어날래",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "벗어날래",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 11
+          },
+          "romanizedText": "beoseonalrae"
+        }
+      ]
+    },
+    {
+      "id": "l33",
+      "start": 87.9,
+      "end": 90.1,
+      "text": "내 멋대로 살아갈래",
+      "translation": "我要照自己的意思活",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "살아갈래",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "살아갈래",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 10
+          },
+          "romanizedText": "saragalrae"
+        }
+      ]
+    },
+    {
+      "id": "l34",
+      "start": 90.1,
+      "end": 91.9,
+      "text": "내가 맞춰야 돼 Ay",
+      "translation": "一定要我配合嗎 Ay",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Ay",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Ay",
+            "occurrence": 1,
+            "charStart": 9,
+            "charEnd": 11
+          }
+        }
+      ]
+    },
+    {
+      "id": "l35",
+      "start": 91.9,
+      "end": 92.9,
+      "text": "매번 That's OK man",
+      "translation": "每次都是 That's OK man",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "man",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "man",
+            "occurrence": 1,
+            "charStart": 13,
+            "charEnd": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "l36",
+      "start": 92.9,
+      "end": 95.1,
+      "text": "이런 식으로 매일 반복 돼",
+      "translation": "每天都這樣重複",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "반복돼",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 14,
+            "charEnd": 14
+          },
+          "romanizedText": "banbokdwae"
+        }
+      ]
+    },
+    {
+      "id": "l37",
+      "start": 95.1,
+      "end": 96.2,
+      "text": "나의 호의에도",
+      "translation": "就算我對你好",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l38",
+      "start": 96.2,
+      "end": 97.7,
+      "text": "너의 권리만 있다면",
+      "translation": "如果只剩你的權利",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l39",
+      "start": 97.7,
+      "end": 99.2,
+      "text": "뭔가 잘못된 거지",
+      "translation": "那就是哪裡錯了吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l40",
+      "start": 99.2,
+      "end": 100.9,
+      "text": "뭘 그렇게 놀래",
+      "translation": "你幹嘛那麼驚訝",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "놀래",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "놀래",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 8
+          },
+          "romanizedText": "nolrae"
+        }
+      ]
+    },
+    {
+      "id": "l41",
+      "start": 100.9,
+      "end": 103.6,
+      "text": "당연한 이야긴데",
+      "translation": "這是理所當然的事",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l42",
+      "start": 103.6,
+      "end": 106.9,
+      "text": "화를 내도 내 입만 아프다니까",
+      "translation": "就算生氣也只是我白費唇舌",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l43",
+      "start": 106.9,
+      "end": 109.2,
+      "text": "네 멋대로만 해",
+      "translation": "你總是只照你的意思來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l44",
+      "start": 109.2,
+      "end": 112,
+      "text": "난 언제나 너너너너 해",
+      "translation": "我總是只顧著你你你你",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "너너너너",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "너너너너",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 10
+          },
+          "romanizedText": "neoneoneoneo"
+        }
+      ]
+    },
+    {
+      "id": "l45",
+      "start": 112,
+      "end": 114.9,
+      "text": "넌 언제나 나나나나 해",
+      "translation": "你總是只顧著我我我我",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "나나나나",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "나나나나",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 10
+          },
+          "romanizedText": "nananana"
+        }
+      ]
+    },
+    {
+      "id": "l46",
+      "start": 114.9,
+      "end": 117.6,
+      "text": "움띠야이야 띠야이야",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "움띠야이야 띠야이야",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "움띠야이야 띠야이야",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 10
+          },
+          "romanizedText": "umttiyaiya ttiyaiya"
+        }
+      ]
+    },
+    {
+      "id": "l47",
+      "start": 117.6,
+      "end": 119.4,
+      "text": "(네 멋대로 중심이 돼)",
+      "translation": "（別擅自成為中心）",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l48",
+      "start": 119.4,
+      "end": 121.7,
+      "text": "넌 너만 생각해",
+      "translation": "你只想著你自己",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l49",
+      "start": 121.7,
+      "end": 124.7,
+      "text": "그럴 거면 너너너나 해 에이에",
+      "translation": "既然這樣 你就顧好你自己",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l50",
+      "start": 124.7,
+      "end": 127.3,
+      "text": "움띠야이야 띠야이야",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "움띠야이야 띠야이야",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "움띠야이야 띠야이야",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 10
+          },
+          "romanizedText": "umttiyaiya ttiyaiya"
+        }
+      ]
+    },
+    {
+      "id": "l51",
+      "start": 127.3,
+      "end": 129.5,
+      "text": "(네 멋대로 굴면 안 돼)",
+      "translation": "（不能只照你的意思來）",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l52",
+      "start": 129.5,
+      "end": 130.6,
+      "text": "멋대로만 해",
+      "translation": "只照你的意思來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l53",
+      "start": 130.6,
+      "end": 138,
+      "text": "넌 너나 해",
+      "translation": "你就顧好你自己",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "김용선金容仙 문별이文星伊 정휘인丁輝人 안혜진安惠真 마마무",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 6,
+            "charEnd": 6
+          },
+          "romanizedText": "gimyongseon金容仙 munbyeori文星伊 jeonghwiin丁輝人 anhyejin安惠真 mamamu"
+        }
+      ]
+    },
+    {
+      "id": "l54",
+      "start": 138,
+      "end": 140.4,
+      "text": "I'm ready to go on my way",
+      "translation": "I'm ready to go on my way",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l55",
+      "start": 140.4,
+      "end": 142.6,
+      "text": "할 말이 없어 Go away",
+      "translation": "沒什麼好說的 Go away",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Go away",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Go away",
+            "occurrence": 1,
+            "charStart": 8,
+            "charEnd": 15
+          }
+        }
+      ]
+    },
+    {
+      "id": "l56",
+      "start": 142.6,
+      "end": 145.1,
+      "text": "설명이 더 필요해?",
+      "translation": "還需要更多說明嗎？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l57",
+      "start": 145.1,
+      "end": 148.8,
+      "text": "화를 내도 내 입만 아프다니까",
+      "translation": "就算生氣也只是我白費唇舌",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l58",
+      "start": 148.8,
+      "end": 150.3,
+      "text": "나도 멋대로 할래",
+      "translation": "我也要照自己的意思來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l59",
+      "start": 150.3,
+      "end": 151.7,
+      "text": "Bicho malo",
+      "translation": "壞傢伙",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Bicho malo",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Bicho malo",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": "l60",
+      "start": 151.7,
+      "end": 154.3,
+      "text": "난 언제나 너너너너 해",
+      "translation": "我總是只顧著你你你你",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "너너너너",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "너너너너",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 10
+          },
+          "romanizedText": "neoneoneoneo"
+        }
+      ]
+    },
+    {
+      "id": "l61",
+      "start": 154.3,
+      "end": 157.7,
+      "text": "넌 언제나 나나나나 해",
+      "translation": "你總是只顧著我我我我",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "나나나나",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "나나나나",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 10
+          },
+          "romanizedText": "nananana"
+        }
+      ]
+    },
+    {
+      "id": "l62",
+      "start": 157.7,
+      "end": 160.3,
+      "text": "움띠야이야 띠야이야",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "움띠야이야 띠야이야",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "움띠야이야 띠야이야",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 10
+          },
+          "romanizedText": "umttiyaiya ttiyaiya"
+        }
+      ]
+    },
+    {
+      "id": "l63",
+      "start": 160.3,
+      "end": 162.5,
+      "text": "(네 멋대로 중심이 돼)",
+      "translation": "（別擅自成為中心）",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l64",
+      "start": 162.5,
+      "end": 164.4,
+      "text": "넌 너만 생각해",
+      "translation": "你只想著你自己",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l65",
+      "start": 164.4,
+      "end": 167.7,
+      "text": "그럴 거면 너너너나 해 에이에",
+      "translation": "既然這樣 你就顧好你自己",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l66",
+      "start": 167.7,
+      "end": 170.4,
+      "text": "움띠야이야 띠야이야",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "움띠야이야 띠야이야",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "움띠야이야 띠야이야",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 10
+          },
+          "romanizedText": "umttiyaiya ttiyaiya"
+        }
+      ]
+    },
+    {
+      "id": "l67",
+      "start": 170.4,
+      "end": 172.6,
+      "text": "(네 멋대로 굴면 안 돼)",
+      "translation": "（不能只照你的意思來）",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l68",
+      "start": 172.6,
+      "end": 175.9,
+      "text": "재미없어",
+      "translation": "真無趣",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l69",
+      "start": 175.9,
+      "end": 178,
+      "text": "(너너너나 해)",
+      "translation": "（你就顧好你自己）",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "너너너나 해",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "너너너나 해",
+            "occurrence": 1,
+            "charStart": 1,
+            "charEnd": 7
+          },
+          "romanizedText": "neoneoneona hae"
+        }
+      ]
+    },
+    {
+      "id": "l70",
+      "start": 178,
+      "end": 180.8,
+      "text": "이젠 됐어",
+      "translation": "現在夠了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l71",
+      "start": 180.8,
+      "end": 183,
+      "text": "(너너너나 해)",
+      "translation": "（你就顧好你自己）",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "너너너나 해",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "너너너나 해",
+            "occurrence": 1,
+            "charStart": 1,
+            "charEnd": 7
+          },
+          "romanizedText": "neoneoneona hae"
+        }
+      ]
+    },
+    {
+      "id": "l72",
+      "start": 183,
+      "end": 185.6,
+      "text": "후회해도",
+      "translation": "就算你後悔",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l73",
+      "start": 185.6,
+      "end": 187.5,
+      "text": "(너너너나 해)",
+      "translation": "（你就顧好你自己）",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "너너너나 해",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "너너너나 해",
+            "occurrence": 1,
+            "charStart": 1,
+            "charEnd": 7
+          },
+          "romanizedText": "neoneoneona hae"
+        }
+      ]
+    },
+    {
+      "id": "l74",
+      "start": 187.5,
+      "end": 190,
+      "text": "네 멋대로 네 멋대로",
+      "translation": "照你的意思 照你的意思",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l75",
+      "start": 190,
+      "end": 192,
+      "text": "(멋대로만 해 너너나 해)",
+      "translation": "（只照你的意思來 你顧好自己）",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l76",
+      "start": 192,
+      "end": 203.987,
+      "text": "내 멋대로 할래",
+      "translation": "我要照自己的意思來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    }
+  ],
+  "chantEvents": [
+    {
+      "id": "chant_mqs3g52b",
+      "start": 4,
+      "end": 5,
+      "text": "마마무",
+      "label": "chant",
+      "romanizedText": null
+    },
+    {
+      "id": "chant_mqs3i5bb",
+      "start": 9,
+      "end": 10,
+      "text": "너나해",
+      "label": "chant",
+      "romanizedText": null
+    }
+  ],
+  "lyricOffset": 0
+}

@@ -1,0 +1,1255 @@
+{
+  "id": "song_src_ef7e0be7_1722aa",
+  "title": "Mr.애매모호(Mr.Ambiguous)",
+  "artist": "MAMAMOO",
+  "audio": {
+    "sourceId": "src_ef7e0be7",
+    "playbackUrl": "./practice-data/audio/song_src_ef7e0be7_1722aa.mp3",
+    "duration": 226.905397,
+    "trimStart": 0,
+    "trimEnd": 0
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 5.02,
+      "end": 9.28,
+      "text": "Mama Mama moo",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Mamamoo",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Mama Mama moo",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Mama Mama moo",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l2",
+      "start": 9.28,
+      "end": 12.97,
+      "text": "실례지만 내게 뭐가 묻은 거니",
+      "translation": "不好意思 我身上沾了什麼嗎",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "거니",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "거니",
+            "occurrence": 1,
+            "charStart": 14,
+            "charEnd": 16
+          },
+          "romanizedText": "geoni"
+        }
+      ]
+    },
+    {
+      "id": "l3",
+      "start": 12.97,
+      "end": 16.14,
+      "text": "니 눈빛에 내가 헷갈리잖니",
+      "translation": "你的眼神讓我搞不清楚了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l4",
+      "start": 16.14,
+      "end": 20.76,
+      "text": "Mamamoo Mamamoo 거기 Mr.애매모호",
+      "translation": "Mamamoo Mamamoo 那邊的 Mr.曖昧模糊",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Mamamoo Mamamoo",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Mamamoo Mamamoo",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 15
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "애매모호",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "애매모호",
+            "occurrence": 1,
+            "charStart": 22,
+            "charEnd": 26
+          },
+          "romanizedText": "aemaemoho"
+        }
+      ]
+    },
+    {
+      "id": "l5",
+      "start": 20.76,
+      "end": 24.45,
+      "text": "쳐다만 보지 말고 좀 더 다가와 봐",
+      "translation": "別只是盯著看 再靠近一點吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "와 봐",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "와 봐",
+            "occurrence": 1,
+            "charStart": 16,
+            "charEnd": 19
+          },
+          "romanizedText": "wa bwa"
+        }
+      ]
+    },
+    {
+      "id": "l6",
+      "start": 24.45,
+      "end": 28.34,
+      "text": "쉿!! 뭐 지금 저한테 관심 있으세요?",
+      "translation": "噓！！你現在是對我有興趣嗎？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l7",
+      "start": 28.34,
+      "end": 32.2,
+      "text": "There is a boy Hello Mr.애매모호 (애매모호)",
+      "translation": "There is a boy Hello Mr.曖昧模糊（曖昧模糊）",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "애매모호",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "애매모호",
+            "occurrence": 2,
+            "charStart": 30,
+            "charEnd": 34
+          },
+          "romanizedText": "aemaemoho"
+        }
+      ]
+    },
+    {
+      "id": "l8",
+      "start": 32.2,
+      "end": 35.56,
+      "text": "니 덫에 걸린 난 애정결핍 여우",
+      "translation": "中了你圈套的我 是渴望愛情的狐狸",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l9",
+      "start": 35.56,
+      "end": 39.91,
+      "text": "Mamamoo Mamamoo 거기 Mr.애매모호",
+      "translation": "Mamamoo Mamamoo 那邊的 Mr.曖昧模糊",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Mamamoo Mamamoo",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Mamamoo Mamamoo",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 15
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "애매모호",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "애매모호",
+            "occurrence": 1,
+            "charStart": 22,
+            "charEnd": 26
+          },
+          "romanizedText": "aemaemoho"
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "start": 39.91,
+      "end": 43.47,
+      "text": "찔러보지만 말고 저질러봐",
+      "translation": "別只是試探 直接行動吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l11",
+      "start": 43.47,
+      "end": 45.93,
+      "text": "Now! 신사숙녀 여러분",
+      "translation": "Now! 各位女士先生",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l12",
+      "start": 45.93,
+      "end": 48.08,
+      "text": "Let's get on with the show",
+      "translation": "Let's get on with the show",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l13",
+      "start": 48.08,
+      "end": 50.11,
+      "text": "Show Show Show Show Show",
+      "translation": "Show Show Show Show Show",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "SCREAM!!!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 24,
+            "charEnd": 24
+          }
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "start": 50.11,
+      "end": 53.94,
+      "text": "Darling is you woo",
+      "translation": "Darling is you woo",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "you",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 14,
+            "charEnd": 14
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "woo",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 18,
+            "charEnd": 18
+          }
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "start": 53.94,
+      "end": 58.72,
+      "text": "아직 넌 왜 눈치를 못 챘니 넌",
+      "translation": "你為什麼到現在還沒察覺呢",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l16",
+      "start": 58.72,
+      "end": 63.51,
+      "text": "Mr.애매모호 날 헷갈리게 하지 마",
+      "translation": "Mr.曖昧模糊 別讓我混亂",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "애매모호",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "애매모호",
+            "occurrence": 1,
+            "charStart": 3,
+            "charEnd": 7
+          },
+          "romanizedText": "aemaemoho"
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "start": 63.51,
+      "end": 65.86,
+      "text": "(Ooh ooh ooh ooh ooh ooh ooh)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "마마무 미스터 애-매-모-호",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "(Ooh ooh ooh ooh ooh ooh ooh)",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 29
+          },
+          "romanizedText": "Mamamoo miseuteo ae-mae-mo-ho"
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "start": 65.86,
+      "end": 69.27,
+      "text": "My love is for you woo Come on",
+      "translation": "My love is for you woo Come on",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "you",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 18,
+            "charEnd": 18
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "woo",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 22,
+            "charEnd": 22
+          }
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "start": 69.27,
+      "end": 74.15,
+      "text": "왜 자꾸 내 맘을 몰라주는 거니 왜",
+      "translation": "為什麼你總是不懂我的心 為什麼",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l20",
+      "start": 74.15,
+      "end": 78.71,
+      "text": "Oh Mr.애매모호 날 갖고 놀려 하지 마",
+      "translation": "Oh Mr.曖昧模糊 別想玩弄我",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "애매모호",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "애매모호",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 10
+          },
+          "romanizedText": "aemaemoho"
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "start": 78.71,
+      "end": 81.27,
+      "text": "Shoot shoot shoot shoot shoot shoot shoot shoot",
+      "translation": "Shoot shoot shoot shoot shoot shoot shoot shoot",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l22",
+      "start": 81.27,
+      "end": 89.92,
+      "text": "(Hey Mr.) 꼭 꼭 숨어 머리카락 보일라",
+      "translation": "（Hey Mr.）藏好藏好 小心露出頭髮",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "사랑해요 마마무 마-마-무-짱",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 25,
+            "charEnd": 25
+          },
+          "romanizedText": "saranghaeyo Mamamoo ma-ma-mu-jjang"
+        }
+      ]
+    },
+    {
+      "id": "l23",
+      "start": 89.92,
+      "end": 93.59,
+      "text": "캔디를 문 듯한 달콤한 말투",
+      "translation": "像含著糖果般甜蜜的語氣",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "말투",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "말투",
+            "occurrence": 1,
+            "charStart": 13,
+            "charEnd": 15
+          },
+          "romanizedText": "maltu"
+        }
+      ]
+    },
+    {
+      "id": "l24",
+      "start": 93.59,
+      "end": 96.83,
+      "text": "양의 탈을 쓴 넌 꼬리치는 늑대",
+      "translation": "披著羊皮的你 是搖著尾巴的狼",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l25",
+      "start": 96.83,
+      "end": 101.22,
+      "text": "Mamamoo Mamamoo 거기 Mr.애매모호",
+      "translation": "Mamamoo Mamamoo 那邊的 Mr.曖昧模糊",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Mamamoo Mamamoo",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Mamamoo Mamamoo",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 15
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "애매모호",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "애매모호",
+            "occurrence": 1,
+            "charStart": 22,
+            "charEnd": 26
+          },
+          "romanizedText": "aemaemoho"
+        }
+      ]
+    },
+    {
+      "id": "l26",
+      "start": 101.22,
+      "end": 104.97,
+      "text": "내숭떨지 말고 나를 가져봐",
+      "translation": "別再裝矜持 把我擁入懷裡吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l27",
+      "start": 104.97,
+      "end": 107.39,
+      "text": "쉿! Oh 신사숙녀 여러분",
+      "translation": "噓！Oh 各位女士先生",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l28",
+      "start": 107.39,
+      "end": 109.1,
+      "text": "Let's get on with the show",
+      "translation": "Let's get on with the show",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l29",
+      "start": 109.1,
+      "end": 111.61,
+      "text": "Show Show Show Show Show",
+      "translation": "Show Show Show Show Show",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "SCREAM!!!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 24,
+            "charEnd": 24
+          }
+        }
+      ]
+    },
+    {
+      "id": "l30",
+      "start": 111.61,
+      "end": 115.32,
+      "text": "Darling is you woo",
+      "translation": "Darling is you woo",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "you",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 14,
+            "charEnd": 14
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "woo",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 18,
+            "charEnd": 18
+          }
+        }
+      ]
+    },
+    {
+      "id": "l31",
+      "start": 115.32,
+      "end": 120.12,
+      "text": "아직 넌 왜 눈치를 못 챘니 넌",
+      "translation": "你為什麼到現在還沒察覺呢",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l32",
+      "start": 120.12,
+      "end": 124.4,
+      "text": "Mr.애매모호 날 헷갈리게 하지 마",
+      "translation": "Mr.曖昧模糊 別讓我混亂",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "애매모호",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "애매모호",
+            "occurrence": 1,
+            "charStart": 3,
+            "charEnd": 7
+          },
+          "romanizedText": "aemaemoho"
+        }
+      ]
+    },
+    {
+      "id": "l33",
+      "start": 124.4,
+      "end": 127.19,
+      "text": "(Ooh ooh ooh ooh ooh ooh ooh)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "마마무 미스터 애-매-모-호",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "(Ooh ooh ooh ooh ooh ooh ooh)",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 29
+          },
+          "romanizedText": "Mamamoo miseuteo ae-mae-mo-ho"
+        }
+      ]
+    },
+    {
+      "id": "l34",
+      "start": 127.19,
+      "end": 130.66,
+      "text": "My love is for you woo Come on",
+      "translation": "My love is for you woo Come on",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "you",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 18,
+            "charEnd": 18
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "woo",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 22,
+            "charEnd": 22
+          }
+        }
+      ]
+    },
+    {
+      "id": "l35",
+      "start": 130.66,
+      "end": 135.36,
+      "text": "왜 자꾸 내 맘을 몰라주는 거니 왜",
+      "translation": "為什麼你總是不懂我的心 為什麼",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l36",
+      "start": 135.36,
+      "end": 140.44,
+      "text": "Oh Mr.애매모호 날 갖고 놀려 하지 마",
+      "translation": "Oh Mr.曖昧模糊 別想玩弄我",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "애매모호",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "애매모호",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 10
+          },
+          "romanizedText": "aemaemoho"
+        }
+      ]
+    },
+    {
+      "id": "l37",
+      "start": 140.44,
+      "end": 142.82,
+      "text": "Shoot shoot shoot shoot shoot shoot shoot shoot",
+      "translation": "Shoot shoot shoot shoot shoot shoot shoot shoot",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l38",
+      "start": 142.82,
+      "end": 151.37,
+      "text": "(Hey Mr.) 꼭 꼭 숨어 머리카락 보일라",
+      "translation": "（Hey Mr.）藏好藏好 小心露出頭髮",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "함께해요마마무 반짝반짝Moon-Byul",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 25,
+            "charEnd": 25
+          },
+          "romanizedText": "hamkkehaeyoMamamoo banjjakbanjjakMoon-Byul"
+        }
+      ]
+    },
+    {
+      "id": "l39",
+      "start": 151.37,
+      "end": 152.91,
+      "text": "어서 말해봐 Mr. 애매모호",
+      "translation": "快說出口吧 Mr. 曖昧模糊",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l40",
+      "start": 152.91,
+      "end": 154.82,
+      "text": "왜 삐딱하게 구는 건데 마치 베레모",
+      "translation": "為什麼要這麼彆扭 像貝雷帽一樣歪斜",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l41",
+      "start": 154.82,
+      "end": 156.65,
+      "text": "사람 간보지 말고 빨리 와요 내게로",
+      "translation": "別再試探人心 快點來到我身邊",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l42",
+      "start": 156.65,
+      "end": 158.54,
+      "text": "사랑은 쟁취하는 거야 불러 봐요 세레모니",
+      "translation": "愛情是要爭取的 叫出那場儀式吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l43",
+      "start": 158.54,
+      "end": 162.01,
+      "text": "(Mamamoo Mamamoo 거기 Mr.애매모호)",
+      "translation": "（Mamamoo Mamamoo 那邊的 Mr.曖昧模糊）",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Mamamoo Mamamoo",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Mamamoo Mamamoo",
+            "occurrence": 1,
+            "charStart": 1,
+            "charEnd": 16
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "애매모호",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "애매모호",
+            "occurrence": 1,
+            "charStart": 23,
+            "charEnd": 27
+          },
+          "romanizedText": "aemaemoho"
+        }
+      ]
+    },
+    {
+      "id": "l44",
+      "start": 162.01,
+      "end": 166.65,
+      "text": "아마도 나 말고 딴 여자 있는 것 같다고 awwww!",
+      "translation": "大概除了我以外 好像還有別的女人 awwww!",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l45",
+      "start": 166.65,
+      "end": 168.58,
+      "text": "Now! Oh 신사숙녀 여러분",
+      "translation": "Now! Oh 各位女士先生",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l46",
+      "start": 168.58,
+      "end": 170.63,
+      "text": "Let's get on with the show",
+      "translation": "Let's get on with the show",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l47",
+      "start": 170.63,
+      "end": 172.86,
+      "text": "Show Show Show Show Show!",
+      "translation": "Show Show Show Show Show!",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l48",
+      "start": 172.86,
+      "end": 176.45,
+      "text": "Darling is you woo",
+      "translation": "Darling is you woo",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "you",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 14,
+            "charEnd": 14
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "woo",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 18,
+            "charEnd": 18
+          }
+        }
+      ]
+    },
+    {
+      "id": "l49",
+      "start": 176.45,
+      "end": 176.99,
+      "text": "(You yeah ho!)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l50",
+      "start": 176.99,
+      "end": 181.12,
+      "text": "아직 넌 왜 눈치를 못 챘니 넌",
+      "translation": "你為什麼到現在還沒察覺呢",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l51",
+      "start": 181.12,
+      "end": 182.86,
+      "text": "(눈치를 못 챘니 넌 Yeah)",
+      "translation": "（你還沒察覺嗎 Yeah）",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l52",
+      "start": 182.86,
+      "end": 186.37,
+      "text": "Mr.애매모호 날 헷갈리게 하지 마 (Here boy Here boy)",
+      "translation": "Mr.曖昧模糊 別讓我混亂（Here boy Here boy）",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "애매모호",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "애매모호",
+            "occurrence": 1,
+            "charStart": 3,
+            "charEnd": 7
+          },
+          "romanizedText": "aemaemoho"
+        }
+      ]
+    },
+    {
+      "id": "l53",
+      "start": 186.37,
+      "end": 188.65,
+      "text": "(Ooh ooh ooh ooh ooh ooh ooh Ooh yeaaaaaah)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l54",
+      "start": 188.65,
+      "end": 191.96,
+      "text": "My love is for you woo (Only for you)",
+      "translation": "My love is for you woo（Only for you）",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "you",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 18,
+            "charEnd": 18
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "woo",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 22,
+            "charEnd": 22
+          }
+        }
+      ]
+    },
+    {
+      "id": "l55",
+      "start": 191.96,
+      "end": 196.9,
+      "text": "왜 자꾸 내 맘을 몰라주는 거니 왜",
+      "translation": "為什麼你總是不懂我的心 為什麼",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Mamamoo",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 19,
+            "charEnd": 19
+          }
+        }
+      ]
+    },
+    {
+      "id": "l56",
+      "start": 196.9,
+      "end": 201.37,
+      "text": "Oh Mr.애매모호 날 갖고 놀려 하지 마",
+      "translation": "Oh Mr.曖昧模糊 別想玩弄我",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "애매모호",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "애매모호",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 10
+          },
+          "romanizedText": "aemaemoho"
+        }
+      ]
+    },
+    {
+      "id": "l57",
+      "start": 201.37,
+      "end": 202.53,
+      "text": "(Ma moo ma moo 놀려 하지마 Oh no)",
+      "translation": "（Ma moo ma moo 別想玩弄我 Oh no）",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l58",
+      "start": 202.53,
+      "end": 205.2,
+      "text": "Shoot shoot shoot shoot shoot shoot shoot shoot",
+      "translation": "Shoot shoot shoot shoot shoot shoot shoot shoot",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l59",
+      "start": 205.2,
+      "end": 210.47,
+      "text": "괜찮다면 박수 한 번 쳐 주세요",
+      "translation": "如果可以的話 請為我拍一次手",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Hwasa-Moonbyul-WheeIn-Solar",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 17,
+            "charEnd": 17
+          }
+        }
+      ]
+    },
+    {
+      "id": "l60",
+      "start": 210.47,
+      "end": 218.65,
+      "text": "(Yeah Oh)",
+      "translation": null,
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "대박나라 마마무",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 9,
+            "charEnd": 9
+          },
+          "romanizedText": "daebaknara Mamamoo"
+        }
+      ]
+    },
+    {
+      "id": "l61",
+      "start": 218.65,
+      "end": 226.905,
+      "text": "Hey Mr.",
+      "translation": "Hey Mr.",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "SCREAM!!!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 7,
+            "charEnd": 7
+          }
+        }
+      ]
+    }
+  ],
+  "chantEvents": [
+    {
+      "id": "chant_mqs7od0v",
+      "start": 1,
+      "end": 2,
+      "text": "WheeIn",
+      "label": "chant",
+      "romanizedText": null
+    },
+    {
+      "id": "chant_mqs7p5im",
+      "start": 2,
+      "end": 3,
+      "text": "Hwasa",
+      "label": "chant",
+      "romanizedText": null
+    },
+    {
+      "id": "chant_mqs7phhd",
+      "start": 3,
+      "end": 4,
+      "text": "MoonByul",
+      "label": "chant",
+      "romanizedText": null
+    },
+    {
+      "id": "chant_mqs7pv18",
+      "start": 4,
+      "end": 5,
+      "text": "Solar",
+      "label": "chant",
+      "romanizedText": null
+    }
+  ],
+  "lyricOffset": 0
+}
