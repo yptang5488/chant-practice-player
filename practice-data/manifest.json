@@ -109,6 +109,16 @@
       "hasNotes": true,
       "playerPath": "/youtube-player/song_src_ef7e0be7_1722aa",
       "songUrl": "./practice-data/songs/song_src_ef7e0be7_1722aa.json"
+    },
+    {
+      "id": "song_src_f06bfa7b_15c8c9",
+      "title": "우린 결국 다시 만날 운명이었지(Destiny)",
+      "artist": "Mamamoo",
+      "hasLyrics": true,
+      "hasTranslation": true,
+      "hasNotes": true,
+      "playerPath": "/youtube-player/song_src_f06bfa7b_15c8c9",
+      "songUrl": "./practice-data/songs/song_src_f06bfa7b_15c8c9.json"
     }
   ],
   "sources": [
@@ -155,6 +165,10 @@
     {
       "id": "src_ef7e0be7",
       "sourceUrl": "./practice-data/sources/src_ef7e0be7.json"
+    },
+    {
+      "id": "src_f06bfa7b",
+      "sourceUrl": "./practice-data/sources/src_f06bfa7b.json"
     }
   ]
 }
