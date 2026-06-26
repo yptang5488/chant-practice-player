@@ -5,7 +5,9 @@
   "audio": {
     "sourceId": "src_9120883d",
     "playbackUrl": "/media/raw/src_9120883d.mp3",
-    "duration": 197.880454
+    "duration": 197.880454,
+    "trimStart": 0,
+    "trimEnd": 0
   },
   "lyrics": [
     {
@@ -61,7 +63,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "HIP 해 김용선(金容仙)\nHIP 해 문별이(文星伊) \nHIP 해 정휘인(丁輝人) \nHIP 해 안혜진(安惠真) \nHIP 해 마마무\n마마무가 하면 HIP\n（MAMAMOO 做什麼都很 HIP）",
+          "text": "HIP 해 김용선\nHIP 해 문별이 \nHIP 해 정휘인 \nHIP 해 안혜진 \nHIP 해 마마무\n마마무가 하면 HIP",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -69,7 +71,7 @@
             "charStart": 5,
             "charEnd": 5
           },
-          "romanizedText": "HIP hae 金容仙(金容仙)\nHIP hae 文星伊(文星伊) \nHIP hae 丁輝人(丁輝人) \nHIP hae 安惠真(安惠真) \nHIP hae Mamamoo\nMamamooga hamyeon HIP\n（MAMAMOO 做什麼都很 HIP）"
+          "romanizedText": "HIP hae 金容仙\nHIP hae 文星伊 \nHIP hae 丁輝人 \nHIP hae 安惠真 \nHIP hae Mamamoo\nMamamooga hamyeon HIP"
         }
       ]
     },
@@ -876,7 +878,7 @@
           "type": "chant",
           "mode": "inline",
           "label": "sing-along",
-          "text": "머리 ",
+          "text": "머리",
           "placement": "inline",
           "anchor": {
             "matchText": "머리 ",
@@ -884,13 +886,13 @@
             "charStart": 3,
             "charEnd": 6
           },
-          "romanizedText": "meori "
+          "romanizedText": "meori"
         },
         {
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "HIP 해 김용선(金容仙)\nHIP 해 문별이(文星伊)  \nHIP 해 정휘인(丁輝人)  \nHIP 해 안혜진(安惠真)  \nHIP 해 마마무 \n마마무가 하면 HIP\n（MAMAMOO 做什麼都很 HIP）",
+          "text": "HIP 해 김용선\nHIP 해 문별이 \nHIP 해 정휘인 \nHIP 해 안혜진 \nHIP 해 마마무 \n마마무가 하면 HIP",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -898,7 +900,7 @@
             "charStart": 15,
             "charEnd": 15
           },
-          "romanizedText": "HIP hae 金容仙(金容仙)\nHIP hae 文星伊(文星伊)  \nHIP hae 丁輝人(丁輝人)  \nHIP hae 安惠真(安惠真)  \nHIP hae Mamamoo \nMamamooga hamyeon HIP\n（MAMAMOO 做什麼都很 HIP）"
+          "romanizedText": "HIP hae 金容仙\nHIP hae 文星伊 \nHIP hae 丁輝人 \nHIP hae 安惠真 \nHIP hae Mamamoo \nMamamooga hamyeon HIP"
         }
       ]
     },

@@ -15,7 +15,7 @@
       "start": 8.16,
       "end": 10.25,
       "text": "L.I.E.C",
-      "translation": null,
+      "translation": "L.I.E.C",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -25,7 +25,7 @@
       "start": 10.25,
       "end": 12.46,
       "text": "질러 나와 같이",
-      "translation": null,
+      "translation": "和我一起喊出來",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -35,7 +35,7 @@
       "start": 12.46,
       "end": 16.12,
       "text": "돌아이같이 다",
-      "translation": null,
+      "translation": "大家都像瘋了一樣",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -45,7 +45,7 @@
       "start": 16.12,
       "end": 16.85,
       "text": "L.I.E.C",
-      "translation": null,
+      "translation": "L.I.E.C",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -55,7 +55,7 @@
       "start": 16.85,
       "end": 18.64,
       "text": "Do what you wanna do",
-      "translation": null,
+      "translation": "做你想做的事",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -79,7 +79,7 @@
       "start": 18.64,
       "end": 20.52,
       "text": "같이 가 모두",
-      "translation": null,
+      "translation": "大家一起走吧",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -104,7 +104,7 @@
       "start": 20.52,
       "end": 22.94,
       "text": "Phone 은 잠시 down",
-      "translation": null,
+      "translation": "手機先暫時放下",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -114,7 +114,7 @@
       "start": 22.94,
       "end": 26.7,
       "text": "잡아 택시 타고 Let's ride",
-      "translation": null,
+      "translation": "攔台計程車，Let's ride",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -138,7 +138,7 @@
       "start": 26.7,
       "end": 28.6,
       "text": "먹고 마시고",
-      "translation": null,
+      "translation": "吃喝玩樂",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -148,7 +148,7 @@
       "start": 28.6,
       "end": 31.91,
       "text": "I'm feeling alive",
-      "translation": null,
+      "translation": "我感覺自己活著",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -158,7 +158,7 @@
       "start": 31.91,
       "end": 34.12,
       "text": "후 한숨만 나와",
-      "translation": null,
+      "translation": "唉，只剩一聲嘆息",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -183,7 +183,7 @@
       "start": 34.12,
       "end": 36.33,
       "text": "툭 치면 울 것 같은",
-      "translation": null,
+      "translation": "像是輕輕一碰就會哭",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -208,7 +208,7 @@
       "start": 36.33,
       "end": 39.19,
       "text": "하루가 지나간다",
-      "translation": null,
+      "translation": "一天又這樣過去了",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -218,7 +218,7 @@
       "start": 39.19,
       "end": 41.48,
       "text": "난 멋지게 살고 싶은데",
-      "translation": null,
+      "translation": "我明明想活得帥氣",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -228,7 +228,7 @@
       "start": 41.48,
       "end": 43.27,
       "text": "못 놀고 살고 있어",
-      "translation": null,
+      "translation": "卻一直沒能好好玩",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -253,7 +253,7 @@
       "start": 43.27,
       "end": 44.05,
       "text": "괜찮아",
-      "translation": null,
+      "translation": "沒關係",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -263,7 +263,7 @@
       "start": 44.05,
       "end": 47,
       "text": "너의 하루 끝엔 내가 서있어",
-      "translation": null,
+      "translation": "在你一天結束時，我會站在那裡",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -273,7 +273,7 @@
       "start": 47,
       "end": 49.13,
       "text": "No doubt",
-      "translation": null,
+      "translation": "毫無疑問",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -283,7 +283,7 @@
       "start": 49.13,
       "end": 53.44,
       "text": "그냥 네 멋대로 해 다",
-      "translation": null,
+      "translation": "就照你的方式去做吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -293,7 +293,7 @@
       "start": 53.44,
       "end": 56.56,
       "text": "네비엔 없는 길로 가",
-      "translation": null,
+      "translation": "走向導航裡沒有的路",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -303,7 +303,7 @@
       "start": 56.56,
       "end": 59.59,
       "text": "Go, go, go 고생 끝",
-      "translation": null,
+      "translation": "Go, go, go 苦盡甘來",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -327,7 +327,7 @@
       "start": 59.59,
       "end": 60.48,
       "text": "Let's get started",
-      "translation": null,
+      "translation": "開始吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -337,7 +337,7 @@
       "start": 60.48,
       "end": 62.9,
       "text": "놀아 같이 다",
-      "translation": null,
+      "translation": "大家一起玩吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -347,7 +347,7 @@
       "start": 62.9,
       "end": 64.09,
       "text": "L.I.E.C",
-      "translation": null,
+      "translation": "L.I.E.C",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -357,7 +357,7 @@
       "start": 64.09,
       "end": 65.76,
       "text": "Do what you wanna do",
-      "translation": null,
+      "translation": "做你想做的事",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -381,7 +381,7 @@
       "start": 65.76,
       "end": 67.74,
       "text": "같이 가 모두",
-      "translation": null,
+      "translation": "大家一起走吧",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -406,7 +406,7 @@
       "start": 67.74,
       "end": 70.49,
       "text": "Phone 은 잠시 down",
-      "translation": null,
+      "translation": "手機先暫時放下",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -416,7 +416,7 @@
       "start": 70.49,
       "end": 73.69,
       "text": "잡아 택시 타고 Let's ride",
-      "translation": null,
+      "translation": "攔台計程車，Let's ride",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -440,7 +440,7 @@
       "start": 73.69,
       "end": 75.53,
       "text": "먹고 마시고",
-      "translation": null,
+      "translation": "吃喝玩樂",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -450,7 +450,7 @@
       "start": 75.53,
       "end": 78.9,
       "text": "I'm feeling alive",
-      "translation": null,
+      "translation": "我感覺自己活著",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -460,7 +460,7 @@
       "start": 78.9,
       "end": 80.76,
       "text": "어디야 왜 혼자야",
-      "translation": null,
+      "translation": "你在哪，怎麼一個人",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -470,7 +470,7 @@
       "start": 80.76,
       "end": 82.49,
       "text": "지금이 몇 시야 빨리 나와",
-      "translation": null,
+      "translation": "現在幾點了，快出來",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -480,7 +480,7 @@
       "start": 82.49,
       "end": 85.17,
       "text": "주머니 텅 잔고 걱정 하지마",
-      "translation": null,
+      "translation": "口袋空空也別擔心餘額",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -505,7 +505,7 @@
       "start": 85.17,
       "end": 86.79,
       "text": "빚내도 내가 다 쏴",
-      "translation": null,
+      "translation": "就算借錢我也全請",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -530,7 +530,7 @@
       "start": 86.79,
       "end": 91.64,
       "text": "내 마음대로 살아갈거야 난",
-      "translation": null,
+      "translation": "我要照自己的心意活下去",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -540,7 +540,7 @@
       "start": 91.64,
       "end": 94.9,
       "text": "Life is so cool, cool, cool",
-      "translation": null,
+      "translation": "人生真是太酷了",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -564,7 +564,7 @@
       "start": 94.9,
       "end": 96.51,
       "text": "해보고 싶은 게 많았는데",
-      "translation": null,
+      "translation": "曾經有很多想嘗試的事",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -574,7 +574,7 @@
       "start": 96.51,
       "end": 98.79,
       "text": "달만 보고 사는 게 웃프네",
-      "translation": null,
+      "translation": "只看著月亮過日子，真是又哭又笑",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -584,7 +584,7 @@
       "start": 98.79,
       "end": 102.91,
       "text": "(L.I, L.I, L.I) L.I.E.C",
-      "translation": null,
+      "translation": "(L.I, L.I, L.I) L.I.E.C",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -608,7 +608,7 @@
       "start": 102.91,
       "end": 105.32,
       "text": "Do what you wanna do",
-      "translation": null,
+      "translation": "做你想做的事",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -632,7 +632,7 @@
       "start": 105.32,
       "end": 107.2,
       "text": "같이 가 모두",
-      "translation": null,
+      "translation": "大家一起走吧",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -657,7 +657,7 @@
       "start": 107.2,
       "end": 109.73,
       "text": "Phone 은 잠시 down",
-      "translation": null,
+      "translation": "手機先暫時放下",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -667,7 +667,7 @@
       "start": 109.73,
       "end": 112.95,
       "text": "잡아 택시 타고 Let's ride",
-      "translation": null,
+      "translation": "攔台計程車，Let's ride",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -691,7 +691,7 @@
       "start": 112.95,
       "end": 114.9,
       "text": "먹고 마시고",
-      "translation": null,
+      "translation": "吃喝玩樂",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -701,7 +701,7 @@
       "start": 114.9,
       "end": 125.72,
       "text": "I'm feeling alive",
-      "translation": null,
+      "translation": "我感覺自己活著",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -709,7 +709,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "김용선金容仙 문별이文星伊 정휘인丁輝人 안혜진安惠真 SCREAM!!!",
+          "text": "김용선 문별이 정휘인 안혜진 SCREAM!!!",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -726,7 +726,7 @@
       "start": 125.72,
       "end": 127.82,
       "text": "그냥 해 너 답게",
-      "translation": null,
+      "translation": "就去做吧，像你自己一樣",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -736,7 +736,7 @@
       "start": 127.82,
       "end": 129.86,
       "text": "모두 뻑이 가게 해",
-      "translation": null,
+      "translation": "讓所有人都為你著迷",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -746,7 +746,7 @@
       "start": 129.86,
       "end": 131.93,
       "text": "그냥 해 답답할 땐",
-      "translation": null,
+      "translation": "就去做吧，覺得悶的時候",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -756,7 +756,7 @@
       "start": 131.93,
       "end": 134.06,
       "text": "L.I.E.C",
-      "translation": null,
+      "translation": "L.I.E.C",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -780,7 +780,7 @@
       "start": 134.06,
       "end": 135.6,
       "text": "그냥 해 너 답게",
-      "translation": null,
+      "translation": "就去做吧，像你自己一樣",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -790,7 +790,7 @@
       "start": 135.6,
       "end": 137.39,
       "text": "모두 뻑이 가게 해",
-      "translation": null,
+      "translation": "讓所有人都為你著迷",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -800,7 +800,7 @@
       "start": 137.39,
       "end": 141.45,
       "text": "그냥 해 답답할 땐",
-      "translation": null,
+      "translation": "就去做吧，覺得悶的時候",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -810,7 +810,7 @@
       "start": 141.45,
       "end": 142.58,
       "text": "L.I.E.C",
-      "translation": null,
+      "translation": "L.I.E.C",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -835,7 +835,7 @@
       "start": 142.58,
       "end": 144.49,
       "text": "Do what you wanna do",
-      "translation": null,
+      "translation": "做你想做的事",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -859,7 +859,7 @@
       "start": 144.49,
       "end": 146.35,
       "text": "같이 가 모두",
-      "translation": null,
+      "translation": "大家一起走吧",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -884,7 +884,7 @@
       "start": 146.35,
       "end": 149.14,
       "text": "Phone 은 잠시 down",
-      "translation": null,
+      "translation": "手機先暫時放下",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -894,7 +894,7 @@
       "start": 149.14,
       "end": 152.24,
       "text": "잡아 택시 타고 Let's ride",
-      "translation": null,
+      "translation": "攔台計程車，Let's ride",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -918,7 +918,7 @@
       "start": 152.24,
       "end": 154.14,
       "text": "먹고 마시고",
-      "translation": null,
+      "translation": "吃喝玩樂",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -928,7 +928,7 @@
       "start": 154.14,
       "end": 157.45,
       "text": "I'm feeling alive",
-      "translation": null,
+      "translation": "我感覺自己活著",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -938,7 +938,7 @@
       "start": 157.45,
       "end": 160.58,
       "text": "그냥 해",
-      "translation": null,
+      "translation": "就去做吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -948,7 +948,7 @@
       "start": 160.58,
       "end": 162.04,
       "text": "그냥 뻑이 가게 해",
-      "translation": null,
+      "translation": "就讓人為你著迷吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -958,7 +958,7 @@
       "start": 162.04,
       "end": 165.41,
       "text": "L.I.E.C 이건 진심",
-      "translation": null,
+      "translation": "L.I.E.C 這是真心話",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -983,7 +983,7 @@
       "start": 165.41,
       "end": 167.67,
       "text": "그냥 해",
-      "translation": null,
+      "translation": "就去做吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -993,7 +993,7 @@
       "start": 167.67,
       "end": 169.62,
       "text": "그냥 뻑이 가게 해",
-      "translation": null,
+      "translation": "就讓人為你著迷吧",
       "confidence": 0.9,
       "segments": [],
       "notes": []
@@ -1003,7 +1003,7 @@
       "start": 169.62,
       "end": 175.45,
       "text": "L.I.E.C",
-      "translation": null,
+      "translation": "L.I.E.C",
       "confidence": 0.9,
       "segments": [],
       "notes": [
@@ -1042,8 +1042,7 @@
       "start": 0.5,
       "end": 2.5,
       "text": "SCREAM!!!",
-      "label": "chant",
-      "romanizedText": null
+      "label": "chant"
     }
   ],
   "lyricOffset": 0.5

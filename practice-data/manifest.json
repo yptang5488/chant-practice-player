@@ -95,14 +95,14 @@
       "title": "L.I.E.C",
       "artist": "MAMAMOO",
       "hasLyrics": true,
-      "hasTranslation": false,
+      "hasTranslation": true,
       "hasNotes": true,
       "playerPath": "/youtube-player/song_src_dd5b4bae_8c9aab",
       "songUrl": "./practice-data/songs/song_src_dd5b4bae_8c9aab.json"
     },
     {
       "id": "song_src_ef7e0be7_1722aa",
-      "title": "Mr.애매모호(Mr.Ambiguous)",
+      "title": "Mr.Ambiguous",
       "artist": "MAMAMOO",
       "hasLyrics": true,
       "hasTranslation": true,
@@ -112,7 +112,7 @@
     },
     {
       "id": "song_src_f06bfa7b_15c8c9",
-      "title": "우린 결국 다시 만날 운명이었지(Destiny)",
+      "title": "Destiny",
       "artist": "Mamamoo",
       "hasLyrics": true,
       "hasTranslation": true,

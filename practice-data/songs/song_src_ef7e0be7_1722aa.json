@@ -1,6 +1,6 @@
 {
   "id": "song_src_ef7e0be7_1722aa",
-  "title": "Mr.애매모호(Mr.Ambiguous)",
+  "title": "Mr.Ambiguous",
   "artist": "MAMAMOO",
   "audio": {
     "sourceId": "src_ef7e0be7",
@@ -1223,32 +1223,28 @@
       "start": 1,
       "end": 2,
       "text": "WheeIn",
-      "label": "chant",
-      "romanizedText": null
+      "label": "chant"
     },
     {
       "id": "chant_mqs7p5im",
       "start": 2,
       "end": 3,
       "text": "Hwasa",
-      "label": "chant",
-      "romanizedText": null
+      "label": "chant"
     },
     {
       "id": "chant_mqs7phhd",
       "start": 3,
       "end": 4,
       "text": "MoonByul",
-      "label": "chant",
-      "romanizedText": null
+      "label": "chant"
     },
     {
       "id": "chant_mqs7pv18",
       "start": 4,
       "end": 5,
       "text": "Solar",
-      "label": "chant",
-      "romanizedText": null
+      "label": "chant"
     }
   ],
   "lyricOffset": 0

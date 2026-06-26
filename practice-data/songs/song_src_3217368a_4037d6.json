@@ -33,7 +33,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "김용선金容仙",
+          "text": "김용선",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -68,7 +68,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "안혜진安惠真",
+          "text": "안혜진",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -133,7 +133,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "정휘인丁輝人",
+          "text": "정휘인",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -213,7 +213,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "문별이文星伊",
+          "text": "문별이",
           "placement": "replace-phrase",
           "anchor": {
             "matchText": "마",
@@ -1554,7 +1554,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "김용선金容仙 문별이文星伊",
+          "text": "김용선 문별이",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -1579,7 +1579,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "정휘인丁輝人 안혜진安惠真 마마무",
+          "text": "정휘인 안혜진 마마무",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",

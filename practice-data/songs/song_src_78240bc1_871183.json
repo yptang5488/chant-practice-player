@@ -113,7 +113,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "김용선 金容仙",
+          "text": "김용선",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -121,13 +121,13 @@
             "charStart": 11,
             "charEnd": 11
           },
-          "romanizedText": "金容仙 金容仙"
+          "romanizedText": "金容仙"
         },
         {
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "문별이 文星伊",
+          "text": "문별이",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -135,7 +135,7 @@
             "charStart": 27,
             "charEnd": 27
           },
-          "romanizedText": "文星伊 文星伊"
+          "romanizedText": "文星伊"
         }
       ]
     },
@@ -177,7 +177,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "정휘인 丁輝人",
+          "text": "정휘인",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -185,13 +185,13 @@
             "charStart": 11,
             "charEnd": 11
           },
-          "romanizedText": "丁輝人 丁輝人"
+          "romanizedText": "丁輝人"
         },
         {
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "안혜진 安惠真",
+          "text": "안혜진",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -199,7 +199,7 @@
             "charStart": 27,
             "charEnd": 27
           },
-          "romanizedText": "安惠真 安惠真"
+          "romanizedText": "安惠真"
         }
       ]
     },
@@ -547,7 +547,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "김용선 金容仙",
+          "text": "김용선",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -555,13 +555,13 @@
             "charStart": 11,
             "charEnd": 11
           },
-          "romanizedText": "金容仙 金容仙"
+          "romanizedText": "金容仙"
         },
         {
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "문별이 文星伊",
+          "text": "문별이",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -569,7 +569,7 @@
             "charStart": 27,
             "charEnd": 27
           },
-          "romanizedText": "文星伊 文星伊"
+          "romanizedText": "文星伊"
         }
       ]
     },
@@ -611,7 +611,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "정휘인 丁輝人",
+          "text": "정휘인",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -619,13 +619,13 @@
             "charStart": 11,
             "charEnd": 11
           },
-          "romanizedText": "丁輝人 丁輝人"
+          "romanizedText": "丁輝人"
         },
         {
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "안혜진 安惠真",
+          "text": "안혜진",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -633,7 +633,7 @@
             "charStart": 27,
             "charEnd": 27
           },
-          "romanizedText": "安惠真 安惠真"
+          "romanizedText": "安惠真"
         }
       ]
     },
@@ -1092,27 +1092,26 @@
   "chantEvents": [
     {
       "id": "chant_mql2ekka",
-      "start": 7,
-      "end": 8,
+      "start": 6.5,
+      "end": 7.5,
       "text": "마 마 무",
       "label": "chant",
-      "romanizedText": null
+      "romanizedText": "ma ma mu"
     },
     {
       "id": "chant_mql3mpo0",
       "start": 222.5,
       "end": 228.5,
-      "text": "문별이文星伊 김용선金容仙 정휘인丁輝人 안혜진安惠真",
+      "text": "문별이 김용선 정휘인 안혜진",
       "label": "chant",
-      "romanizedText": null
+      "romanizedText": "文星伊 金容仙 丁輝人 安惠真"
     },
     {
       "id": "chant_mql2ofvf",
       "start": 230,
       "end": 233,
       "text": "Win.d Flo.wer",
-      "label": "chant",
-      "romanizedText": null
+      "label": "chant"
     }
   ],
   "lyricOffset": 0

@@ -329,7 +329,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "♫♫♫ 김용선金容仙\n♫♫♫ 문별이文星伊\n♫♫♫ 정휘인丁輝人",
+          "text": "♫♫♫ 김용선\n♫♫♫ 문별이\n♫♫♫ 정휘인",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -354,7 +354,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "안혜진安惠真",
+          "text": "안혜진",
           "placement": "replace-phrase",
           "anchor": {
             "matchText": "툭 떨어진다",
@@ -632,7 +632,7 @@
           "type": "chant",
           "mode": "inline",
           "label": "sing-along",
-          "text": "썩은 이빨 ",
+          "text": "썩은 이빨",
           "placement": "inline",
           "anchor": {
             "matchText": "썩은 이빨 ",
@@ -640,7 +640,7 @@
             "charStart": 0,
             "charEnd": 6
           },
-          "romanizedText": "sseogeun ippal "
+          "romanizedText": "sseogeun ippal"
         }
       ]
     },
@@ -741,7 +741,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "♫♫♫ 김용선金容仙 \n♫♫♫ 문별이文星伊 \n♫♫♫ 정휘인丁輝人",
+          "text": "♫♫♫ 김용선 \n♫♫♫ 문별이 \n♫♫♫ 정휘인",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -766,7 +766,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "안혜진安惠真",
+          "text": "안혜진",
           "placement": "replace-phrase",
           "anchor": {
             "matchText": "툭 떨어진다",
@@ -1077,33 +1077,33 @@
       "id": "chant_mqnq5gwa",
       "start": 2,
       "end": 3,
-      "text": "김용선金容仙",
+      "text": "김용선",
       "label": "chant",
-      "romanizedText": null
+      "romanizedText": "金容仙"
     },
     {
       "id": "chant_mqnq6j68",
       "start": 4,
       "end": 5,
-      "text": "문별이文星伊",
+      "text": "문별이",
       "label": "chant",
-      "romanizedText": null
+      "romanizedText": "文星伊"
     },
     {
       "id": "chant_mqnq86ng",
       "start": 7,
       "end": 8,
-      "text": "정휘인丁輝人",
+      "text": "정휘인",
       "label": "chant",
-      "romanizedText": null
+      "romanizedText": "丁輝人"
     },
     {
       "id": "chant_mqnq8rx8",
       "start": 9,
       "end": 10,
-      "text": "안혜진安惠真",
+      "text": "안혜진",
       "label": "chant",
-      "romanizedText": null
+      "romanizedText": "安惠真"
     }
   ],
   "lyricOffset": 0

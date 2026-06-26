@@ -670,7 +670,7 @@
           "type": "chant",
           "mode": "inline",
           "label": "sing-along",
-          "text": "매일 ",
+          "text": "매일",
           "placement": "inline",
           "anchor": {
             "matchText": "매일 ",
@@ -678,7 +678,7 @@
             "charStart": 4,
             "charEnd": 7
           },
-          "romanizedText": "maeil "
+          "romanizedText": "maeil"
         }
       ]
     },
@@ -974,7 +974,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "김용선金容仙",
+          "text": "김용선",
           "placement": "replace-phrase",
           "anchor": {
             "matchText": "yeah (yeah)",
@@ -999,7 +999,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "문별이文星伊 정휘인丁輝人",
+          "text": "문별이 정휘인",
           "placement": "replace-phrase",
           "anchor": {
             "matchText": "일낼라-la-la 해 (hey, eh)",
@@ -1024,7 +1024,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "안혜진安惠真 마마무 일낼라",
+          "text": "안혜진 마마무 일낼라",
           "placement": "replace-phrase",
           "anchor": {
             "matchText": "일낼라-la-la 해-eh-eh (oh-oh-oh-oh)",
@@ -1141,17 +1141,17 @@
       "id": "chant_mqm4d8aw",
       "start": -8,
       "end": 2,
-      "text": "마마무 김용선金容仙\n마마무 문별이文星伊\n마마무 정휘인丁輝人\n마마무 안혜진安惠真\n마마무 일낼라\n마마무 일낼차",
+      "text": "마마무 김용선\n마마무 문별이\n마마무 정휘인\n마마무 안혜진\n마마무 일낼라\n마마무 일낼차",
       "label": "chant",
-      "romanizedText": null
+      "romanizedText": "Mamamoo 金容仙\nMamamoo 文星伊\nMamamoo 丁輝人\nMamamoo 安惠真\nMamamoo ilnaelra\nMamamoo ilnaelcha"
     },
     {
       "id": "chant_mqm3unma",
       "start": 118,
       "end": 129,
-      "text": "김용선金容仙 일낼라\n문별이文星伊 일낼라\n정휘인丁輝人 일낼라\n안혜진安惠真 일낼라",
+      "text": "김용선 일낼라\n문별이 일낼라\n정휘인 일낼라\n안혜진 일낼라",
       "label": "chant",
-      "romanizedText": null
+      "romanizedText": "金容仙 ilnaelra\n文星伊 ilnaelra\n丁輝人 ilnaelra\n安惠真 ilnaelra"
     }
   ],
   "lyricOffset": 10

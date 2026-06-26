@@ -5,7 +5,9 @@
   "audio": {
     "sourceId": "src_4671e574",
     "playbackUrl": "/media/raw/src_4671e574.mp3",
-    "duration": 185.573878
+    "duration": 185.573878,
+    "trimStart": 0,
+    "trimEnd": 0
   },
   "lyrics": [
     {
@@ -31,7 +33,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "무무들 모아(MOO MOO們聚起來)",
+          "text": "무무들 모아 (MOO MOO們聚起來)",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -39,7 +41,7 @@
             "charStart": 6,
             "charEnd": 6
           },
-          "romanizedText": "mumudeul moa(MOO MOO們聚起來)"
+          "romanizedText": "mumudeul moa (MOO MOO們聚起來)"
         }
       ]
     },
@@ -363,7 +365,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "무무들 모아(MOO MOO們聚起來)",
+          "text": "무무들 모아",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -371,7 +373,7 @@
             "charStart": 6,
             "charEnd": 6
           },
-          "romanizedText": "mumudeul moa(MOO MOO們聚起來)"
+          "romanizedText": "mumudeul moa"
         }
       ]
     },
@@ -799,7 +801,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "무무들 모아(MOO MOO們聚起來)",
+          "text": "무무들 모아",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -807,7 +809,7 @@
             "charStart": 6,
             "charEnd": 6
           },
-          "romanizedText": "mumudeul moa(MOO MOO們聚起來)"
+          "romanizedText": "mumudeul moa"
         }
       ]
     },
@@ -1112,7 +1114,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "무무들 모아(MOO MOO們聚起來)",
+          "text": "무무들 모아",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -1120,7 +1122,7 @@
             "charStart": 6,
             "charEnd": 6
           },
-          "romanizedText": "mumudeul moa(MOO MOO們聚起來)"
+          "romanizedText": "mumudeul moa"
         }
       ]
     },
@@ -1373,9 +1375,9 @@
       "id": "chant_mqi9l64x",
       "start": 4,
       "end": 7,
-      "text": "김용선(金容仙) 문별이(文星伊) 정휘인(丁輝人) 안혜진(安惠真)",
+      "text": "김용선 문별이 정휘인 안혜진",
       "label": "chant",
-      "romanizedText": null
+      "romanizedText": "金容仙 文星伊 丁輝人 安惠真"
     }
   ],
   "lyricOffset": 5

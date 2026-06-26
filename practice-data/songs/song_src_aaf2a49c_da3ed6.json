@@ -151,7 +151,7 @@
           "type": "chant",
           "mode": "inline",
           "label": "sing-along",
-          "text": "돼 ",
+          "text": "돼",
           "placement": "inline",
           "anchor": {
             "matchText": "돼 ",
@@ -159,7 +159,7 @@
             "charStart": 5,
             "charEnd": 7
           },
-          "romanizedText": "dwae "
+          "romanizedText": "dwae"
         },
         {
           "type": "chant",
@@ -516,7 +516,7 @@
           "type": "chant",
           "mode": "inline",
           "label": "sing-along",
-          "text": "gain e e ",
+          "text": "gain e e",
           "placement": "inline",
           "anchor": {
             "matchText": "gain e e ",
@@ -934,7 +934,7 @@
           "type": "chant",
           "mode": "inline",
           "label": "sing-along",
-          "text": "4 Flowers ",
+          "text": "4 Flowers",
           "placement": "inline",
           "anchor": {
             "matchText": "4 Flowers ",
@@ -1101,17 +1101,17 @@
       "id": "chant_mqgymafj",
       "start": 3,
       "end": 7,
-      "text": "김용선(金容仙) 문별이(文星伊) 정휘인(丁輝人) 안혜진(安惠真)",
+      "text": "김용선 문별이 정휘인 안혜진",
       "label": "chant",
-      "romanizedText": null
+      "romanizedText": "金容仙 文星伊 丁輝人 安惠真"
     },
     {
       "id": "chant_mqgykple",
-      "start": 7,
-      "end": 12,
+      "start": 6.5,
+      "end": 11.5,
       "text": "마마무 무무랑 포.플.라.워",
       "label": "chant",
-      "romanizedText": null
+      "romanizedText": "Mamamoo mumurang po.peul.ra.wo"
     }
   ],
   "lyricOffset": -1

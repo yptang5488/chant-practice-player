@@ -914,7 +914,7 @@
           "type": "chant",
           "mode": "standalone",
           "label": "chant",
-          "text": "김용선金容仙 문별이文星伊 정휘인丁輝人 안혜진安惠真 마마무",
+          "text": "김용선 문별이 정휘인 안혜진 마마무",
           "placement": "insert-at",
           "anchor": {
             "matchText": "",
@@ -1297,7 +1297,7 @@
       "end": 5,
       "text": "마마무",
       "label": "chant",
-      "romanizedText": null
+      "romanizedText": "Mamamoo"
     },
     {
       "id": "chant_mqs3i5bb",
@@ -1305,7 +1305,7 @@
       "end": 10,
       "text": "너나해",
       "label": "chant",
-      "romanizedText": null
+      "romanizedText": "neonahae"
     }
   ],
   "lyricOffset": 0
