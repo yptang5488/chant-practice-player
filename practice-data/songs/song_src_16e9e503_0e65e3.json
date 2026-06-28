@@ -88,7 +88,22 @@
       "translation": "現在是午夜前十分鐘",
       "confidence": 0.9,
       "segments": [],
-      "notes": []
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "10분전",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "10분전",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 11
+          },
+          "romanizedText": "10bunjeon"
+        }
+      ]
     },
     {
       "id": "l6",

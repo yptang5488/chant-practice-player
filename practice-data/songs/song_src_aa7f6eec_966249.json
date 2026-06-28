@@ -1,0 +1,1042 @@
+{
+  "id": "song_src_aa7f6eec_966249",
+  "title": "No more drama",
+  "artist": "MAMAMOO",
+  "audio": {
+    "sourceId": "src_aa7f6eec",
+    "playbackUrl": "/media/raw/src_aa7f6eec.mp3",
+    "duration": 194.60644,
+    "trimStart": 1,
+    "trimEnd": 0
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 7.77,
+      "end": 11.98,
+      "text": "No more drama 충분히 기회를 줬어",
+      "translation": "No more drama，已經給過你足夠機會",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l2",
+      "start": 11.98,
+      "end": 13.76,
+      "text": "Time is over 더",
+      "translation": "Time is over，已經",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l3",
+      "start": 13.76,
+      "end": 15.54,
+      "text": "이상 못해 난 됐어",
+      "translation": "再也不行了，我受夠了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l4",
+      "start": 15.54,
+      "end": 20.25,
+      "text": "Non-fiction drama 까맣게 변해 나만",
+      "translation": "Non-fiction drama，只剩我變得漆黑",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l5",
+      "start": 20.25,
+      "end": 21.96,
+      "text": "점점 더 바래져",
+      "translation": "一點一點更加褪色",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l6",
+      "start": 21.96,
+      "end": 24.05,
+      "text": "가는 널 보면 난 지쳐",
+      "translation": "看著漸漸遠去的你，我累了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l7",
+      "start": 24.05,
+      "end": 25.96,
+      "text": "No more drama",
+      "translation": "No more drama",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "drama",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l8",
+      "start": 25.96,
+      "end": 27.99,
+      "text": "No more drama",
+      "translation": "No more drama",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "drama",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l9",
+      "start": 27.99,
+      "end": 30.62,
+      "text": "No more drama",
+      "translation": "No more drama",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "drama",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "start": 30.62,
+      "end": 32.23,
+      "text": "Time is over",
+      "translation": "Time is over",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l11",
+      "start": 32.23,
+      "end": 34.13,
+      "text": "No more drama",
+      "translation": "No more drama",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "drama",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "start": 34.13,
+      "end": 36.25,
+      "text": "No more drama",
+      "translation": "No more drama",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "drama",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "start": 36.25,
+      "end": 41.41,
+      "text": "No more drama",
+      "translation": "No more drama",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "drama",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "start": 41.41,
+      "end": 43.67,
+      "text": "잘 지냈었는지",
+      "translation": "你過得還好嗎",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l15",
+      "start": 43.67,
+      "end": 45.66,
+      "text": "아니면 나와 같은지",
+      "translation": "還是也和我一樣呢",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l16",
+      "start": 45.66,
+      "end": 49.92,
+      "text": "대체 왜 이러는 건지",
+      "translation": "到底為什麼會這樣",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l17",
+      "start": 49.92,
+      "end": 52.15,
+      "text": "그냥 보고 싶은 거야 뭐",
+      "translation": "只是想見你吧，沒什麼",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l18",
+      "start": 52.15,
+      "end": 54.56,
+      "text": "하지 말아줘 이게 다 너 때문이야",
+      "translation": "別再這樣，這一切都是因為你",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l19",
+      "start": 54.56,
+      "end": 57.49,
+      "text": "그냥 다 너 때문이야",
+      "translation": "全都是因為你",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l20",
+      "start": 57.49,
+      "end": 59.29,
+      "text": "One two three four, day by day",
+      "translation": "One two three four, day by day",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "One two three four, day by day",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "One two three four, day by day",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 30
+          }
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "start": 59.29,
+      "end": 61.43,
+      "text": "아침부터 저녁까지 매일매일",
+      "translation": "從早到晚，每一天",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l22",
+      "start": 61.43,
+      "end": 65.42,
+      "text": "똑같은 말뿐이야 all day long",
+      "translation": "整天都只有同樣的話",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l23",
+      "start": 65.42,
+      "end": 67.43,
+      "text": "One two three four, day by day",
+      "translation": "One two three four, day by day",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "One two three four, day by day",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "One two three four, day by day",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 30
+          }
+        }
+      ]
+    },
+    {
+      "id": "l24",
+      "start": 67.43,
+      "end": 69.68,
+      "text": "아침부터 저녁까지 매일매일",
+      "translation": "從早到晚，每一天",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l25",
+      "start": 69.68,
+      "end": 73.21,
+      "text": "똑같은 말뿐이야",
+      "translation": "只有同樣的話",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "MA.MA.MOO",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 8,
+            "charEnd": 8
+          }
+        }
+      ]
+    },
+    {
+      "id": "l26",
+      "start": 73.21,
+      "end": 77.94,
+      "text": "No more drama 충분히 기회를 줬어",
+      "translation": "No more drama，已經給過你足夠機會",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l27",
+      "start": 77.94,
+      "end": 79.36,
+      "text": "Time is over 더",
+      "translation": "Time is over，已經",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l28",
+      "start": 79.36,
+      "end": 81,
+      "text": "이상 못해 난 됐어",
+      "translation": "再也不行了，我受夠了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l29",
+      "start": 81,
+      "end": 82.82,
+      "text": "Non-fiction drama",
+      "translation": "Non-fiction drama",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l30",
+      "start": 82.82,
+      "end": 85.97,
+      "text": "까맣게 변해 나만",
+      "translation": "只剩我變得漆黑",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l31",
+      "start": 85.97,
+      "end": 87.49,
+      "text": "점점 더 바래져",
+      "translation": "一點一點更加褪色",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l32",
+      "start": 87.49,
+      "end": 89.76,
+      "text": "가는 널 보면 난 지쳐",
+      "translation": "看著漸漸遠去的你，我累了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l33",
+      "start": 89.76,
+      "end": 91.65,
+      "text": "No more drama",
+      "translation": "No more drama",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "drama",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l34",
+      "start": 91.65,
+      "end": 93.38,
+      "text": "No more drama",
+      "translation": "No more drama",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "drama",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l35",
+      "start": 93.38,
+      "end": 96.22,
+      "text": "No more drama",
+      "translation": "No more drama",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "drama",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l36",
+      "start": 96.22,
+      "end": 97.8,
+      "text": "Time is over",
+      "translation": "Time is over",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l37",
+      "start": 97.8,
+      "end": 99.82,
+      "text": "No more drama",
+      "translation": "No more drama",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "drama",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l38",
+      "start": 99.82,
+      "end": 102.03,
+      "text": "No more drama",
+      "translation": "No more drama",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "drama",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l39",
+      "start": 102.03,
+      "end": 106.76,
+      "text": "No more drama",
+      "translation": "No more drama",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "drama",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l40",
+      "start": 106.76,
+      "end": 109.43,
+      "text": "Uh 그냥 내 탓이라고 할게 응?",
+      "translation": "Uh 就當作是我的錯吧，嗯？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l41",
+      "start": 109.43,
+      "end": 111.49,
+      "text": "말 더 이어가지 말자 그만해 응?",
+      "translation": "別再把話接下去了，到此為止，嗯？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l42",
+      "start": 111.49,
+      "end": 115.02,
+      "text": "점점 조여오는 미간 덕분에 너보다 먼저 찾는 건 두통약",
+      "translation": "眉頭越皺越緊，讓我比找你更先找的是頭痛藥",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l43",
+      "start": 115.02,
+      "end": 117.49,
+      "text": "이기심에 밀어내기만 하는 너 uh uh",
+      "translation": "你只因自私把我推開 uh uh",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l44",
+      "start": 117.49,
+      "end": 119.37,
+      "text": "난 이 씬에 미련 없는 주인공 uh",
+      "translation": "我是對這場戲毫無眷戀的主角 uh",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l45",
+      "start": 119.37,
+      "end": 120.5,
+      "text": "Seat 넘버 트라우마",
+      "translation": "座位號碼創傷",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l46",
+      "start": 120.5,
+      "end": 123.2,
+      "text": "No more drama 엔딩에 앉아 손 흔들게 goodbye",
+      "translation": "No more drama，我會坐在結局裡揮手 goodbye",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l47",
+      "start": 123.2,
+      "end": 124.84,
+      "text": "One two three four, day by day",
+      "translation": "One two three four, day by day",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "One two three four, day by day",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "One two three four, day by day",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 30
+          }
+        }
+      ]
+    },
+    {
+      "id": "l48",
+      "start": 124.84,
+      "end": 127.11,
+      "text": "아침부터 저녁까지 매일매일",
+      "translation": "從早到晚，每一天",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l49",
+      "start": 127.11,
+      "end": 131.24,
+      "text": "똑같은 말뿐이야 all day long",
+      "translation": "整天都只有同樣的話",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l50",
+      "start": 131.24,
+      "end": 132.83,
+      "text": "One two three four, day by day",
+      "translation": "One two three four, day by day",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "One two three four, day by day",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "One two three four, day by day",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 30
+          }
+        }
+      ]
+    },
+    {
+      "id": "l51",
+      "start": 132.83,
+      "end": 135.4,
+      "text": "아침부터 저녁까지 매일매일",
+      "translation": "從早到晚，每一天",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l52",
+      "start": 135.4,
+      "end": 138.9,
+      "text": "똑같은 말뿐이야",
+      "translation": "只有同樣的話",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l53",
+      "start": 138.9,
+      "end": 140.23,
+      "text": "No more drama",
+      "translation": "No more drama",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l54",
+      "start": 140.23,
+      "end": 143.47,
+      "text": "충분히 기회를 줬어",
+      "translation": "已經給過你足夠機會",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l55",
+      "start": 143.47,
+      "end": 145.04,
+      "text": "Time is over 더",
+      "translation": "Time is over，已經",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l56",
+      "start": 145.04,
+      "end": 147.06,
+      "text": "이상 못해 난 됐어",
+      "translation": "再也不行了，我受夠了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l57",
+      "start": 147.06,
+      "end": 148.42,
+      "text": "Non-fiction drama",
+      "translation": "Non-fiction drama",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l58",
+      "start": 148.42,
+      "end": 151.65,
+      "text": "까맣게 변해 나만",
+      "translation": "只剩我變得漆黑",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l59",
+      "start": 151.65,
+      "end": 153.15,
+      "text": "점점 더 바래져",
+      "translation": "一點一點更加褪色",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l60",
+      "start": 153.15,
+      "end": 155.36,
+      "text": "가는 널 보면 난 지쳐",
+      "translation": "看著漸漸遠去的你，我累了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l61",
+      "start": 155.36,
+      "end": 157.24,
+      "text": "No more drama",
+      "translation": "No more drama",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "drama",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l62",
+      "start": 157.24,
+      "end": 159.05,
+      "text": "No more drama",
+      "translation": "No more drama",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "drama",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l63",
+      "start": 159.05,
+      "end": 161.99,
+      "text": "No more drama",
+      "translation": "No more drama",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "drama",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l64",
+      "start": 161.99,
+      "end": 163.57,
+      "text": "Time is over",
+      "translation": "Time is over",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l65",
+      "start": 163.57,
+      "end": 165.41,
+      "text": "No more drama",
+      "translation": "No more drama",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "drama",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l66",
+      "start": 165.41,
+      "end": 167.36,
+      "text": "No more drama",
+      "translation": "No more drama",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "drama",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l67",
+      "start": 167.36,
+      "end": 172,
+      "text": "No more drama",
+      "translation": "No more drama",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "drama",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l68",
+      "start": 172,
+      "end": 180.34,
+      "text": "Wow, wow, no",
+      "translation": "Wow, wow, no",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l69",
+      "start": 180.34,
+      "end": 194.606,
+      "text": "No, no, no, no",
+      "translation": "No, no, no, no",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "SCREAM!!!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 14,
+            "charEnd": 14
+          }
+        }
+      ]
+    }
+  ],
+  "chantEvents": [],
+  "lyricOffset": 0
+}

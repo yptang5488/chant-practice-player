@@ -1,0 +1,1129 @@
+{
+  "id": "song_src_b0cf6806_fb33a6",
+  "title": "Piano Man",
+  "artist": "MAMAMOO",
+  "audio": {
+    "sourceId": "src_b0cf6806",
+    "playbackUrl": "/media/raw/src_b0cf6806.mp3",
+    "duration": 204.521361,
+    "trimStart": 0,
+    "trimEnd": 0
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 0.23,
+      "end": 5.31,
+      "text": "I'm ready for some action",
+      "translation": "我已準備好來點動作",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l2",
+      "start": 5.31,
+      "end": 13.57,
+      "text": "Are you ready for perfection?",
+      "translation": "你準備好迎接完美了嗎？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l3",
+      "start": 13.57,
+      "end": 19.02,
+      "text": "Hey piano man",
+      "translation": "Hey piano man",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "SCREAM!!!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l4",
+      "start": 19.02,
+      "end": 24.33,
+      "text": "Hello um-mwah",
+      "translation": "Hello um-mwah",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Solar Moonbyul Wheein Hwasa Mam! Moo~",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l5",
+      "start": 24.33,
+      "end": 28.43,
+      "text": "아니 매력 없는 대화들이 참",
+      "translation": "那些毫無魅力的對話，真是",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Solar",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 15,
+            "charEnd": 15
+          }
+        }
+      ]
+    },
+    {
+      "id": "l6",
+      "start": 28.43,
+      "end": 32.08,
+      "text": "센스 하나 없는 애들 참",
+      "translation": "那些一點品味都沒有的人，真是",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l7",
+      "start": 32.08,
+      "end": 34.05,
+      "text": "힘 준 내 하이힐도",
+      "translation": "我精心撐起氣勢的高跟鞋",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Oh!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 10,
+            "charEnd": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": "l8",
+      "start": 34.05,
+      "end": 36.39,
+      "text": "공들인 립스틱도",
+      "translation": "用心塗上的口紅",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Oh!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 8,
+            "charEnd": 8
+          }
+        }
+      ]
+    },
+    {
+      "id": "l9",
+      "start": 36.39,
+      "end": 41.54,
+      "text": "못 알아보는 눈들이 참 따분해",
+      "translation": "都看不出來的眼神，真無聊",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l10",
+      "start": 41.54,
+      "end": 45.89,
+      "text": "그 때쯤 니가 걸어 나온 것 같애",
+      "translation": "就在那時，你好像走了出來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Hwasa",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 18,
+            "charEnd": 18
+          }
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "start": 45.89,
+      "end": 49.37,
+      "text": "여기엔 어울리지 않는 피아노맨",
+      "translation": "與這裡格格不入的 Piano Man",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l12",
+      "start": 49.37,
+      "end": 53.88,
+      "text": "하얀 손가락 건반에 내릴 때",
+      "translation": "當白皙手指落在琴鍵上時",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l13",
+      "start": 53.88,
+      "end": 56.78,
+      "text": "눈을 반짝 뜬 것 같아",
+      "translation": "我的眼睛像是瞬間亮了起來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l14",
+      "start": 56.78,
+      "end": 60.7,
+      "text": "붐빠빠라 붐빠빠라 붐빠빠라 붐",
+      "translation": "Boom ba ba ra boom ba ba ra boom ba ba ra boom",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "붐",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "붐",
+            "occurrence": 4,
+            "charStart": 15,
+            "charEnd": 16
+          },
+          "romanizedText": "bum"
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "start": 60.7,
+      "end": 64.43,
+      "text": "붐빠빠라 붐빠빠라 붐빠빠라 붐",
+      "translation": "Boom ba ba ra boom ba ba ra boom ba ba ra boom",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "붐",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "붐",
+            "occurrence": 4,
+            "charStart": 15,
+            "charEnd": 16
+          },
+          "romanizedText": "bum"
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "start": 64.43,
+      "end": 65.97,
+      "text": "Hey piano man",
+      "translation": "Hey piano man",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "man!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "start": 65.97,
+      "end": 68.76,
+      "text": "춤을 추는 너의 손짓이",
+      "translation": "你舞動般的手勢",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l18",
+      "start": 68.76,
+      "end": 70.26,
+      "text": "The piano man",
+      "translation": "The piano man",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "man!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "start": 70.26,
+      "end": 73.02,
+      "text": "뻔하지 않은 그 몸짓이",
+      "translation": "那不落俗套的動作",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l20",
+      "start": 73.02,
+      "end": 75.95,
+      "text": "나 뭐랄까 지금 이 곳에서",
+      "translation": "該怎麼說呢，此刻在這裡",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l21",
+      "start": 75.95,
+      "end": 80.62,
+      "text": "너랑 나랑 둘만 남을래 이렇게",
+      "translation": "我想就這樣只剩你和我兩個人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "둘만",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "둘만",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 8
+          },
+          "romanizedText": "dulman"
+        }
+      ]
+    },
+    {
+      "id": "l22",
+      "start": 80.62,
+      "end": 82.87,
+      "text": "오른쪽으로 오른쪽으로",
+      "translation": "往右邊，往右邊",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "오른쪽으로",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "오른쪽으로",
+            "occurrence": 2,
+            "charStart": 6,
+            "charEnd": 11
+          },
+          "romanizedText": "oreunjjogeuro"
+        }
+      ]
+    },
+    {
+      "id": "l23",
+      "start": 82.87,
+      "end": 84.81,
+      "text": "오른쪽으로",
+      "translation": "往右邊",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "호우~",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 5,
+            "charEnd": 5
+          },
+          "romanizedText": "hou~"
+        }
+      ]
+    },
+    {
+      "id": "l24",
+      "start": 84.81,
+      "end": 88.35,
+      "text": "왼쪽으로 왼쪽으로 왼쪽으로",
+      "translation": "往左邊，往左邊，往左邊",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "왼쪽으로",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "왼쪽으로",
+            "occurrence": 2,
+            "charStart": 5,
+            "charEnd": 9
+          },
+          "romanizedText": "oenjjogeuro"
+        }
+      ]
+    },
+    {
+      "id": "l25",
+      "start": 88.35,
+      "end": 89.28,
+      "text": "Yeah",
+      "translation": "Yeah",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "호우~",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "Yeah",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 4
+          },
+          "romanizedText": "hou~"
+        }
+      ]
+    },
+    {
+      "id": "l26",
+      "start": 89.28,
+      "end": 93.43,
+      "text": "손 끝이 건반들을 쓸어 내릴 때",
+      "translation": "當指尖拂過琴鍵時",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Wheein",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 17,
+            "charEnd": 17
+          }
+        }
+      ]
+    },
+    {
+      "id": "l27",
+      "start": 93.43,
+      "end": 96.89,
+      "text": "자꾸 나쁜 상상을 했던 것 같애",
+      "translation": "我好像一直在想些壞壞的畫面",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l28",
+      "start": 96.89,
+      "end": 98.95,
+      "text": "가슴은 스타카토",
+      "translation": "心跳像斷奏",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l29",
+      "start": 98.95,
+      "end": 101.36,
+      "text": "Hey Mr 애매모호",
+      "translation": "Hey Mr. 曖昧模糊",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "애매모호",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "애매모호",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 11
+          },
+          "romanizedText": "aemaemoho"
+        }
+      ]
+    },
+    {
+      "id": "l30",
+      "start": 101.36,
+      "end": 104.21,
+      "text": "내 온 몸은 피아노처럼",
+      "translation": "我的全身就像鋼琴一樣",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l31",
+      "start": 104.21,
+      "end": 108.38,
+      "text": "붐빠빠라 붐빠빠라 붐빠빠라 붐",
+      "translation": "Boom ba ba ra boom ba ba ra boom ba ba ra boom",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "붐",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "붐",
+            "occurrence": 4,
+            "charStart": 15,
+            "charEnd": 16
+          },
+          "romanizedText": "bum"
+        }
+      ]
+    },
+    {
+      "id": "l32",
+      "start": 108.38,
+      "end": 111.97,
+      "text": "붐빠빠라 붐빠빠라 붐빠빠라 붐",
+      "translation": "Boom ba ba ra boom ba ba ra boom ba ba ra boom",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "붐",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "붐",
+            "occurrence": 4,
+            "charStart": 15,
+            "charEnd": 16
+          },
+          "romanizedText": "bum"
+        }
+      ]
+    },
+    {
+      "id": "l33",
+      "start": 111.97,
+      "end": 113.59,
+      "text": "Hey piano man",
+      "translation": "Hey piano man",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "man!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l34",
+      "start": 113.59,
+      "end": 116.21,
+      "text": "춤을 추는 너의 손짓이",
+      "translation": "你舞動般的手勢",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l35",
+      "start": 116.21,
+      "end": 117.7,
+      "text": "The piano man",
+      "translation": "The piano man",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "man!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l36",
+      "start": 117.7,
+      "end": 120.52,
+      "text": "뻔하지 않은 그 몸짓이",
+      "translation": "那不落俗套的動作",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l37",
+      "start": 120.52,
+      "end": 123.49,
+      "text": "나 뭐랄까 지금 이 곳에서",
+      "translation": "該怎麼說呢，此刻在這裡",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l38",
+      "start": 123.49,
+      "end": 128.26,
+      "text": "너랑 나랑 둘만 남을래 이렇게",
+      "translation": "我想就這樣只剩你和我兩個人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "둘만",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "둘만",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 8
+          },
+          "romanizedText": "dulman"
+        }
+      ]
+    },
+    {
+      "id": "l39",
+      "start": 128.26,
+      "end": 132.12,
+      "text": "왼쪽으로 왼쪽으로 왼쪽으로",
+      "translation": "往左邊，往左邊，往左邊",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "왼쪽으로",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "왼쪽으로",
+            "occurrence": 2,
+            "charStart": 5,
+            "charEnd": 9
+          },
+          "romanizedText": "oenjjogeuro"
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "호우~",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 14,
+            "charEnd": 14
+          },
+          "romanizedText": "hou~"
+        }
+      ]
+    },
+    {
+      "id": "l40",
+      "start": 132.12,
+      "end": 134.93,
+      "text": "오른쪽으로 모두 여기로",
+      "translation": "往右邊，大家都到這裡來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "모두 여기로",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "모두 여기로",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 12
+          },
+          "romanizedText": "modu yeogiro"
+        }
+      ]
+    },
+    {
+      "id": "l41",
+      "start": 134.93,
+      "end": 136.75,
+      "text": "Word up Moon Star",
+      "translation": "Word up Moon Star",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l42",
+      "start": 136.75,
+      "end": 137.8,
+      "text": "시작은 트럼펫",
+      "translation": "開場是小號",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l43",
+      "start": 137.8,
+      "end": 138.81,
+      "text": "Can I get that Here",
+      "translation": "Can I get that here",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l44",
+      "start": 138.81,
+      "end": 140.65,
+      "text": "사이사이 마다 곁들어진",
+      "translation": "在每個間隙點綴著",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l45",
+      "start": 140.65,
+      "end": 142,
+      "text": "하이햇 드링 드럼킥",
+      "translation": "Hi-hat、dring、drum kick",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l46",
+      "start": 142,
+      "end": 143.24,
+      "text": "리듬이란 접시 위에다가",
+      "translation": "在名為節奏的盤子上",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l47",
+      "start": 143.24,
+      "end": 145.12,
+      "text": "달콤한 피아노를 끼얹지",
+      "translation": "淋上甜美的鋼琴",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l48",
+      "start": 145.12,
+      "end": 147.37,
+      "text": "아이 엠 그라운드 자기소개 하기",
+      "translation": "I am ground，自我介紹開始",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "아이 엠 그라운드 자기소개 하기",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "아이 엠 그라운드 자기소개 하기",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 17
+          },
+          "romanizedText": "ai em geuraundeu jagisogae hagi"
+        }
+      ]
+    },
+    {
+      "id": "l49",
+      "start": 151.37,
+      "end": 153.41,
+      "text": "치마보단 난 긴 청바지",
+      "translation": "比起裙子，我更愛長牛仔褲",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l50",
+      "start": 153.41,
+      "end": 155.83,
+      "text": "근데도 쟤들은 나 좋다고 다 난리",
+      "translation": "可那些人還是都吵著說喜歡我",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l51",
+      "start": 155.83,
+      "end": 160.22,
+      "text": "Oh swing Let's groove singing",
+      "translation": "Oh swing, let's groove singing",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l52",
+      "start": 160.22,
+      "end": 164.53,
+      "text": "Oh swing Let's groove my babe",
+      "translation": "Oh swing, let's groove my babe",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l53",
+      "start": 164.53,
+      "end": 166.51,
+      "text": "Oh swing Let's groove",
+      "translation": "Oh swing, let's groove",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l54",
+      "start": 166.51,
+      "end": 170.84,
+      "text": "소개합니다 We are Mamamoo",
+      "translation": "向大家介紹，We are Mamamoo",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "SCREAM!!!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 20,
+            "charEnd": 20
+          }
+        }
+      ]
+    },
+    {
+      "id": "l55",
+      "start": 170.84,
+      "end": 172.48,
+      "text": "Darling you are my own",
+      "translation": "Darling you are my own",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l56",
+      "start": 172.48,
+      "end": 173.8,
+      "text": "Hey piano man",
+      "translation": "Hey piano man",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "man!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l57",
+      "start": 173.8,
+      "end": 175.58,
+      "text": "이 음악의 끝은 내게로",
+      "translation": "這首音樂的終點是到我身邊",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l58",
+      "start": 175.58,
+      "end": 176.78,
+      "text": "Oh 내게로 피아노 맨",
+      "translation": "Oh 到我身邊吧，Piano Man",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l59",
+      "start": 176.78,
+      "end": 178.05,
+      "text": "The piano man",
+      "translation": "The piano man",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "man!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l60",
+      "start": 178.05,
+      "end": 180.94,
+      "text": "이미 할 얘긴 다 한 걸로",
+      "translation": "該說的話都已經說完了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l61",
+      "start": 180.94,
+      "end": 183.79,
+      "text": "니 마지막 남은 멜로디는",
+      "translation": "你最後剩下的旋律",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l62",
+      "start": 183.79,
+      "end": 186.74,
+      "text": "너랑 나랑 둘만",
+      "translation": "只屬於你和我兩個人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "둘만",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "둘만",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 8
+          },
+          "romanizedText": "dulman"
+        }
+      ]
+    },
+    {
+      "id": "l63",
+      "start": 186.74,
+      "end": 188.71,
+      "text": "그렇게 그렇게 들을래",
+      "translation": "我想就那樣、那樣聽著",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l64",
+      "start": 188.71,
+      "end": 192.29,
+      "text": "내일도 모레도 계속 우리 만날래",
+      "translation": "明天、後天，我們也繼續見面吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Oh!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 17,
+            "charEnd": 17
+          }
+        }
+      ]
+    },
+    {
+      "id": "l65",
+      "start": 192.29,
+      "end": 208.521,
+      "text": "Ye ye ye ye ye ye ye",
+      "translation": "Ye ye ye ye ye ye ye",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "SCREAM!!!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 20,
+            "charEnd": 20
+          }
+        }
+      ]
+    }
+  ],
+  "chantEvents": [],
+  "lyricOffset": 0
+}

@@ -1,0 +1,1361 @@
+{
+  "id": "song_src_5c3475e1_e66a6e",
+  "title": "Taller than you",
+  "artist": "MAMAMOO",
+  "audio": {
+    "sourceId": "src_5c3475e1",
+    "playbackUrl": "/media/raw/src_5c3475e1.mp3",
+    "duration": 184.737959,
+    "trimStart": 0,
+    "trimEnd": 0
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 2.44,
+      "end": 6.69,
+      "text": "여기 나보다 큰 사람 있어?",
+      "translation": "這裡有人比我高嗎？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l2",
+      "start": 6.69,
+      "end": 9.22,
+      "text": "없으면 됐어",
+      "translation": "沒有就好",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l3",
+      "start": 9.22,
+      "end": 14.94,
+      "text": "마마무 마마무 마마무",
+      "translation": "MAMAMOO MAMAMOO MAMAMOO",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Solar",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 11,
+            "charEnd": 11
+          }
+        }
+      ]
+    },
+    {
+      "id": "l4",
+      "start": 14.94,
+      "end": 16.38,
+      "text": "너 보단 내가 더 커",
+      "translation": "我比你更高",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l5",
+      "start": 16.38,
+      "end": 18.85,
+      "text": "넌 160 난 1",
+      "translation": "你160，我1",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "난 1",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "난 1",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 9
+          },
+          "romanizedText": "nan 1"
+        }
+      ]
+    },
+    {
+      "id": "l6",
+      "start": 18.85,
+      "end": 24.33,
+      "text": "마마무 마마무 마마무",
+      "translation": "MAMAMOO MAMAMOO MAMAMOO",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Moonbyul",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 11,
+            "charEnd": 11
+          }
+        }
+      ]
+    },
+    {
+      "id": "l7",
+      "start": 24.33,
+      "end": 26.03,
+      "text": "우리 끼리끼리끼리",
+      "translation": "我們這群人聚在一起",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l8",
+      "start": 26.03,
+      "end": 28.58,
+      "text": "딱 1cm 차이",
+      "translation": "剛好差 1cm",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "차이",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "차이",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 8
+          },
+          "romanizedText": "chai"
+        }
+      ]
+    },
+    {
+      "id": "l9",
+      "start": 28.58,
+      "end": 29.45,
+      "text": "뭔 헛소리",
+      "translation": "在胡說什麼",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l10",
+      "start": 29.45,
+      "end": 30.95,
+      "text": "일단 휘인인 먼 나라 얘기",
+      "translation": "首先，輝人那是遙遠國度的事",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l11",
+      "start": 30.95,
+      "end": 32.87,
+      "text": "Ok? 베프지만 키 앞에선",
+      "translation": "Ok？雖然是摯友，但在身高面前",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l12",
+      "start": 32.87,
+      "end": 34.12,
+      "text": "장사 없지 Small 휘인",
+      "translation": "誰也沒辦法吧，小小輝人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l13",
+      "start": 34.12,
+      "end": 35.31,
+      "text": "어줍자니 일센치",
+      "translation": "才區區一公分",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l14",
+      "start": 35.31,
+      "end": 36.51,
+      "text": "가지고 언니들 이러기?",
+      "translation": "就這樣對姐姐們嗎？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l15",
+      "start": 36.51,
+      "end": 37.85,
+      "text": "우리 쿨하게 좀 가자",
+      "translation": "我們就酷一點走吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l16",
+      "start": 37.85,
+      "end": 38.76,
+      "text": "나만 힐 신기",
+      "translation": "只有我穿高跟鞋",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "나만 힐 신기",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "나만 힐 신기",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 7
+          },
+          "romanizedText": "naman hil singi"
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "start": 38.76,
+      "end": 40.32,
+      "text": "너와 나의 차이 1cm",
+      "translation": "你和我的差距 1cm",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l18",
+      "start": 40.32,
+      "end": 41.22,
+      "text": "(언닌 두상이 좀 커)",
+      "translation": "姐姐你的頭型有點大",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "언닌 두상이 좀 커",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "언닌 두상이 좀 커",
+            "occurrence": 1,
+            "charStart": 1,
+            "charEnd": 11
+          },
+          "romanizedText": "eonnin dusangi jom keo"
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "start": 41.22,
+      "end": 42.23,
+      "text": "그냥 받아들여 난쟁이",
+      "translation": "接受現實吧，小矮人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l20",
+      "start": 42.23,
+      "end": 43.41,
+      "text": "(그냥 받아들여)",
+      "translation": "就接受吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "그냥 받아들여",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "그냥 받아들여",
+            "occurrence": 1,
+            "charStart": 1,
+            "charEnd": 8
+          },
+          "romanizedText": "geunyang badadeuryeo"
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "start": 43.41,
+      "end": 45.17,
+      "text": "달라질 건 없어 인생",
+      "translation": "人生不會有什麼改變",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l22",
+      "start": 45.17,
+      "end": 46.02,
+      "text": "(뭐라카노)",
+      "translation": "你在說什麼",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l23",
+      "start": 46.02,
+      "end": 46.63,
+      "text": "Do you know?",
+      "translation": "Do you know?",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l24",
+      "start": 46.63,
+      "end": 47.43,
+      "text": "What I'm saying",
+      "translation": "What I'm saying",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l25",
+      "start": 47.43,
+      "end": 48.68,
+      "text": "아이고 우리 언니가",
+      "translation": "哎唷，我們姐姐啊",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l26",
+      "start": 48.68,
+      "end": 50.25,
+      "text": "어디 번데기 앞에서",
+      "translation": "怎麼能在蛹面前",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l27",
+      "start": 50.25,
+      "end": 51.49,
+      "text": "주름을 잡을까요?",
+      "translation": "賣弄皺紋呢？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l28",
+      "start": 51.49,
+      "end": 53.14,
+      "text": "이봐요 올라오려면 멀었네",
+      "translation": "欸，要爬上來還早得很呢",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l29",
+      "start": 53.14,
+      "end": 54.29,
+      "text": "여기 높은 곳까지",
+      "translation": "到這麼高的地方",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l30",
+      "start": 54.29,
+      "end": 55.87,
+      "text": "거기 아랫 공기는 어때?",
+      "translation": "你那下面的空氣怎麼樣？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l31",
+      "start": 55.87,
+      "end": 56.78,
+      "text": "많이 탁하지?",
+      "translation": "很混濁吧？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l32",
+      "start": 56.78,
+      "end": 58.18,
+      "text": "난 거기 못 가 입장불가",
+      "translation": "我去不了那裡，禁止入場",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l33",
+      "start": 58.18,
+      "end": 60,
+      "text": "고만고만해 그만그만해",
+      "translation": "都差不多啦，別再鬧了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "그만그만해",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "그만그만해",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 11
+          },
+          "romanizedText": "geumangeumanhae"
+        }
+      ]
+    },
+    {
+      "id": "l34",
+      "start": 60,
+      "end": 61.13,
+      "text": "이럴 시간 있음",
+      "translation": "有這種時間的話",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l35",
+      "start": 61.13,
+      "end": 62.77,
+      "text": "다른 거나 고민해",
+      "translation": "去煩惱別的事吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "고민해",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "고민해",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 9
+          },
+          "romanizedText": "gominhae"
+        }
+      ]
+    },
+    {
+      "id": "l36",
+      "start": 62.77,
+      "end": 65.06,
+      "text": "Oh 우리 휘인이 손이 안 닿니?",
+      "translation": "Oh 我們輝人手搆不到嗎？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l37",
+      "start": 65.06,
+      "end": 66.06,
+      "text": "내가 꺼내줄께",
+      "translation": "我幫你拿下來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l38",
+      "start": 66.06,
+      "end": 67.31,
+      "text": "언니가 이 구역에 장신",
+      "translation": "姐姐是這區的高個子",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "장신",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "장신",
+            "occurrence": 1,
+            "charStart": 10,
+            "charEnd": 12
+          },
+          "romanizedText": "jangsin"
+        }
+      ]
+    },
+    {
+      "id": "l39",
+      "start": 67.31,
+      "end": 72.64,
+      "text": "마마무 마마무 마마무",
+      "translation": "MAMAMOO MAMAMOO MAMAMOO",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Wheein",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 11,
+            "charEnd": 11
+          }
+        }
+      ]
+    },
+    {
+      "id": "l40",
+      "start": 72.64,
+      "end": 73.82,
+      "text": "너 보단 내가 더 커",
+      "translation": "我比你更高",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l41",
+      "start": 73.82,
+      "end": 76.47,
+      "text": "넌 160 난 1",
+      "translation": "你160，我1",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "난 1",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "난 1",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 9
+          },
+          "romanizedText": "nan 1"
+        }
+      ]
+    },
+    {
+      "id": "l42",
+      "start": 76.47,
+      "end": 82.31,
+      "text": "마마무 마마무 마마무",
+      "translation": "MAMAMOO MAMAMOO MAMAMOO",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Hwasa",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 11,
+            "charEnd": 11
+          }
+        }
+      ]
+    },
+    {
+      "id": "l43",
+      "start": 82.31,
+      "end": 83.65,
+      "text": "우리 끼리끼리끼리",
+      "translation": "我們這群人聚在一起",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l44",
+      "start": 83.65,
+      "end": 86.58,
+      "text": "딱 1cm 차이",
+      "translation": "剛好差 1cm",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "차이",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "차이",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 8
+          },
+          "romanizedText": "chai"
+        }
+      ]
+    },
+    {
+      "id": "l45",
+      "start": 86.58,
+      "end": 88.43,
+      "text": "A-YO 반올림해도",
+      "translation": "A-YO 就算四捨五入",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l46",
+      "start": 88.43,
+      "end": 89.69,
+      "text": "작아요 나보다 더",
+      "translation": "也比我更矮",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l47",
+      "start": 89.69,
+      "end": 91.65,
+      "text": "깔창을 깔아봐요 소용없나요",
+      "translation": "試著墊鞋墊吧，沒用嗎？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l48",
+      "start": 91.65,
+      "end": 93.56,
+      "text": "힐을 신어도 티가 나고",
+      "translation": "穿高跟鞋也看得出來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l49",
+      "start": 93.56,
+      "end": 95.31,
+      "text": "운동화를 신어도 티가 나",
+      "translation": "穿運動鞋也看得出來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l50",
+      "start": 95.31,
+      "end": 96.68,
+      "text": "키 순서가 도레미파",
+      "translation": "身高順序像 Do Re Mi Fa",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "도레미파",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "도레미파",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 10
+          },
+          "romanizedText": "doremipa"
+        }
+      ]
+    },
+    {
+      "id": "l51",
+      "start": 96.68,
+      "end": 98.67,
+      "text": "너와 나의 차이 1cm (1.8)",
+      "translation": "你和我的差距 1cm（1.8）",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "1.8",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "1.8",
+            "occurrence": 1,
+            "charStart": 14,
+            "charEnd": 17
+          }
+        }
+      ]
+    },
+    {
+      "id": "l52",
+      "start": 98.67,
+      "end": 100.19,
+      "text": "누가 봐도 이건 Same Same",
+      "translation": "誰看都一樣 Same Same",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l53",
+      "start": 100.19,
+      "end": 101.01,
+      "text": "(둘 다 두상이 좀 커)",
+      "translation": "兩個人的頭型都有點大",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l54",
+      "start": 101.01,
+      "end": 103.1,
+      "text": "여긴 우물 안의 전쟁",
+      "translation": "這裡是井底之戰",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l55",
+      "start": 103.1,
+      "end": 103.82,
+      "text": "You know?",
+      "translation": "You know?",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l56",
+      "start": 103.82,
+      "end": 105.89,
+      "text": "What I'm talking about?",
+      "translation": "What I'm talking about?",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l57",
+      "start": 105.89,
+      "end": 108.26,
+      "text": "거기 문스타 아주 그냥 물 만나셨어",
+      "translation": "那邊的 Moon Star 真是如魚得水啊",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "물 만나셨어",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "물 만나셨어",
+            "occurrence": 1,
+            "charStart": 13,
+            "charEnd": 19
+          },
+          "romanizedText": "mul mannasyeosseo"
+        }
+      ]
+    },
+    {
+      "id": "l58",
+      "start": 108.26,
+      "end": 110.72,
+      "text": "어허 인정해 여유 넘치는 게",
+      "translation": "呃哼，承認吧，那從容滿滿的樣子",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l59",
+      "start": 110.72,
+      "end": 113.13,
+      "text": "장신인척 난리 우월한 척 난리",
+      "translation": "假裝高個子鬧翻天，裝優越鬧翻天",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "난리",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "난리",
+            "occurrence": 1,
+            "charStart": 5,
+            "charEnd": 7
+          },
+          "romanizedText": "nanri"
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "난리",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "난리",
+            "occurrence": 2,
+            "charStart": 14,
+            "charEnd": 16
+          },
+          "romanizedText": "nanri"
+        }
+      ]
+    },
+    {
+      "id": "l60",
+      "start": 113.13,
+      "end": 115.85,
+      "text": "최홍만 인 척 난리 그래 봤자 도토리",
+      "translation": "假裝崔洪萬也鬧翻天，說到底也只是橡實",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "난리",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "난리",
+            "occurrence": 1,
+            "charStart": 8,
+            "charEnd": 10
+          },
+          "romanizedText": "nanri"
+        }
+      ]
+    },
+    {
+      "id": "l61",
+      "start": 115.85,
+      "end": 118,
+      "text": "맷돌손잡이가 빠졌어",
+      "translation": "石磨把手掉了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "빠졌어",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "빠졌어",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 10
+          },
+          "romanizedText": "ppajyeosseo"
+        }
+      ]
+    },
+    {
+      "id": "l62",
+      "start": 118,
+      "end": 120.61,
+      "text": "맷돌손잡이가 빠졌어",
+      "translation": "石磨把手掉了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "빠졌어",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "빠졌어",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 10
+          },
+          "romanizedText": "ppajyeosseo"
+        }
+      ]
+    },
+    {
+      "id": "l63",
+      "start": 120.61,
+      "end": 122.94,
+      "text": "지나가는 조태오가 웃어",
+      "translation": "路過的趙泰晤都笑了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l64",
+      "start": 122.94,
+      "end": 125.2,
+      "text": "지금 내 기분이 그래 어이가 없네",
+      "translation": "我現在的心情就是這樣，真是無言",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l65",
+      "start": 125.2,
+      "end": 130.34,
+      "text": "마마무 마마무 마마무",
+      "translation": "MAMAMOO MAMAMOO MAMAMOO",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l66",
+      "start": 130.34,
+      "end": 131.62,
+      "text": "너 보단 내가 더 커",
+      "translation": "我比你更高",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l67",
+      "start": 131.62,
+      "end": 134.18,
+      "text": "넌 160 난 1",
+      "translation": "你160，我1",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "난 1",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "난 1",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 9
+          },
+          "romanizedText": "nan 1"
+        }
+      ]
+    },
+    {
+      "id": "l68",
+      "start": 134.18,
+      "end": 139.81,
+      "text": "마마무 마마무 마마무",
+      "translation": "MAMAMOO MAMAMOO MAMAMOO",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l69",
+      "start": 139.81,
+      "end": 141.33,
+      "text": "우리 끼리끼리끼리",
+      "translation": "我們這群人聚在一起",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l70",
+      "start": 141.33,
+      "end": 145.32,
+      "text": "딱 1cm 차이",
+      "translation": "剛好差 1cm",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "차이",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "차이",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 8
+          },
+          "romanizedText": "chai"
+        }
+      ]
+    },
+    {
+      "id": "l71",
+      "start": 145.32,
+      "end": 146.93,
+      "text": "여기 나보다 큰사람 있어?",
+      "translation": "這裡有人比我高嗎？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l72",
+      "start": 146.93,
+      "end": 148.11,
+      "text": "너 보단 내가 더 커",
+      "translation": "我比你更高",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l73",
+      "start": 148.11,
+      "end": 150.34,
+      "text": "너 보단 너 보단 내가 더 커",
+      "translation": "比你，比你，我比你更高",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "커",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "커",
+            "occurrence": 1,
+            "charStart": 15,
+            "charEnd": 16
+          },
+          "romanizedText": "keo"
+        }
+      ]
+    },
+    {
+      "id": "l74",
+      "start": 150.34,
+      "end": 151.69,
+      "text": "너 보단 내가 더 커",
+      "translation": "我比你更高",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l75",
+      "start": 151.69,
+      "end": 154.11,
+      "text": "너 보단 너 보단 내가 더 커",
+      "translation": "比你，比你，我比你更高",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "커",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "커",
+            "occurrence": 1,
+            "charStart": 15,
+            "charEnd": 16
+          },
+          "romanizedText": "keo"
+        }
+      ]
+    },
+    {
+      "id": "l76",
+      "start": 154.11,
+      "end": 155.69,
+      "text": "너 보단 내가 더 커",
+      "translation": "我比你更高",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l77",
+      "start": 155.69,
+      "end": 157.78,
+      "text": "너 보단 너 보단 내가 더 커",
+      "translation": "比你，比你，我比你更高",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "커",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "커",
+            "occurrence": 1,
+            "charStart": 15,
+            "charEnd": 16
+          },
+          "romanizedText": "keo"
+        }
+      ]
+    },
+    {
+      "id": "l78",
+      "start": 157.78,
+      "end": 159.05,
+      "text": "너 보단 내가 더 커",
+      "translation": "我比你更高",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l79",
+      "start": 159.05,
+      "end": 161.34,
+      "text": "너 보단 너 보단 너 보단 내가 더 커",
+      "translation": "比你，比你，比你，我比你更高",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l80",
+      "start": 161.34,
+      "end": 164.39,
+      "text": "잘 들어 난쟁이들아",
+      "translation": "聽好了，小矮人們",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l81",
+      "start": 164.39,
+      "end": 167.04,
+      "text": "내가 이 바닥에서",
+      "translation": "在這個地盤上",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l82",
+      "start": 167.04,
+      "end": 168.31,
+      "text": "너 보단 내가 더 커",
+      "translation": "我比你更高",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Hey!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 11,
+            "charEnd": 11
+          }
+        }
+      ]
+    },
+    {
+      "id": "l83",
+      "start": 168.31,
+      "end": 170.69,
+      "text": "너 보단 너 보단 내가 더 커",
+      "translation": "比你，比你，我比你更高",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Hey!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 16,
+            "charEnd": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "l84",
+      "start": 170.69,
+      "end": 172.15,
+      "text": "너 보단 내가 더 커",
+      "translation": "我比你更高",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Hey!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 11,
+            "charEnd": 11
+          }
+        }
+      ]
+    },
+    {
+      "id": "l85",
+      "start": 172.15,
+      "end": 174.32,
+      "text": "너 보단 너 보단 내가 더 커",
+      "translation": "比你，比你，我比你更高",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l86",
+      "start": 174.32,
+      "end": 175.82,
+      "text": "너 보단 내가 더 커",
+      "translation": "我比你更高",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Woah~~~",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "너 보단 내가 더 커",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 11
+          }
+        }
+      ]
+    },
+    {
+      "id": "l87",
+      "start": 175.82,
+      "end": 177.74,
+      "text": "너 보단 너 보단 내가 더 커",
+      "translation": "比你，比你，我比你更高",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l88",
+      "start": 177.74,
+      "end": 179.48,
+      "text": "너 보단 내가 더 커",
+      "translation": "我比你更高",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l89",
+      "start": 179.48,
+      "end": 184.738,
+      "text": "너 보단 너 보단 내가 더 커",
+      "translation": "比你，比你，我比你更高",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    }
+  ],
+  "chantEvents": [],
+  "lyricOffset": 0
+}

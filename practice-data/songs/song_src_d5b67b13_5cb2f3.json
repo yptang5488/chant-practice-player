@@ -1,0 +1,953 @@
+{
+  "id": "song_src_d5b67b13_5cb2f3",
+  "title": "Starry Night",
+  "artist": "MAMAMOO",
+  "audio": {
+    "sourceId": "src_d5b67b13",
+    "playbackUrl": "/media/raw/src_d5b67b13.mp3",
+    "duration": 210.721088,
+    "trimStart": 0.2,
+    "trimEnd": 0
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 15.87,
+      "end": 19.78,
+      "text": "손끝이 시리더니 벌써 봄이 왔네",
+      "translation": "指尖才剛感到冰冷，春天已經來了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l2",
+      "start": 19.78,
+      "end": 23.43,
+      "text": "꿈같은 바람이 불어 곳곳에",
+      "translation": "像夢一樣的風，吹遍每個角落",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l3",
+      "start": 23.43,
+      "end": 28.04,
+      "text": "여느 때 와는 다른 듯한 이 기분이 반가워",
+      "translation": "這份與平時不同的心情，讓我感到欣喜",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l4",
+      "start": 28.04,
+      "end": 31.48,
+      "text": "내일은 좀 다른 날이 되려나",
+      "translation": "明天會不會成為有點不同的一天呢",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l5",
+      "start": 31.48,
+      "end": 34.86,
+      "text": "어둠의 그림자 깊은 이 밤에 남겨진",
+      "translation": "在黑暗陰影深處的這一夜裡留下的",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l6",
+      "start": 34.86,
+      "end": 36.62,
+      "text": "달이 달이 밝아와",
+      "translation": "月亮，月亮漸漸明亮",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l7",
+      "start": 36.62,
+      "end": 38.67,
+      "text": "빛을 그리고 있어",
+      "translation": "正在描繪著光",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l8",
+      "start": 38.67,
+      "end": 40.52,
+      "text": "내 몸에서 널 뺀 만큼",
+      "translation": "就像從我身體裡抽離了你那麼多",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l9",
+      "start": 40.52,
+      "end": 43.66,
+      "text": "욕조에 물이 미련이 되어 넘쳐흘러",
+      "translation": "浴缸裡的水化作眷戀滿溢而出",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l10",
+      "start": 43.66,
+      "end": 46.1,
+      "text": "한숨이 가득 그 공간을 채워",
+      "translation": "嘆息填滿了那個空間",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l11",
+      "start": 46.1,
+      "end": 50.38,
+      "text": "새벽이 찾아오면",
+      "translation": "當凌晨到來時",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "오면",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 8,
+            "charEnd": 8
+          },
+          "romanizedText": "omyeon"
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "start": 50.38,
+      "end": 55.83,
+      "text": "혼자 남겨질 때면",
+      "translation": "當只剩我一個人時",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l13",
+      "start": 55.83,
+      "end": 59.66,
+      "text": "Starry night 별이 빛나는 밤",
+      "translation": "Starry night，星光閃耀的夜晚",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Starry night",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Starry night",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 12
+          }
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "start": 59.66,
+      "end": 63.56,
+      "text": "네가 휘휘휘 불어와",
+      "translation": "你呼呼地吹向我",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l15",
+      "start": 63.56,
+      "end": 67.41,
+      "text": "너와 나 나눈 수많은 밤",
+      "translation": "你和我共度的無數夜晚",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "너와 나",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "너와 나",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 4
+          },
+          "romanizedText": "neowa na"
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "start": 67.41,
+      "end": 70.59,
+      "text": "나를 취하게 만들어",
+      "translation": "讓我沉醉其中",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l17",
+      "start": 70.59,
+      "end": 76.13,
+      "text": "별이 빛나는 밤",
+      "translation": "星光閃耀的夜晚",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "김용선 문별이 정휘인 안혜진",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 8,
+            "charEnd": 8
+          },
+          "romanizedText": "金容仙 文星伊 丁輝人 安惠真"
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "start": 76.13,
+      "end": 78.22,
+      "text": "야야야야이야",
+      "translation": "呀呀呀呀咿呀",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l19",
+      "start": 78.22,
+      "end": 83.87,
+      "text": "별이 빛나는 밤",
+      "translation": "星光閃耀的夜晚",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "오늘도.별처럼.빛나는(今天也像星星一樣閃耀著) 마마무",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 8,
+            "charEnd": 8
+          },
+          "romanizedText": "oneuldo.byeolcheoreom.bitnaneun(今天也像星星一樣閃耀著) Mamamoo"
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "start": 83.87,
+      "end": 87.23,
+      "text": "야야야야야야야 별이 빛나는 밤",
+      "translation": "呀呀呀呀呀呀呀，星光閃耀的夜晚",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "별이 빛나는 밤",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "별이 빛나는 밤",
+            "occurrence": 1,
+            "charStart": 8,
+            "charEnd": 16
+          },
+          "romanizedText": "byeori bitnaneun bam"
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "start": 87.23,
+      "end": 91.53,
+      "text": "겨울이 지나고 또다시 꽃은 피고",
+      "translation": "冬天過去，花又再次盛開",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l22",
+      "start": 91.53,
+      "end": 95.14,
+      "text": "따뜻한 공기 냄새가 날 감싸",
+      "translation": "溫暖空氣的氣息包圍著我",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l23",
+      "start": 95.14,
+      "end": 100.03,
+      "text": "달라진 거 없는 똑같은 일상이 반복돼",
+      "translation": "毫無改變的相同日常反覆上演",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l24",
+      "start": 100.03,
+      "end": 102.99,
+      "text": "그래도 내일을 기다려봐",
+      "translation": "即使如此，還是試著等待明天吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l25",
+      "start": 102.99,
+      "end": 106.49,
+      "text": "하루에 끝에서 이 자리에 남아서",
+      "translation": "在一天的盡頭，留在這個位置",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l26",
+      "start": 106.49,
+      "end": 108.39,
+      "text": "날이 날이 새도록",
+      "translation": "直到天色，天色破曉",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l27",
+      "start": 108.39,
+      "end": 110.36,
+      "text": "너를 그리고 있어",
+      "translation": "我仍在描繪著你",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l28",
+      "start": 110.36,
+      "end": 112.16,
+      "text": "Do you want me to leave?",
+      "translation": "Do you want me to leave?",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l29",
+      "start": 112.16,
+      "end": 113.93,
+      "text": "No 난 그 자리 그대로",
+      "translation": "No，我依然在原來的位置",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "No",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "No",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 2
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "로",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "로",
+            "occurrence": 1,
+            "charStart": 12,
+            "charEnd": 13
+          },
+          "romanizedText": "ro"
+        }
+      ]
+    },
+    {
+      "id": "l30",
+      "start": 113.93,
+      "end": 115.64,
+      "text": "까만 밤하늘에 가려",
+      "translation": "被漆黑的夜空遮住",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "려",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "려",
+            "occurrence": 1,
+            "charStart": 9,
+            "charEnd": 10
+          },
+          "romanizedText": "ryeo"
+        }
+      ]
+    },
+    {
+      "id": "l31",
+      "start": 115.64,
+      "end": 117.74,
+      "text": "잠시 보이지 않는 거야",
+      "translation": "只是暫時看不見而已",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l32",
+      "start": 117.74,
+      "end": 121.62,
+      "text": "새벽이 찾아오면",
+      "translation": "當凌晨到來時",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "오면",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 8,
+            "charEnd": 8
+          },
+          "romanizedText": "omyeon"
+        }
+      ]
+    },
+    {
+      "id": "l33",
+      "start": 121.62,
+      "end": 127.47,
+      "text": "혼자 남겨질 때면",
+      "translation": "當只剩我一個人時",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l34",
+      "start": 127.47,
+      "end": 131.08,
+      "text": "Starry night 별이 빛나는 밤",
+      "translation": "Starry night，星光閃耀的夜晚",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Starry night",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Starry night",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 12
+          }
+        }
+      ]
+    },
+    {
+      "id": "l35",
+      "start": 131.08,
+      "end": 135.8,
+      "text": "네가 휘휘휘 불어와",
+      "translation": "你呼呼地吹向我",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l36",
+      "start": 135.8,
+      "end": 139.04,
+      "text": "너와 나 나눈 수많은 밤",
+      "translation": "你和我共度的無數夜晚",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "너와 나",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "너와 나",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 4
+          },
+          "romanizedText": "neowa na"
+        }
+      ]
+    },
+    {
+      "id": "l37",
+      "start": 139.04,
+      "end": 142.1,
+      "text": "나를 취하게 만들어",
+      "translation": "讓我沉醉其中",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l38",
+      "start": 142.1,
+      "end": 148.07,
+      "text": "별이 빛나는 밤",
+      "translation": "星光閃耀的夜晚",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "김용선 문별이 정휘인 안혜진",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 8,
+            "charEnd": 8
+          },
+          "romanizedText": "金容仙 文星伊 丁輝人 安惠真"
+        }
+      ]
+    },
+    {
+      "id": "l39",
+      "start": 148.07,
+      "end": 149.86,
+      "text": "야야야야이야",
+      "translation": "呀呀呀呀咿呀",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l40",
+      "start": 149.86,
+      "end": 155.17,
+      "text": "별이 빛나는 밤",
+      "translation": "星光閃耀的夜晚",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "오늘도.별처럼.빛나는 마마무",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 8,
+            "charEnd": 8
+          },
+          "romanizedText": "oneuldo.byeolcheoreom.bitnaneun Mamamoo"
+        }
+      ]
+    },
+    {
+      "id": "l41",
+      "start": 155.17,
+      "end": 159.57,
+      "text": "야야야야야야야 별이 빛나는 밤",
+      "translation": "呀呀呀呀呀呀呀，星光閃耀的夜晚",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "별이 빛나는 밤",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "별이 빛나는 밤",
+            "occurrence": 1,
+            "charStart": 8,
+            "charEnd": 16
+          },
+          "romanizedText": "byeori bitnaneun bam"
+        }
+      ]
+    },
+    {
+      "id": "l42",
+      "start": 159.57,
+      "end": 163.03,
+      "text": "Starry starry night 네가 없는 밤",
+      "translation": "Starry starry night，沒有你的夜晚",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "night",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "night",
+            "occurrence": 1,
+            "charStart": 14,
+            "charEnd": 19
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "밤",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "밤",
+            "occurrence": 1,
+            "charStart": 26,
+            "charEnd": 27
+          },
+          "romanizedText": "bam"
+        }
+      ]
+    },
+    {
+      "id": "l43",
+      "start": 163.03,
+      "end": 166.2,
+      "text": "가슴이 공허해",
+      "translation": "心裡一片空蕩",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l44",
+      "start": 166.2,
+      "end": 168.03,
+      "text": "우리의 풍경이 저물어가",
+      "translation": "屬於我們的風景漸漸落幕",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l45",
+      "start": 168.03,
+      "end": 169.91,
+      "text": "현실을 부정해 눈을 감아도",
+      "translation": "否認現實，即使閉上眼",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l46",
+      "start": 169.91,
+      "end": 171.82,
+      "text": "네가 보여 왜 아른거려",
+      "translation": "還是看見你，為什麼總在眼前閃現",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l47",
+      "start": 171.82,
+      "end": 174.03,
+      "text": "Leave me alone",
+      "translation": "Leave me alone",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l48",
+      "start": 174.03,
+      "end": 175.74,
+      "text": "무너져 가네",
+      "translation": "一切正逐漸崩塌",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "SCREAM!!!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 6,
+            "charEnd": 6
+          }
+        }
+      ]
+    },
+    {
+      "id": "l49",
+      "start": 175.74,
+      "end": 179.24,
+      "text": "Starry night 별이 빛나는 밤",
+      "translation": "Starry night，星光閃耀的夜晚",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Starry night",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Starry night",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 12
+          }
+        }
+      ]
+    },
+    {
+      "id": "l50",
+      "start": 179.24,
+      "end": 183.11,
+      "text": "네가 휘휘휘 불어와",
+      "translation": "你呼呼地吹向我",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l51",
+      "start": 183.11,
+      "end": 187.16,
+      "text": "너와 나 나눈 수많은 밤",
+      "translation": "你和我共度的無數夜晚",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "너와 나",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "너와 나",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 4
+          },
+          "romanizedText": "neowa na"
+        }
+      ]
+    },
+    {
+      "id": "l52",
+      "start": 187.16,
+      "end": 190.08,
+      "text": "나를 취하게 만들어",
+      "translation": "讓我沉醉其中",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l53",
+      "start": 190.08,
+      "end": 196.06,
+      "text": "별이 빛나는 밤",
+      "translation": "星光閃耀的夜晚",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "김용선 문별이 정휘인 안혜진",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 8,
+            "charEnd": 8
+          },
+          "romanizedText": "金容仙 文星伊 丁輝人 安惠真"
+        }
+      ]
+    },
+    {
+      "id": "l54",
+      "start": 196.06,
+      "end": 198.19,
+      "text": "야야야야이야",
+      "translation": "呀呀呀呀咿呀",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l55",
+      "start": 198.19,
+      "end": 203.27,
+      "text": "별이 빛나는 밤",
+      "translation": "星光閃耀的夜晚",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "오늘도.별처럼.빛나는 마마무",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 8,
+            "charEnd": 8
+          },
+          "romanizedText": "oneuldo.byeolcheoreom.bitnaneun Mamamoo"
+        }
+      ]
+    },
+    {
+      "id": "l56",
+      "start": 203.27,
+      "end": 205.85,
+      "text": "야야야야야야이야",
+      "translation": "呀呀呀呀呀呀咿呀",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l57",
+      "start": 205.85,
+      "end": 210.721,
+      "text": "별이 빛나는 밤",
+      "translation": "星光閃耀的夜晚",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "별이 빛나는 밤",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "별이 빛나는 밤",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 8
+          },
+          "romanizedText": "byeori bitnaneun bam"
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "SCREAM!!!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 8,
+            "charEnd": 8
+          }
+        }
+      ]
+    }
+  ],
+  "chantEvents": [
+    {
+      "id": "chant_mqxkradx",
+      "start": 7.8,
+      "end": 11.8,
+      "text": "김용선 문별이 정휘인 안혜진",
+      "label": "chant",
+      "romanizedText": "金容仙 文星伊 丁輝人 安惠真"
+    },
+    {
+      "id": "chant_mqxkrsb6",
+      "start": 11.8,
+      "end": 15.8,
+      "text": "별이빛.나는밤 MA.MA.MOO",
+      "label": "chant",
+      "romanizedText": "byeoribit.naneunbam MA.MA.MOO"
+    }
+  ],
+  "lyricOffset": 0
+}

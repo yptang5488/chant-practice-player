@@ -1,0 +1,1433 @@
+{
+  "id": "song_src_33e1c6cc_9178eb",
+  "title": "Sleep In The Car",
+  "artist": "MAMAMOO",
+  "audio": {
+    "sourceId": "src_33e1c6cc",
+    "playbackUrl": "/media/raw/src_33e1c6cc.mp3",
+    "duration": 201.711746,
+    "trimStart": 0,
+    "trimEnd": 0
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 4.26,
+      "end": 9.27,
+      "text": "너네는 차에서 잠이라도 자지",
+      "translation": "你們至少還能在車上睡一下吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "잠이라도 자지",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 15,
+            "charEnd": 15
+          },
+          "romanizedText": "jamirado jaji"
+        }
+      ]
+    },
+    {
+      "id": "l2",
+      "start": 9.27,
+      "end": 13.05,
+      "text": "Let's get it",
+      "translation": "Let's get it",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "이러는.응원을.시.작.하.지",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 12,
+            "charEnd": 12
+          },
+          "romanizedText": "ireoneun.eungwoneul.si.jak.ha.ji"
+        }
+      ]
+    },
+    {
+      "id": "l3",
+      "start": 13.05,
+      "end": 13.96,
+      "text": "Let's get it",
+      "translation": "Let's get it",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l4",
+      "start": 13.96,
+      "end": 17.2,
+      "text": "너네는 차에서 잠이라도 자지",
+      "translation": "你們至少還能在車上睡一下吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "김용선",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 15,
+            "charEnd": 15
+          },
+          "romanizedText": "金容仙"
+        }
+      ]
+    },
+    {
+      "id": "l5",
+      "start": 17.2,
+      "end": 20.67,
+      "text": "이러니 피부가 숨 쉴 틈이 없지",
+      "translation": "難怪皮膚連呼吸的空隙都沒有",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "문별이",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 17,
+            "charEnd": 17
+          },
+          "romanizedText": "文星伊"
+        }
+      ]
+    },
+    {
+      "id": "l6",
+      "start": 20.67,
+      "end": 23.93,
+      "text": "너네는 차에서 잠이라도 자지",
+      "translation": "你們至少還能在車上睡一下吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "정휘인",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 15,
+            "charEnd": 15
+          },
+          "romanizedText": "丁輝人"
+        }
+      ]
+    },
+    {
+      "id": "l7",
+      "start": 23.93,
+      "end": 27,
+      "text": "이걸 또 노래로 만들라고 하지",
+      "translation": "還要我把這個也寫成歌",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "안혜진",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 16,
+            "charEnd": 16
+          },
+          "romanizedText": "安惠真"
+        }
+      ]
+    },
+    {
+      "id": "l8",
+      "start": 27,
+      "end": 28.97,
+      "text": "왜 이래 왜 이래 웃기지도 않아",
+      "translation": "幹嘛這樣，幹嘛這樣，一點都不好笑",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l9",
+      "start": 28.97,
+      "end": 30.35,
+      "text": "뭐가 불만이야 Uh",
+      "translation": "到底有什麼不滿 Uh",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Uh",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Uh",
+            "occurrence": 1,
+            "charStart": 8,
+            "charEnd": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "start": 30.35,
+      "end": 32.12,
+      "text": "그래 봤자 너네보다 1시간 먼저",
+      "translation": "說到底也只是比你們早一小時",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l11",
+      "start": 32.12,
+      "end": 33.8,
+      "text": "일어나는 건 나잖아",
+      "translation": "起床的人是我啊",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l12",
+      "start": 33.8,
+      "end": 34.85,
+      "text": "아 여보세요",
+      "translation": "啊，喂？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l13",
+      "start": 34.85,
+      "end": 35.81,
+      "text": "저 문 스타인데요",
+      "translation": "我是 Moon Star",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l14",
+      "start": 35.81,
+      "end": 37.87,
+      "text": "여기에 카니발 3대만 불러주세요",
+      "translation": "請幫我叫三台 Carnival 到這裡",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l15",
+      "start": 37.87,
+      "end": 39.21,
+      "text": "얘네 싹 다 장안동으로",
+      "translation": "我要把她們全都送去",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l16",
+      "start": 39.21,
+      "end": 40.46,
+      "text": "보내버리게 Oh",
+      "translation": "長安洞 Oh",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l17",
+      "start": 40.46,
+      "end": 43.58,
+      "text": "아무리 그래도 위의 신은 공평해",
+      "translation": "再怎麼說，天上的神還是公平的",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l18",
+      "start": 43.58,
+      "end": 45.89,
+      "text": "마지막이면 뭐 해 잠도 못 자고",
+      "translation": "排最後又怎樣，連覺都不能睡",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "잠도 못 자고",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "잠도 못 자고",
+            "occurrence": 1,
+            "charStart": 10,
+            "charEnd": 17
+          },
+          "romanizedText": "jamdo mot jago"
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "start": 45.89,
+      "end": 46.97,
+      "text": "사경 헤매",
+      "translation": "在生死邊緣徘徊",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "사경 헤매",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "사경 헤매",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 5
+          },
+          "romanizedText": "sagyeong hemae"
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "start": 46.97,
+      "end": 48,
+      "text": "작년 못지않은 올해요",
+      "translation": "今年也不輸去年啊",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l21",
+      "start": 48,
+      "end": 50.23,
+      "text": "카니발에서 우린 고래요",
+      "translation": "在 Carnival 裡我們是鯨魚啊",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l22",
+      "start": 50.23,
+      "end": 51.61,
+      "text": "말하기도 입 아프니까",
+      "translation": "說都說到嘴痛了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l23",
+      "start": 51.61,
+      "end": 52.51,
+      "text": "언니 선두 잡고",
+      "translation": "姐姐先帶頭",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l24",
+      "start": 52.51,
+      "end": 53.68,
+      "text": "Let me do it again",
+      "translation": "Let me do it again",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l25",
+      "start": 53.68,
+      "end": 56.8,
+      "text": "차곡차곡 쌓여가는 파운데이션",
+      "translation": "一層一層堆上去的粉底",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l26",
+      "start": 56.8,
+      "end": 58.95,
+      "text": "피부가 이제 숨 쉴 틈이 없네",
+      "translation": "皮膚現在連呼吸的空隙都沒有",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l27",
+      "start": 58.95,
+      "end": 59.95,
+      "text": "틈이 없어",
+      "translation": "沒有空隙",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "틈이 없어",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "틈이 없어",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 5
+          },
+          "romanizedText": "teumi eopsseo"
+        }
+      ]
+    },
+    {
+      "id": "l28",
+      "start": 59.95,
+      "end": 61.35,
+      "text": "그러니깐 잠깐잠깐",
+      "translation": "所以說，拜託一下下",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l29",
+      "start": 61.35,
+      "end": 63.15,
+      "text": "카메라 줌인은 하지 말아 줘",
+      "translation": "不要把鏡頭 zoom in 過來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l30",
+      "start": 63.15,
+      "end": 64.98,
+      "text": "자꾸만 자꾸만 말만 하지 말고",
+      "translation": "不要總是一直只會說",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l31",
+      "start": 64.98,
+      "end": 67.03,
+      "text": "피부에 양보할 시간을 줘",
+      "translation": "給皮膚一點休息的時間吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l32",
+      "start": 67.03,
+      "end": 70.22,
+      "text": "언니는 차에서 잠이라도 자지",
+      "translation": "姐姐至少還能在車上睡一下吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "김용선",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 15,
+            "charEnd": 15
+          },
+          "romanizedText": "金容仙"
+        }
+      ]
+    },
+    {
+      "id": "l33",
+      "start": 70.22,
+      "end": 73.53,
+      "text": "이러니 피부가 숨 쉴 틈이 없지",
+      "translation": "難怪皮膚連呼吸的空隙都沒有",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "문별이",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 17,
+            "charEnd": 17
+          },
+          "romanizedText": "文星伊"
+        }
+      ]
+    },
+    {
+      "id": "l34",
+      "start": 73.53,
+      "end": 76.88,
+      "text": "언니는 차에서 잠이라도 자지",
+      "translation": "姐姐至少還能在車上睡一下吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "정휘인",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 15,
+            "charEnd": 15
+          },
+          "romanizedText": "丁輝人"
+        }
+      ]
+    },
+    {
+      "id": "l35",
+      "start": 76.88,
+      "end": 80.13,
+      "text": "이걸 또 노래로 만들라고 하지",
+      "translation": "還要我把這個也寫成歌",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "안혜진",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 16,
+            "charEnd": 16
+          },
+          "romanizedText": "安惠真"
+        }
+      ]
+    },
+    {
+      "id": "l36",
+      "start": 80.13,
+      "end": 83.5,
+      "text": "음 지금은 새벽 세 시",
+      "translation": "嗯，現在是凌晨三點",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "음",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "음",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 1
+          },
+          "romanizedText": "eum"
+        }
+      ]
+    },
+    {
+      "id": "l37",
+      "start": 83.5,
+      "end": 86.52,
+      "text": "음 빨리 집에 가고 싶지",
+      "translation": "嗯，好想快點回家吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "음",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "음",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 1
+          },
+          "romanizedText": "eum"
+        }
+      ]
+    },
+    {
+      "id": "l38",
+      "start": 86.52,
+      "end": 88.43,
+      "text": "니나나나",
+      "translation": "你啊我啊",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l39",
+      "start": 88.43,
+      "end": 89.98,
+      "text": "도긴개긴",
+      "translation": "半斤八兩",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l40",
+      "start": 89.98,
+      "end": 91.07,
+      "text": "난 세 번째",
+      "translation": "我是第三個",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l41",
+      "start": 91.07,
+      "end": 91.85,
+      "text": "난 두 번째",
+      "translation": "我是第二個",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l42",
+      "start": 91.85,
+      "end": 93.49,
+      "text": "일찍 나와야 돼",
+      "translation": "得早點出門",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l43",
+      "start": 93.49,
+      "end": 96.63,
+      "text": "ABC 다 정해져 있어",
+      "translation": "ABC 全都已經排好了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "ABC",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "ABC",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "l44",
+      "start": 96.63,
+      "end": 101.67,
+      "text": "어차피 다 같이 끝나지 G G G G",
+      "translation": "反正最後都一起結束 G G G G",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "G G G G",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "G G G G",
+            "occurrence": 1,
+            "charStart": 13,
+            "charEnd": 20
+          }
+        }
+      ]
+    },
+    {
+      "id": "l45",
+      "start": 101.67,
+      "end": 103.16,
+      "text": "차에서 잠이라도 자지",
+      "translation": "至少還能在車上睡一下吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l46",
+      "start": 103.16,
+      "end": 104.55,
+      "text": "화장한 채로 자지",
+      "translation": "帶著妝睡吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l47",
+      "start": 104.55,
+      "end": 106.63,
+      "text": "되게 찝찝하지",
+      "translation": "真的很不舒服吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l48",
+      "start": 106.63,
+      "end": 109.25,
+      "text": "머리 어깨 무릎 발",
+      "translation": "頭、肩膀、膝蓋、腳",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "머리 어깨 무릎 발",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "머리 어깨 무릎 발",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 10
+          },
+          "romanizedText": "meori eokkae mureup bal"
+        }
+      ]
+    },
+    {
+      "id": "l49",
+      "start": 109.25,
+      "end": 110.64,
+      "text": "다 같이 Work Work Work Work",
+      "translation": "大家一起 Work Work Work Work",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l50",
+      "start": 110.64,
+      "end": 112.8,
+      "text": "Work it up Higher",
+      "translation": "Work it up Higher",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Higher",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Higher",
+            "occurrence": 1,
+            "charStart": 11,
+            "charEnd": 17
+          }
+        }
+      ]
+    },
+    {
+      "id": "l51",
+      "start": 112.8,
+      "end": 114.46,
+      "text": "아쉬울 것도 후회할 것도",
+      "translation": "沒什麼好可惜，也沒什麼好後悔",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l52",
+      "start": 114.46,
+      "end": 115.47,
+      "text": "더 잃을 것도 없어",
+      "translation": "也沒什麼能再失去了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l53",
+      "start": 115.47,
+      "end": 116.61,
+      "text": "인생 뭐 있냐고",
+      "translation": "人生還能怎樣",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l54",
+      "start": 116.61,
+      "end": 117.88,
+      "text": "인상 좀 펴고",
+      "translation": "把表情放鬆點",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l55",
+      "start": 117.88,
+      "end": 119.95,
+      "text": "Don't like to fight anymore",
+      "translation": "Don't like to fight anymore",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l56",
+      "start": 119.95,
+      "end": 123.21,
+      "text": "언니는 차에서 잠이라도 자지",
+      "translation": "姐姐至少還能在車上睡一下吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "김용선",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 15,
+            "charEnd": 15
+          },
+          "romanizedText": "金容仙"
+        }
+      ]
+    },
+    {
+      "id": "l57",
+      "start": 123.21,
+      "end": 126.43,
+      "text": "이러니 피부가 숨 쉴 틈이 없지",
+      "translation": "難怪皮膚連呼吸的空隙都沒有",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "문별이",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 17,
+            "charEnd": 17
+          },
+          "romanizedText": "文星伊"
+        }
+      ]
+    },
+    {
+      "id": "l58",
+      "start": 126.43,
+      "end": 129.81,
+      "text": "너네는 차에서 잠이라도 자지",
+      "translation": "你們至少還能在車上睡一下吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "정휘인",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 15,
+            "charEnd": 15
+          },
+          "romanizedText": "丁輝人"
+        }
+      ]
+    },
+    {
+      "id": "l59",
+      "start": 129.81,
+      "end": 132.68,
+      "text": "이걸 또 노래로 만들라고 하지",
+      "translation": "還要我把這個也寫成歌",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "안혜진",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 16,
+            "charEnd": 16
+          },
+          "romanizedText": "安惠真"
+        }
+      ]
+    },
+    {
+      "id": "l60",
+      "start": 132.68,
+      "end": 139.59,
+      "text": "잘도 자네 우리 언니 우리 언니",
+      "translation": "睡得可真香啊，我們姐姐，我們姐姐",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "언니",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 11,
+            "charEnd": 11
+          },
+          "romanizedText": "eonni"
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "언니",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 17,
+            "charEnd": 17
+          },
+          "romanizedText": "eonni"
+        }
+      ]
+    },
+    {
+      "id": "l61",
+      "start": 139.59,
+      "end": 142.79,
+      "text": "잘도 자네 우리 휘인이",
+      "translation": "睡得可真香啊，我們輝人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "MAMAMOO",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 12,
+            "charEnd": 12
+          }
+        }
+      ]
+    },
+    {
+      "id": "l62",
+      "start": 142.79,
+      "end": 144.49,
+      "text": "이제 그만 일어나야지",
+      "translation": "現在該起床了吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l63",
+      "start": 144.49,
+      "end": 146.52,
+      "text": "빵야 빵야 빵야",
+      "translation": "砰呀 砰呀 砰呀",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "빵야 빵야 빵야",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "빵야 빵야 빵야",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 8
+          },
+          "romanizedText": "ppangya ppangya ppangya"
+        }
+      ]
+    },
+    {
+      "id": "l64",
+      "start": 146.52,
+      "end": 149.13,
+      "text": "머리 어깨 무릎 발",
+      "translation": "頭、肩膀、膝蓋、腳",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "머리 어깨 무릎 발",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "머리 어깨 무릎 발",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 10
+          },
+          "romanizedText": "meori eokkae mureup bal"
+        }
+      ]
+    },
+    {
+      "id": "l65",
+      "start": 149.13,
+      "end": 150.58,
+      "text": "다 같이 Work Work Work Work",
+      "translation": "大家一起 Work Work Work Work",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l66",
+      "start": 150.58,
+      "end": 151.45,
+      "text": "Work it up",
+      "translation": "Work it up",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l67",
+      "start": 151.45,
+      "end": 153.15,
+      "text": "손들어",
+      "translation": "舉起手",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l68",
+      "start": 153.15,
+      "end": 155.6,
+      "text": "머리 어깨 무릎 발",
+      "translation": "頭、肩膀、膝蓋、腳",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "머리 어깨 무릎 발",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "머리 어깨 무릎 발",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 10
+          },
+          "romanizedText": "meori eokkae mureup bal"
+        }
+      ]
+    },
+    {
+      "id": "l69",
+      "start": 155.6,
+      "end": 157.19,
+      "text": "다 같이 Work Work Work Work",
+      "translation": "大家一起 Work Work Work Work",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l70",
+      "start": 157.19,
+      "end": 158.12,
+      "text": "Work it up",
+      "translation": "Work it up",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l71",
+      "start": 158.12,
+      "end": 159.78,
+      "text": "소리 질러",
+      "translation": "尖叫吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "까",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 5,
+            "charEnd": 5
+          },
+          "romanizedText": "kka"
+        }
+      ]
+    },
+    {
+      "id": "l72",
+      "start": 159.78,
+      "end": 162.85,
+      "text": "인생 뭐 있어 인상 좀 펴고",
+      "translation": "人生還能怎樣，把表情放鬆點",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l73",
+      "start": 162.85,
+      "end": 166.32,
+      "text": "인생 뭐 있어 인상 좀 펴고",
+      "translation": "人生還能怎樣，把表情放鬆點",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l74",
+      "start": 166.32,
+      "end": 169.61,
+      "text": "인생 뭐 있어 인상 좀 펴고",
+      "translation": "人生還能怎樣，把表情放鬆點",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l75",
+      "start": 169.61,
+      "end": 170.92,
+      "text": "인상 좀 펴고",
+      "translation": "把表情放鬆點",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l76",
+      "start": 170.92,
+      "end": 172.89,
+      "text": "Don't like to fight anymore",
+      "translation": "Don't like to fight anymore",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l77",
+      "start": 172.89,
+      "end": 176.27,
+      "text": "언니는 차에서 잠이라도 자지",
+      "translation": "姐姐至少還能在車上睡一下吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "김용선",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 15,
+            "charEnd": 15
+          },
+          "romanizedText": "金容仙"
+        }
+      ]
+    },
+    {
+      "id": "l78",
+      "start": 176.27,
+      "end": 179.55,
+      "text": "이러니 피부가 숨 쉴 틈이 없지",
+      "translation": "難怪皮膚連呼吸的空隙都沒有",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "문별이",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 17,
+            "charEnd": 17
+          },
+          "romanizedText": "文星伊"
+        }
+      ]
+    },
+    {
+      "id": "l79",
+      "start": 179.55,
+      "end": 182.74,
+      "text": "너네는 차에서 잠이라도 자지",
+      "translation": "你們至少還能在車上睡一下吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "정휘인",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 15,
+            "charEnd": 15
+          },
+          "romanizedText": "丁輝人"
+        }
+      ]
+    },
+    {
+      "id": "l80",
+      "start": 182.74,
+      "end": 185.71,
+      "text": "이걸 또 노래로 만들라고 하지",
+      "translation": "還要我把這個也寫成歌",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "안혜진",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 16,
+            "charEnd": 16
+          },
+          "romanizedText": "安惠真"
+        }
+      ]
+    },
+    {
+      "id": "l81",
+      "start": 185.71,
+      "end": 192.45,
+      "text": "잘도 자네 우리 언니 우리 언니",
+      "translation": "睡得可真香啊，我們姐姐，我們姐姐",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "언니",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 11,
+            "charEnd": 11
+          },
+          "romanizedText": "eonni"
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "언니",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 17,
+            "charEnd": 17
+          },
+          "romanizedText": "eonni"
+        }
+      ]
+    },
+    {
+      "id": "l82",
+      "start": 192.45,
+      "end": 195.6,
+      "text": "잘도 자네 우리 휘인이",
+      "translation": "睡得可真香啊，我們輝人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "MAMAMOO",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 12,
+            "charEnd": 12
+          }
+        }
+      ]
+    },
+    {
+      "id": "l83",
+      "start": 195.6,
+      "end": 197.48,
+      "text": "이제 그만 일어나야지",
+      "translation": "現在該起床了吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l84",
+      "start": 197.48,
+      "end": 201.712,
+      "text": "빵야 빵야 빵야",
+      "translation": "砰呀 砰呀 砰呀",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "빵야 빵야 빵야",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "빵야 빵야 빵야",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 8
+          },
+          "romanizedText": "ppangya ppangya ppangya"
+        }
+      ]
+    }
+  ],
+  "chantEvents": [],
+  "lyricOffset": 0
+}
