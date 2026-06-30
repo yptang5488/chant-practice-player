@@ -1,0 +1,1147 @@
+{
+  "id": "song_src_68756f98_63bdd4",
+  "title": "Um Oh Ah Yeh",
+  "artist": "MAMAMOO",
+  "audio": {
+    "sourceId": "src_68756f98",
+    "playbackUrl": "/media/raw/src_68756f98.mp3",
+    "duration": 233.569524,
+    "trimStart": 12.5,
+    "trimEnd": 0
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 0.76,
+      "end": 11.57,
+      "text": "음 오 아 예",
+      "translation": "嗯 喔 啊 耶",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Wheein",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 1,
+            "charEnd": 1
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Solar",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 3,
+            "charEnd": 3
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Moonbyul",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 5,
+            "charEnd": 5
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Hwasa",
+          "placement": "replace-phrase",
+          "anchor": {
+            "matchText": "예",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 7
+          }
+        }
+      ]
+    },
+    {
+      "id": "l2",
+      "start": 11.57,
+      "end": 15.14,
+      "text": "Oh yes 음 오 아 예",
+      "translation": "Oh yes 嗯 喔 啊 耶",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Oh yes",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Oh yes",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 6
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Yeah",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 14,
+            "charEnd": 14
+          }
+        }
+      ]
+    },
+    {
+      "id": "l3",
+      "start": 15.14,
+      "end": 20.25,
+      "text": "너에게 빠져들겠어 자꾸 반응하잖아",
+      "translation": "我要陷入你了，總是不斷有反應",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l4",
+      "start": 20.25,
+      "end": 24.34,
+      "text": "Oh yes 음 오 아 예",
+      "translation": "Oh yes 嗯 喔 啊 耶",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Oh yes",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Oh yes",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 6
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Yeah",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 14,
+            "charEnd": 14
+          }
+        }
+      ]
+    },
+    {
+      "id": "l5",
+      "start": 24.34,
+      "end": 30.43,
+      "text": "그래 난 다가가겠어 넌 내 취향저격 ace",
+      "translation": "好，我要靠近你，你正中我的取向 ace",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "ace",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "ace",
+            "occurrence": 1,
+            "charStart": 20,
+            "charEnd": 23
+          }
+        }
+      ]
+    },
+    {
+      "id": "l6",
+      "start": 30.43,
+      "end": 34.97,
+      "text": "내 앞을 지나갔어 눈빛이 마주쳤어",
+      "translation": "你從我面前走過，眼神交會了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l7",
+      "start": 34.97,
+      "end": 38.89,
+      "text": "스타일이 좋아 느낌이 좋아",
+      "translation": "風格很好，感覺很好",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Mamamoo",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 14,
+            "charEnd": 14
+          }
+        }
+      ]
+    },
+    {
+      "id": "l8",
+      "start": 38.89,
+      "end": 43.91,
+      "text": "다를 게 없는 오늘 너 때문에 달아오른",
+      "translation": "沒有什麼不同的今天，因為你而升溫",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l9",
+      "start": 43.91,
+      "end": 47.44,
+      "text": "오늘이 좋아 음오아예",
+      "translation": "今天真好，嗯喔啊耶",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "음오아예",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "음오아예",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 11
+          },
+          "romanizedText": "eumoaye"
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "start": 47.44,
+      "end": 48.91,
+      "text": "첫 번째 플랜",
+      "translation": "第一個計畫",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "첫 번째 플랜",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "첫 번째 플랜",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 7
+          },
+          "romanizedText": "cheot beonjjae peulraen"
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "start": 48.91,
+      "end": 51.17,
+      "text": "감탄사 그 동안에",
+      "translation": "感嘆詞，在這段時間裡",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l12",
+      "start": 51.17,
+      "end": 52.27,
+      "text": "찾아 헤맨 남자",
+      "translation": "一直尋找徘徊的男人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l13",
+      "start": 52.27,
+      "end": 53.38,
+      "text": "음오아예",
+      "translation": "嗯喔啊耶",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l14",
+      "start": 53.38,
+      "end": 55.17,
+      "text": "수많은 옷처럼 잘 어울리는 너야",
+      "translation": "你就像許多衣服一樣很適合我",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l15",
+      "start": 55.17,
+      "end": 57.54,
+      "text": "부드럽게 이런 말 어떤 것 같아?",
+      "translation": "溫柔地說這種話，你覺得怎麼樣？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l16",
+      "start": 57.54,
+      "end": 59.6,
+      "text": "음 두 번째 플랜 먼저 당기기",
+      "translation": "嗯，第二個計畫，先拉近距離",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l17",
+      "start": 59.6,
+      "end": 61.94,
+      "text": "오오 동공 떨리는 초침 스탠바이 큐",
+      "translation": "喔喔，瞳孔顫動，秒針 standby cue",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l18",
+      "start": 61.94,
+      "end": 64.9,
+      "text": "아 시간되면 차 한잔 할래요?",
+      "translation": "啊，有時間的話要喝杯茶嗎？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l19",
+      "start": 64.9,
+      "end": 66.22,
+      "text": "예스 이런 건 어떤 것 같아?",
+      "translation": "Yes，這樣你覺得怎麼樣？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l20",
+      "start": 66.22,
+      "end": 70.04,
+      "text": "Oh yes 음 오 아 예",
+      "translation": "Oh yes 嗯 喔 啊 耶",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Oh yes",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Oh yes",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 6
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Yeah",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 14,
+            "charEnd": 14
+          }
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "start": 70.04,
+      "end": 75.05,
+      "text": "너에게 빠져들겠어 자꾸 반응하잖아",
+      "translation": "我要陷入你了，總是不斷有反應",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l22",
+      "start": 75.05,
+      "end": 79.24,
+      "text": "Oh yes 음 오 아 예",
+      "translation": "Oh yes 嗯 喔 啊 耶",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Oh yes",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Oh yes",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 6
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Yeah",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 14,
+            "charEnd": 14
+          }
+        }
+      ]
+    },
+    {
+      "id": "l23",
+      "start": 79.24,
+      "end": 84.91,
+      "text": "그래 난 다가가겠어 넌 내 취향저격 ace",
+      "translation": "好，我要靠近你，你正中我的取向 ace",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "ace",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "ace",
+            "occurrence": 1,
+            "charStart": 20,
+            "charEnd": 23
+          }
+        }
+      ]
+    },
+    {
+      "id": "l24",
+      "start": 84.91,
+      "end": 89.77,
+      "text": "본능을 따르겠어 날 감추지 않겠어",
+      "translation": "我要跟隨本能，不再隱藏自己",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l25",
+      "start": 89.77,
+      "end": 94.08,
+      "text": "오늘은 달라 먼저 다가가",
+      "translation": "今天不一樣，先主動靠近",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Mamamoo",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l26",
+      "start": 94.08,
+      "end": 98.77,
+      "text": "걸음은 도도하게 말투는 애교 있게",
+      "translation": "步伐要高傲，語氣要可愛",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l27",
+      "start": 98.77,
+      "end": 102.4,
+      "text": "날 보는 눈빛 음오아예",
+      "translation": "看著我的眼神，嗯喔啊耶",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "음오아예",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "음오아예",
+            "occurrence": 1,
+            "charStart": 8,
+            "charEnd": 12
+          },
+          "romanizedText": "eumoaye"
+        }
+      ]
+    },
+    {
+      "id": "l28",
+      "start": 102.4,
+      "end": 103.17,
+      "text": "Help me",
+      "translation": "Help me",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "SCREAM!!!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 7,
+            "charEnd": 7
+          }
+        }
+      ]
+    },
+    {
+      "id": "l29",
+      "start": 103.17,
+      "end": 105.55,
+      "text": "시간 좀 되나요 나 좀 도와줘요",
+      "translation": "你有點時間嗎？幫幫我吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l30",
+      "start": 105.55,
+      "end": 107.78,
+      "text": "그 쪽 때문에 내 오감이 제멋대로예요",
+      "translation": "因為你，我的五感都不聽使喚",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l31",
+      "start": 107.78,
+      "end": 110.04,
+      "text": "그 쪽이 예고 없이 날리는 미소에 음",
+      "translation": "你毫無預告拋來的微笑，嗯",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l32",
+      "start": 110.04,
+      "end": 112.22,
+      "text": "콜린퍼스도 울고 갈 당신의 매너에 오",
+      "translation": "你的紳士風度連 Colin Firth 都會甘拜下風，喔",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l33",
+      "start": 112.22,
+      "end": 114.43,
+      "text": "여자라 해도 믿을만한 피부 아예",
+      "translation": "就算說是女生也會相信的皮膚，啊耶",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l34",
+      "start": 114.43,
+      "end": 116.79,
+      "text": "넌 존재자체 감탄사 절로 나네",
+      "translation": "你的存在本身就讓人自然發出感嘆",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l35",
+      "start": 116.79,
+      "end": 117.87,
+      "text": "음오아예",
+      "translation": "嗯喔啊耶",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "음오아예",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "음오아예",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 4
+          },
+          "romanizedText": "eumoaye"
+        }
+      ]
+    },
+    {
+      "id": "l36",
+      "start": 117.87,
+      "end": 119.04,
+      "text": "나도 모르게",
+      "translation": "我不知不覺地",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l37",
+      "start": 119.04,
+      "end": 120.17,
+      "text": "달아오르네",
+      "translation": "開始升溫",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l38",
+      "start": 120.17,
+      "end": 121.05,
+      "text": "Holy Shh",
+      "translation": "Holy Shh",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l39",
+      "start": 121.05,
+      "end": 124.85,
+      "text": "Oh yes 음 오 아 예",
+      "translation": "Oh yes 嗯 喔 啊 耶",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Oh yes",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Oh yes",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 6
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Yeah",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 14,
+            "charEnd": 14
+          }
+        }
+      ]
+    },
+    {
+      "id": "l40",
+      "start": 124.85,
+      "end": 129.91,
+      "text": "너에게 빠져들겠어 자꾸 반응하잖아",
+      "translation": "我要陷入你了，總是不斷有反應",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l41",
+      "start": 129.91,
+      "end": 134.07,
+      "text": "Oh yes 음 오 아 예",
+      "translation": "Oh yes 嗯 喔 啊 耶",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Oh yes",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Oh yes",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 6
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Yeah",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 14,
+            "charEnd": 14
+          }
+        }
+      ]
+    },
+    {
+      "id": "l42",
+      "start": 134.07,
+      "end": 139.81,
+      "text": "그래 난 다가가겠어 넌 내 취향저격 ace",
+      "translation": "好，我要靠近你，你正中我的取向 ace",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "ace",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "ace",
+            "occurrence": 1,
+            "charStart": 20,
+            "charEnd": 23
+          }
+        }
+      ]
+    },
+    {
+      "id": "l43",
+      "start": 139.81,
+      "end": 142.48,
+      "text": "목소리도 oh yes",
+      "translation": "連聲音也 oh yes",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "oh yes",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "oh yes",
+            "occurrence": 1,
+            "charStart": 5,
+            "charEnd": 11
+          }
+        }
+      ]
+    },
+    {
+      "id": "l44",
+      "start": 142.48,
+      "end": 144.74,
+      "text": "눈웃음도 oh yes",
+      "translation": "連笑眼也 oh yes",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "oh yes",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "oh yes",
+            "occurrence": 1,
+            "charStart": 5,
+            "charEnd": 11
+          }
+        }
+      ]
+    },
+    {
+      "id": "l45",
+      "start": 144.74,
+      "end": 146.39,
+      "text": "네 모든 게",
+      "translation": "你的一切",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l46",
+      "start": 146.39,
+      "end": 149.21,
+      "text": "머리부터 발끝까지 다 oh yes",
+      "translation": "從頭到腳全都 oh yes",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "oh yes",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "oh yes",
+            "occurrence": 1,
+            "charStart": 12,
+            "charEnd": 18
+          }
+        }
+      ]
+    },
+    {
+      "id": "l47",
+      "start": 149.21,
+      "end": 151.65,
+      "text": "(널 보면 난 oh yes) 지금 널 보면 난 oh yes",
+      "translation": "（看見你我就 oh yes）現在看見你我就 oh yes",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "oh yes",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "oh yes",
+            "occurrence": 2,
+            "charStart": 26,
+            "charEnd": 32
+          }
+        }
+      ]
+    },
+    {
+      "id": "l48",
+      "start": 151.65,
+      "end": 155.53,
+      "text": "단 둘이서 oh yes",
+      "translation": "只有我們兩個 oh yes",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l49",
+      "start": 155.53,
+      "end": 160.22,
+      "text": "드루루 드루루 드루루 oh yes",
+      "translation": "嘟嚕嚕 嘟嚕嚕 嘟嚕嚕 oh yes",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "oh yes",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "oh yes",
+            "occurrence": 1,
+            "charStart": 12,
+            "charEnd": 18
+          }
+        }
+      ]
+    },
+    {
+      "id": "l50",
+      "start": 160.22,
+      "end": 166.47,
+      "text": "뜨거워지는 이 분위기 너와 나의 거리",
+      "translation": "逐漸火熱的氣氛，你和我的距離",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l51",
+      "start": 166.47,
+      "end": 169.37,
+      "text": "우리 사이로 한 여자가 걸어 와 때마침",
+      "translation": "正好有個女人走進我們之間",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l52",
+      "start": 169.37,
+      "end": 176.75,
+      "text": "그의 여자친구인 건지 아님 친군 건지 다가와",
+      "translation": "不知道她是他的女朋友，還是朋友，她走了過來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l53",
+      "start": 176.75,
+      "end": 177.92,
+      "text": "\"언니 이 여자 누구예요?\"",
+      "translation": "「姐姐，這個女人是誰？」",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l54",
+      "start": 177.92,
+      "end": 180.37,
+      "text": "\"여자였어?\" OH MY GOD!",
+      "translation": "「原來是女生？」OH MY GOD!",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "OH MY GOD!",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "OH MY GOD!",
+            "occurrence": 1,
+            "charStart": 8,
+            "charEnd": 18
+          }
+        }
+      ]
+    },
+    {
+      "id": "l55",
+      "start": 180.37,
+      "end": 184.33,
+      "text": "Oh yes 음 오 아 예",
+      "translation": "Oh yes 嗯 喔 啊 耶",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Oh yes",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Oh yes",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 6
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Yeah",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 14,
+            "charEnd": 14
+          }
+        }
+      ]
+    },
+    {
+      "id": "l56",
+      "start": 184.33,
+      "end": 189.49,
+      "text": "너에게 빠져들겠어 자꾸 반응하잖아",
+      "translation": "我要陷入你了，總是不斷有反應",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l57",
+      "start": 189.49,
+      "end": 193.43,
+      "text": "Oh yes 음 오 아 예",
+      "translation": "Oh yes 嗯 喔 啊 耶",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Oh yes",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Oh yes",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 6
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Yeah",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 14,
+            "charEnd": 14
+          }
+        }
+      ]
+    },
+    {
+      "id": "l58",
+      "start": 193.43,
+      "end": 199.02,
+      "text": "그래 난 다가가겠어 넌 내 취향저격 ace",
+      "translation": "好，我要靠近你，你正中我的取向 ace",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "ace",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "ace",
+            "occurrence": 1,
+            "charStart": 20,
+            "charEnd": 23
+          }
+        }
+      ]
+    },
+    {
+      "id": "l59",
+      "start": 199.02,
+      "end": 201.87,
+      "text": "목소리도 oh yes",
+      "translation": "連聲音也 oh yes",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l60",
+      "start": 201.87,
+      "end": 204.2,
+      "text": "눈웃음도 oh yes",
+      "translation": "連笑眼也 oh yes",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l61",
+      "start": 204.2,
+      "end": 205.8,
+      "text": "Oh! 너의 모든 게",
+      "translation": "Oh! 你的一切",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l62",
+      "start": 205.8,
+      "end": 233.57,
+      "text": "머리부터 발끝까지 다 oh yes",
+      "translation": "從頭到腳全都 oh yes",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    }
+  ],
+  "chantEvents": [],
+  "lyricOffset": 0
+}

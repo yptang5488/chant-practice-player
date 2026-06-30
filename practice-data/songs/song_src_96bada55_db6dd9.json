@@ -1,0 +1,1269 @@
+{
+  "id": "song_src_96bada55_db6dd9",
+  "title": "Yes I am",
+  "artist": "MAMAMOO",
+  "audio": {
+    "sourceId": "src_96bada55",
+    "playbackUrl": "/media/raw/src_96bada55.mp3",
+    "duration": 213.252063,
+    "trimStart": 0,
+    "trimEnd": 0
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 6.28,
+      "end": 9.37,
+      "text": "나로 말할 것 같으면",
+      "translation": "要說起我的話",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l2",
+      "start": 9.37,
+      "end": 11.42,
+      "text": "자신감 있는 여자",
+      "translation": "我是充滿自信的女人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Mamamoo",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 9,
+            "charEnd": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "l3",
+      "start": 11.42,
+      "end": 15.63,
+      "text": "말하자면 느낌 있는 여자",
+      "translation": "換句話說，是很有感覺的女人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "My Bae Bae",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l4",
+      "start": 15.63,
+      "end": 20.12,
+      "text": "자신 있으면 나를 따라 해도 돼 (해도 돼)",
+      "translation": "有自信的話，跟著我做也可以",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l5",
+      "start": 20.12,
+      "end": 21.61,
+      "text": "뒤따라와 뒤따라와",
+      "translation": "跟上來，跟上來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l6",
+      "start": 21.61,
+      "end": 24.59,
+      "text": "Follow me-e ae-ae",
+      "translation": "Follow me-e ae-ae",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "me-e ae-ae",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "me-e ae-ae",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 17
+          }
+        }
+      ]
+    },
+    {
+      "id": "l7",
+      "start": 24.59,
+      "end": 28.51,
+      "text": "화장은 옅게 귀찮으니까",
+      "translation": "妝畫淡一點，因為嫌麻煩",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "넘예뻐",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 12,
+            "charEnd": 12
+          },
+          "romanizedText": "neomyeppeo"
+        }
+      ]
+    },
+    {
+      "id": "l8",
+      "start": 28.51,
+      "end": 32.03,
+      "text": "노출은 안 해 그럴 필요 없어",
+      "translation": "不需要露，沒那個必要",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l9",
+      "start": 32.03,
+      "end": 33.47,
+      "text": "이상해 좀 특이해",
+      "translation": "很奇怪，有點特別",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l10",
+      "start": 33.47,
+      "end": 35.95,
+      "text": "평범한 게 더 싫어",
+      "translation": "我更討厭平凡",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l11",
+      "start": 35.95,
+      "end": 38.22,
+      "text": "이런 내 모습 부모님께 감사해",
+      "translation": "感謝父母給了我這樣的模樣",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l12",
+      "start": 38.22,
+      "end": 40.03,
+      "text": "Me me 4 with sun",
+      "translation": "Me me 4 with sun",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Me me 4 with sun",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Me me 4 with sun",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "start": 40.03,
+      "end": 41.88,
+      "text": "생각 말어 정신은 high class",
+      "translation": "別想太多，精神可是 high class",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l14",
+      "start": 41.88,
+      "end": 44.09,
+      "text": "눈치 보지 마 네가 바로 Vogue",
+      "translation": "別看人眼色，你就是 Vogue",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l15",
+      "start": 44.09,
+      "end": 46.1,
+      "text": "Hello, Bonjour, Nihao 안녕",
+      "translation": "Hello, Bonjour, Nihao，安妞",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Hello, Bonjour, Nihao 안녕",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Hello, Bonjour, Nihao 안녕",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 24
+          },
+          "romanizedText": "Hello, Bonjour, Nihao annyeong"
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "start": 46.1,
+      "end": 47.93,
+      "text": "세계 각국마다 매력이 있듯이",
+      "translation": "就像世界各國都有各自魅力",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l17",
+      "start": 47.93,
+      "end": 49.76,
+      "text": "나로 말할 것 같으면",
+      "translation": "要說起我的話",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "나로 말할 것 같으면",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "나로 말할 것 같으면",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 11
+          },
+          "romanizedText": "naro malhal geot gateumyeon"
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "start": 49.76,
+      "end": 51.96,
+      "text": "겨울에 민소매 입으면",
+      "translation": "冬天穿無袖的話",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l19",
+      "start": 51.96,
+      "end": 52.59,
+      "text": "여름이 되는 거야 I love ya",
+      "translation": "就會變成夏天，I love ya",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l20",
+      "start": 52.59,
+      "end": 53.92,
+      "text": "Introduce myself",
+      "translation": "Introduce myself",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l21",
+      "start": 53.92,
+      "end": 57.48,
+      "text": "나로 말할 것 같으면",
+      "translation": "要說起我的話",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l22",
+      "start": 57.48,
+      "end": 59.38,
+      "text": "자신감 있는 여자",
+      "translation": "我是充滿自信的女人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Mamamoo",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 9,
+            "charEnd": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "l23",
+      "start": 59.38,
+      "end": 63.36,
+      "text": "말하자면 느낌 있는 여자",
+      "translation": "換句話說，是很有感覺的女人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "My Bae Bae",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l24",
+      "start": 63.36,
+      "end": 68.03,
+      "text": "자신 있으면 나를 따라 해도 돼",
+      "translation": "有自信的話，跟著我做也可以",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l25",
+      "start": 68.03,
+      "end": 69.83,
+      "text": "뒤따라와 뒤따라와",
+      "translation": "跟上來，跟上來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l26",
+      "start": 69.83,
+      "end": 72.14,
+      "text": "Follow me-e ae-ae",
+      "translation": "Follow me-e ae-ae",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "me-e ae-ae",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "me-e ae-ae",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 17
+          }
+        }
+      ]
+    },
+    {
+      "id": "l27",
+      "start": 72.14,
+      "end": 76.27,
+      "text": "Yes I am 나로 말할 것 같으면",
+      "translation": "Yes I am，要說起我的話",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Yes I am",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Yes I am",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 8
+          }
+        }
+      ]
+    },
+    {
+      "id": "l28",
+      "start": 76.27,
+      "end": 80.45,
+      "text": "Yes I am 아주 건방져",
+      "translation": "Yes I am，非常傲氣",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Yes I am",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Yes I am",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 8
+          }
+        }
+      ]
+    },
+    {
+      "id": "l29",
+      "start": 80.45,
+      "end": 84.89,
+      "text": "편한 게 좋아 그게 나니까 (나니까)",
+      "translation": "我喜歡自在，因為那就是我",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "나니까",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "나니까",
+            "occurrence": 2,
+            "charStart": 16,
+            "charEnd": 19
+          },
+          "romanizedText": "nanikka"
+        }
+      ]
+    },
+    {
+      "id": "l30",
+      "start": 84.89,
+      "end": 87.68,
+      "text": "돌려 말 안 해 숨기지 못해",
+      "translation": "不拐彎抹角，也藏不住",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l31",
+      "start": 87.68,
+      "end": 89.53,
+      "text": "건방져 신경 안 써",
+      "translation": "傲氣又怎樣，我不在乎",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l32",
+      "start": 89.53,
+      "end": 92.16,
+      "text": "나를 모르는 소리",
+      "translation": "那是不了解我的話",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l33",
+      "start": 92.16,
+      "end": 94.4,
+      "text": "그냥 내 멋대로 내 식대로 해",
+      "translation": "我就照我的風格、我的方式做",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l34",
+      "start": 94.4,
+      "end": 96.17,
+      "text": "My name is 문스타",
+      "translation": "My name is 文星",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "문스타",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "문스타",
+            "occurrence": 1,
+            "charStart": 11,
+            "charEnd": 14
+          },
+          "romanizedText": "munseuta"
+        }
+      ]
+    },
+    {
+      "id": "l35",
+      "start": 96.17,
+      "end": 100.18,
+      "text": "어디까지나 그냥 내 취향이니까 예민하지 마",
+      "translation": "說到底那只是我的喜好，別太敏感",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "예민하지 마",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "예민하지 마",
+            "occurrence": 1,
+            "charStart": 17,
+            "charEnd": 23
+          },
+          "romanizedText": "yeminhaji ma"
+        }
+      ]
+    },
+    {
+      "id": "l36",
+      "start": 100.18,
+      "end": 101.31,
+      "text": "컴플렉스 nothing",
+      "translation": "自卑感 nothing",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l37",
+      "start": 101.31,
+      "end": 103.47,
+      "text": "슬렉스 셔츠 로퍼 클래식한 스타일로",
+      "translation": "西裝褲、襯衫、樂福鞋，用經典風格",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l38",
+      "start": 103.47,
+      "end": 104.9,
+      "text": "난 나를 표현해 my babe",
+      "translation": "我表現出自己，my babe",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "my babe",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "my babe",
+            "occurrence": 1,
+            "charStart": 9,
+            "charEnd": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "l39",
+      "start": 104.9,
+      "end": 106.55,
+      "text": "아직까지 말꼬리 잡는 너",
+      "translation": "到現在還在挑我語病的你",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l40",
+      "start": 106.55,
+      "end": 107.44,
+      "text": "Take off the blind",
+      "translation": "Take off the blind",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l41",
+      "start": 107.44,
+      "end": 109.55,
+      "text": "Drive 내 차에 타",
+      "translation": "Drive，上我的車",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l42",
+      "start": 109.55,
+      "end": 113.67,
+      "text": "자 자 나로 말할 것 같으면",
+      "translation": "來，來，要說起我的話",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l43",
+      "start": 113.67,
+      "end": 115.27,
+      "text": "자신감 있는 여자",
+      "translation": "我是充滿自信的女人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Mamamoo",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 9,
+            "charEnd": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "l44",
+      "start": 115.27,
+      "end": 119.34,
+      "text": "말하자면 느낌 있는 여자",
+      "translation": "換句話說，是很有感覺的女人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "My Bae Bae",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l45",
+      "start": 119.34,
+      "end": 123.87,
+      "text": "자신 있으면 나를 따라 해도 돼 (해도 돼)",
+      "translation": "有自信的話，跟著我做也可以",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l46",
+      "start": 123.87,
+      "end": 126.07,
+      "text": "뒤따라와 뒤따라와",
+      "translation": "跟上來，跟上來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l47",
+      "start": 126.07,
+      "end": 128.19,
+      "text": "Follow me-e ae-ae",
+      "translation": "Follow me-e ae-ae",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "me-e ae-ae",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "me-e ae-ae",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 17
+          }
+        }
+      ]
+    },
+    {
+      "id": "l48",
+      "start": 128.19,
+      "end": 131.93,
+      "text": "Yes I am 나로 말할 것 같으면",
+      "translation": "Yes I am，要說起我的話",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Yes I am",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Yes I am",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 8
+          }
+        }
+      ]
+    },
+    {
+      "id": "l49",
+      "start": 131.93,
+      "end": 137.13,
+      "text": "Yes I am, follow me-e ae-ae",
+      "translation": "Yes I am, follow me-e ae-ae",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Yes I am",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Yes I am",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 8
+          }
+        }
+      ]
+    },
+    {
+      "id": "l50",
+      "start": 137.13,
+      "end": 139.98,
+      "text": "Yes I am 나로 말할 것 같으면",
+      "translation": "Yes I am，要說起我的話",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Yes I am",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Yes I am",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 8
+          }
+        }
+      ]
+    },
+    {
+      "id": "l51",
+      "start": 139.98,
+      "end": 144.76,
+      "text": "Yes I am 볼이 뚠뚠 해",
+      "translation": "Yes I am，臉頰圓嘟嘟",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Yes I am",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Yes I am",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 8
+          }
+        }
+      ]
+    },
+    {
+      "id": "l52",
+      "start": 144.76,
+      "end": 149.72,
+      "text": "V라인보다 동그란 내 얼굴이 좋아",
+      "translation": "比起 V 字臉，我更喜歡我圓圓的臉",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l53",
+      "start": 149.72,
+      "end": 152.27,
+      "text": "나만의 some special thing",
+      "translation": "只屬於我的 some special thing",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l54",
+      "start": 152.27,
+      "end": 153.92,
+      "text": "쌍꺼풀 있는 눈매보다는",
+      "translation": "比起有雙眼皮的眼型",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l55",
+      "start": 153.92,
+      "end": 156.16,
+      "text": "나는 내 눈 무쌍이 좋아",
+      "translation": "我更喜歡自己的單眼皮",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l56",
+      "start": 156.16,
+      "end": 158.21,
+      "text": "웃을 땐 인디언 보조개와 코 찡긋",
+      "translation": "笑起來有印第安酒窩，還會皺皺鼻子",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l57",
+      "start": 158.21,
+      "end": 159.67,
+      "text": "아주 칭찬해",
+      "translation": "非常值得稱讚",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "아주 칭찬해",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "아주 칭찬해",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 6
+          },
+          "romanizedText": "aju chingchanhae"
+        }
+      ]
+    },
+    {
+      "id": "l58",
+      "start": 159.67,
+      "end": 163.93,
+      "text": "나로 말할 것 같으면",
+      "translation": "要說起我的話",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "김용선",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 11,
+            "charEnd": 11
+          },
+          "romanizedText": "金容仙"
+        }
+      ]
+    },
+    {
+      "id": "l59",
+      "start": 163.93,
+      "end": 166.46,
+      "text": "말할 것 같으면",
+      "translation": "說起我的話",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "문별이",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 8,
+            "charEnd": 8
+          },
+          "romanizedText": "文星伊"
+        }
+      ]
+    },
+    {
+      "id": "l60",
+      "start": 166.46,
+      "end": 168.16,
+      "text": "아주 시크해",
+      "translation": "非常時髦",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l61",
+      "start": 168.16,
+      "end": 171.71,
+      "text": "나로 말할 것 같으면",
+      "translation": "要說起我的話",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "정휘인",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 11,
+            "charEnd": 11
+          },
+          "romanizedText": "丁輝人"
+        }
+      ]
+    },
+    {
+      "id": "l62",
+      "start": 171.71,
+      "end": 174.39,
+      "text": "말할 것 같으면",
+      "translation": "說起我的話",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "안혜진",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 8,
+            "charEnd": 8
+          },
+          "romanizedText": "安惠真"
+        }
+      ]
+    },
+    {
+      "id": "l63",
+      "start": 174.39,
+      "end": 176.33,
+      "text": "Introduce myself",
+      "translation": "Introduce myself",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l64",
+      "start": 176.33,
+      "end": 179.12,
+      "text": "나로 말할 것 같으면",
+      "translation": "要說起我的話",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l65",
+      "start": 179.12,
+      "end": 181.37,
+      "text": "자신감 있는 여자",
+      "translation": "我是充滿自信的女人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Mamamoo",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 9,
+            "charEnd": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "l66",
+      "start": 181.37,
+      "end": 185.32,
+      "text": "말하자면 느낌 있는 여자",
+      "translation": "換句話說，是很有感覺的女人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "My Bae Bae",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l67",
+      "start": 185.32,
+      "end": 190.03,
+      "text": "자신 있으면 나를 따라 해도 돼",
+      "translation": "有自信的話，跟著我做也可以",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l68",
+      "start": 190.03,
+      "end": 191.84,
+      "text": "뒤따라와 뒤따라와",
+      "translation": "跟上來，跟上來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l69",
+      "start": 191.84,
+      "end": 194.13,
+      "text": "Follow me-e ae-ae",
+      "translation": "Follow me-e ae-ae",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "me-e ae-ae",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "me-e ae-ae",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 17
+          }
+        }
+      ]
+    },
+    {
+      "id": "l70",
+      "start": 194.13,
+      "end": 197.99,
+      "text": "Yes I am 나로 말할 것 같으면",
+      "translation": "Yes I am，要說起我的話",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Yes I am",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Yes I am",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 8
+          }
+        }
+      ]
+    },
+    {
+      "id": "l71",
+      "start": 197.99,
+      "end": 202.29,
+      "text": "Yes I am follow me-e ae-ae (follow, follow, follow)",
+      "translation": "Yes I am follow me-e ae-ae",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Yes I am",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Yes I am",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 8
+          }
+        }
+      ]
+    },
+    {
+      "id": "l72",
+      "start": 202.29,
+      "end": 205.99,
+      "text": "Yes I am 나로 말할 것 같으면",
+      "translation": "Yes I am，要說起我的話",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Yes I am",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Yes I am",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 8
+          }
+        }
+      ]
+    },
+    {
+      "id": "l73",
+      "start": 205.99,
+      "end": 207.99,
+      "text": "Yes I am 아주 건방져",
+      "translation": "Yes I am，非常傲氣",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Yes I am",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Yes I am",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 8
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "SCREAM!!!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 15,
+            "charEnd": 15
+          }
+        }
+      ]
+    }
+  ],
+  "chantEvents": [
+    {
+      "id": "chant_mr0sp2fj",
+      "start": 4,
+      "end": 6,
+      "text": "오늘의.주인공",
+      "label": "chant",
+      "romanizedText": "oneurui.juingong"
+    }
+  ],
+  "lyricOffset": 0
+}

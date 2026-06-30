@@ -1003,7 +1003,22 @@
       "translation": "風吹來心情正好的日子（好日子 all day）",
       "confidence": 0.9,
       "segments": [],
-      "notes": []
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "좋은 날 all day",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "좋은 날 all day",
+            "occurrence": 1,
+            "charStart": 15,
+            "charEnd": 27
+          },
+          "romanizedText": "joheun nal all day"
+        }
+      ]
     },
     {
       "id": "l60",

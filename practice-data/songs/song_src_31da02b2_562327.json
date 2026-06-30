@@ -1,0 +1,904 @@
+{
+  "id": "song_src_31da02b2_562327",
+  "title": "Baton Touch",
+  "artist": "MAMAMOO",
+  "audio": {
+    "sourceId": "src_31da02b2",
+    "playbackUrl": "/media/raw/src_31da02b2.mp3",
+    "duration": 168.669751,
+    "trimStart": 0,
+    "trimEnd": 0
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 1.57,
+      "end": 4.11,
+      "text": "Wow, 오늘부터 귀 쫑긋 세우기",
+      "translation": "Wow，從今天起豎起耳朵聽好",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "세우기",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "세우기",
+            "occurrence": 1,
+            "charStart": 15,
+            "charEnd": 18
+          },
+          "romanizedText": "seugi"
+        }
+      ]
+    },
+    {
+      "id": "l2",
+      "start": 5.11,
+      "end": 7.93,
+      "text": "조금 특별하게 만든 레시피",
+      "translation": "這是做得有點特別的 recipe",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "레시피",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "레시피",
+            "occurrence": 1,
+            "charStart": 11,
+            "charEnd": 14
+          },
+          "romanizedText": "resipi"
+        }
+      ]
+    },
+    {
+      "id": "l3",
+      "start": 7.93,
+      "end": 10.02,
+      "text": "Straight up listen up",
+      "translation": "Straight up listen up",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l4",
+      "start": 10.02,
+      "end": 12.23,
+      "text": "지금 바로 시작할테니까 모여 다",
+      "translation": "現在馬上就要開始，大家都聚過來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l5",
+      "start": 12.23,
+      "end": 13.71,
+      "text": "Can't stop, feeling high",
+      "translation": "Can't stop, feeling high",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Can't stop, feeling high",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Can't stop, feeling high",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 24
+          }
+        }
+      ]
+    },
+    {
+      "id": "l6",
+      "start": 13.71,
+      "end": 16.64,
+      "text": "느낌 와? 이게 무슨일인가",
+      "translation": "有感覺嗎？這到底是怎麼回事",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l7",
+      "start": 16.64,
+      "end": 19.48,
+      "text": "바톤 터치 it's my turn, 이젠 내꺼",
+      "translation": "Baton touch, it's my turn，現在是我的了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "바톤 터치",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "바톤 터치",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 5
+          },
+          "romanizedText": "baton teochi"
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "=Baton Touch",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 5,
+            "charEnd": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": "l8",
+      "start": 19.48,
+      "end": 20.8,
+      "text": "(우후후후후)",
+      "translation": "嗚呼呼呼呼",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "우후후후후",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "우후후후후",
+            "occurrence": 1,
+            "charStart": 1,
+            "charEnd": 6
+          },
+          "romanizedText": "uhuhuhuhu"
+        }
+      ]
+    },
+    {
+      "id": "l9",
+      "start": 20.8,
+      "end": 22.28,
+      "text": "Feel feel feel me",
+      "translation": "Feel feel feel me",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l10",
+      "start": 22.28,
+      "end": 23.58,
+      "text": "(우후후후후)",
+      "translation": "嗚呼呼呼呼",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "우후후후후",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "우후후후후",
+            "occurrence": 1,
+            "charStart": 1,
+            "charEnd": 6
+          },
+          "romanizedText": "uhuhuhuhu"
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "start": 23.58,
+      "end": 24.75,
+      "text": "Go go go like this",
+      "translation": "Go go go like this",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l12",
+      "start": 24.75,
+      "end": 27.34,
+      "text": "찌릿찌릿한 멜로디",
+      "translation": "電流般酥麻的旋律",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l13",
+      "start": 27.34,
+      "end": 30.89,
+      "text": "이 음악에 빠져드는 you",
+      "translation": "沉迷在這音樂裡的 you",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "you",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "you",
+            "occurrence": 1,
+            "charStart": 11,
+            "charEnd": 14
+          }
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "start": 30.89,
+      "end": 33.04,
+      "text": "This is true",
+      "translation": "This is true",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l15",
+      "start": 33.04,
+      "end": 38.61,
+      "text": "기대하는 그대 눈빛",
+      "translation": "你充滿期待的眼神",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l16",
+      "start": 38.61,
+      "end": 41.59,
+      "text": "황홀하게 보여줄게",
+      "translation": "我會讓你看得如癡如醉",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l17",
+      "start": 41.59,
+      "end": 44.25,
+      "text": "Look at me now",
+      "translation": "Look at me now",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l18",
+      "start": 44.25,
+      "end": 46.72,
+      "text": "랩으로 돌아가",
+      "translation": "回到 rap",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l19",
+      "start": 46.72,
+      "end": 49.82,
+      "text": "Ain't nobody like this 상관없는 공식",
+      "translation": "Ain't nobody like this，公式不重要",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l20",
+      "start": 49.82,
+      "end": 52.94,
+      "text": "케케묵은 건 관심없어 난 좀 새로운 걸",
+      "translation": "陳腔濫調我沒興趣，我想要有點新鮮的",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l21",
+      "start": 52.94,
+      "end": 55.38,
+      "text": "원해 남들이 잘 하지않는 걸 해",
+      "translation": "我想做別人不太會做的事",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "원해",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "원해",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 2
+          },
+          "romanizedText": "wonhae"
+        }
+      ]
+    },
+    {
+      "id": "l22",
+      "start": 55.38,
+      "end": 58.24,
+      "text": "Easy come easy go 내가 만들어갈 미래",
+      "translation": "Easy come easy go，我要打造自己的未來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l23",
+      "start": 58.24,
+      "end": 60.98,
+      "text": "비켜 봐 꽤나 멋질테니까",
+      "translation": "讓開看看吧，因為會相當帥氣",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l24",
+      "start": 60.98,
+      "end": 63.74,
+      "text": "예쁜 척 필요없고 이젠 즐겨",
+      "translation": "不需要裝漂亮，現在就享受吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l25",
+      "start": 63.74,
+      "end": 65.94,
+      "text": "(우후후후후)",
+      "translation": "嗚呼呼呼呼",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "우후후후후",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "우후후후후",
+            "occurrence": 1,
+            "charStart": 1,
+            "charEnd": 6
+          },
+          "romanizedText": "uhuhuhuhu"
+        }
+      ]
+    },
+    {
+      "id": "l26",
+      "start": 65.94,
+      "end": 66.99,
+      "text": "Feel feel feel me",
+      "translation": "Feel feel feel me",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l27",
+      "start": 66.99,
+      "end": 68.39,
+      "text": "(우후후후후)",
+      "translation": "嗚呼呼呼呼",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "우후후후후",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "우후후후후",
+            "occurrence": 1,
+            "charStart": 1,
+            "charEnd": 6
+          },
+          "romanizedText": "uhuhuhuhu"
+        }
+      ]
+    },
+    {
+      "id": "l28",
+      "start": 68.39,
+      "end": 69.75,
+      "text": "Go go go like this",
+      "translation": "Go go go like this",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l29",
+      "start": 69.75,
+      "end": 72.24,
+      "text": "찌릿찌릿한 멜로디",
+      "translation": "電流般酥麻的旋律",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l30",
+      "start": 72.24,
+      "end": 76.41,
+      "text": "이 음악에 빠져드는 you",
+      "translation": "沉迷在這音樂裡的 you",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "you",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "you",
+            "occurrence": 1,
+            "charStart": 11,
+            "charEnd": 14
+          }
+        }
+      ]
+    },
+    {
+      "id": "l31",
+      "start": 76.41,
+      "end": 80.54,
+      "text": "This is true",
+      "translation": "This is true",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l32",
+      "start": 80.54,
+      "end": 83.36,
+      "text": "기대하는 그대 눈빛",
+      "translation": "你充滿期待的眼神",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l33",
+      "start": 83.36,
+      "end": 85.95,
+      "text": "황홀하게 보여줄게",
+      "translation": "我會讓你看得如癡如醉",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l34",
+      "start": 85.95,
+      "end": 88.45,
+      "text": "Look at me now",
+      "translation": "Look at me now",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l35",
+      "start": 88.45,
+      "end": 94.7,
+      "text": "Hello, ladies and gentleman",
+      "translation": "Hello, ladies and gentleman",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l36",
+      "start": 94.7,
+      "end": 101.16,
+      "text": "So beautiful (beautiful, beautiful)",
+      "translation": "So beautiful",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l37",
+      "start": 101.16,
+      "end": 102.1,
+      "text": "Let's go",
+      "translation": "Let's go",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l38",
+      "start": 111.1,
+      "end": 112.69,
+      "text": "Let's do it",
+      "translation": "Let's do it",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l39",
+      "start": 113.69,
+      "end": 116.86,
+      "text": "월화수목금토일",
+      "translation": "週一週二週三週四週五週六週日",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "월화수목금토일",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "월화수목금토일",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 7
+          },
+          "romanizedText": "wolhwasumokgeumtoil"
+        }
+      ]
+    },
+    {
+      "id": "l40",
+      "start": 116.86,
+      "end": 119.18,
+      "text": "기분좋게 들썩이지 (이지)",
+      "translation": "心情好地一起搖擺吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "기분좋게 들썩이지",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "기분좋게 들썩이지",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 9
+          },
+          "romanizedText": "gibunjotge deulsseogiji"
+        }
+      ]
+    },
+    {
+      "id": "l41",
+      "start": 119.18,
+      "end": 121.97,
+      "text": "신나게 놀자 dance with me",
+      "translation": "盡情玩吧，dance with me",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "신나게 놀자 dance with me",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "신나게 놀자 dance with me",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 20
+          },
+          "romanizedText": "sinnage nolja dance with me"
+        }
+      ]
+    },
+    {
+      "id": "l42",
+      "start": 121.97,
+      "end": 124.92,
+      "text": "마마 마마 무 (shh du-du-du-du)",
+      "translation": "MAMA MAMA MOO",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "마마 마마 무",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "마마 마마 무",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 7
+          },
+          "romanizedText": "mama mama mu"
+        }
+      ]
+    },
+    {
+      "id": "l43",
+      "start": 124.92,
+      "end": 127.82,
+      "text": "월화수목금토일",
+      "translation": "週一週二週三週四週五週六週日",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "월화수목금토일",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "월화수목금토일",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 7
+          },
+          "romanizedText": "wolhwasumokgeumtoil"
+        }
+      ]
+    },
+    {
+      "id": "l44",
+      "start": 127.82,
+      "end": 130.67,
+      "text": "기분좋게 들썩이지 (이지)",
+      "translation": "心情好地一起搖擺吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "기분좋게 들썩이지 ",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "기분좋게 들썩이지 ",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 10
+          },
+          "romanizedText": "gibunjotge deulsseogiji "
+        }
+      ]
+    },
+    {
+      "id": "l45",
+      "start": 130.67,
+      "end": 133.06,
+      "text": "신나게 놀자 dance with me",
+      "translation": "盡情玩吧，dance with me",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "신나게 놀자 dance with me",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "신나게 놀자 dance with me",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 20
+          },
+          "romanizedText": "sinnage nolja dance with me"
+        }
+      ]
+    },
+    {
+      "id": "l46",
+      "start": 133.06,
+      "end": 135.35,
+      "text": "마마 마마 무",
+      "translation": "MAMA MAMA MOO",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "마마 마마 무",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "마마 마마 무",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 7
+          },
+          "romanizedText": "mama mama mu"
+        }
+      ]
+    },
+    {
+      "id": "l47",
+      "start": 135.35,
+      "end": 136.36,
+      "text": "도레미파 Solar",
+      "translation": "Do Re Mi Fa Solar",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "도레미파 Solar",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "도레미파 Solar",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 10
+          },
+          "romanizedText": "doremipa Solar"
+        }
+      ]
+    },
+    {
+      "id": "l48",
+      "start": 136.36,
+      "end": 140.01,
+      "text": "찌릿찌릿한 멜로디",
+      "translation": "電流般酥麻的旋律",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l49",
+      "start": 140.01,
+      "end": 144.36,
+      "text": "이 음악에 빠져드는 you",
+      "translation": "沉迷在這音樂裡的 you",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "you",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "you",
+            "occurrence": 1,
+            "charStart": 11,
+            "charEnd": 14
+          }
+        }
+      ]
+    },
+    {
+      "id": "l50",
+      "start": 144.36,
+      "end": 147.18,
+      "text": "This is true",
+      "translation": "This is true",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l51",
+      "start": 147.18,
+      "end": 150.26,
+      "text": "기대하는 그대 눈빛",
+      "translation": "你充滿期待的眼神",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l52",
+      "start": 150.26,
+      "end": 153.65,
+      "text": "황홀하게 보여줄게",
+      "translation": "我會讓你看得如癡如醉",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l53",
+      "start": 153.65,
+      "end": 155.53,
+      "text": "Look at me now",
+      "translation": "Look at me now",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l54",
+      "start": 155.53,
+      "end": 156.74,
+      "text": "Look at me now",
+      "translation": "Look at me now",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l55",
+      "start": 156.74,
+      "end": 169.67,
+      "text": "Look at me now",
+      "translation": "Look at me now",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "SCREAM!!!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 14,
+            "charEnd": 14
+          }
+        }
+      ]
+    }
+  ],
+  "chantEvents": [],
+  "lyricOffset": 0
+}
