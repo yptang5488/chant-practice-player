@@ -1,0 +1,1119 @@
+{
+  "id": "song_src_78089229_9fb725",
+  "title": "Hertz",
+  "artist": "Moon Byul",
+  "audio": {
+    "sourceId": "src_78089229",
+    "playbackUrl": "/media/raw/src_78089229.mp3",
+    "duration": 146.842993,
+    "trimStart": 0,
+    "trimEnd": 0
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 4.264,
+      "end": 5.618,
+      "text": "Yeah",
+      "translation": "Yeah",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "SCREAM!!!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 4,
+            "charEnd": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "l2",
+      "start": 5.618,
+      "end": 7.29,
+      "text": "Kick it louder",
+      "translation": "Kick it louder",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l3",
+      "start": 7.29,
+      "end": 12.743,
+      "text": "Hertz Hertz Hertz Hertz Hertz",
+      "translation": "Hertz Hertz Hertz Hertz Hertz",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Hertz Hertz Hertz Hertz Hertz",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Hertz Hertz Hertz Hertz Hertz",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 29
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "꿈.을. 안.고. 기.세. 타.고.",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 29,
+            "charEnd": 29
+          },
+          "romanizedText": "kkum.eul. an.go. gi.se. ta.go."
+        }
+      ]
+    },
+    {
+      "id": "l4",
+      "start": 12.743,
+      "end": 18.847,
+      "text": "Hertz Hertz Hertz Hertz",
+      "translation": "Hertz Hertz Hertz Hertz",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "올.라.가.자",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 23,
+            "charEnd": 23
+          },
+          "romanizedText": "ol.ra.ga.ja"
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Hertz Hertz Hertz Hertz",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Hertz Hertz Hertz Hertz",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 23
+          }
+        }
+      ]
+    },
+    {
+      "id": "l5",
+      "start": 18.847,
+      "end": 20.095,
+      "text": "깊어져 Glitch",
+      "translation": "越陷越深 Glitch",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l6",
+      "start": 20.095,
+      "end": 22.206,
+      "text": "숨을 죽여 닿을 듯 말 듯이",
+      "translation": "屏住呼吸，像要碰到又碰不到",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l7",
+      "start": 22.206,
+      "end": 24.674,
+      "text": "너의 그 파동 안에 나를 맞춰봐",
+      "translation": "試著讓我對上你的那道波動",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l8",
+      "start": 24.674,
+      "end": 27.177,
+      "text": "파도를 타는 듯이 (Crush)",
+      "translation": "就像乘著浪一樣 (Crush)",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Crush",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Crush",
+            "occurrence": 1,
+            "charStart": 11,
+            "charEnd": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "l9",
+      "start": 27.177,
+      "end": 29.08,
+      "text": "번져와 Deeper frequencies",
+      "translation": "蔓延開來 Deeper frequencies",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "frequencies",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "frequencies",
+            "occurrence": 1,
+            "charStart": 11,
+            "charEnd": 22
+          }
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "start": 29.08,
+      "end": 31.152,
+      "text": "폭발해 Chemistry",
+      "translation": "Chemistry 爆發",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Chemistry",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Chemistry",
+            "occurrence": 1,
+            "charStart": 4,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "start": 31.152,
+      "end": 32.747,
+      "text": "또 끌어당기잖아",
+      "translation": "又把我吸引過去",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "부릉~",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 8,
+            "charEnd": 8
+          },
+          "romanizedText": "bureung~"
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "start": 32.747,
+      "end": 35.054,
+      "text": "Same wavelength, we’re on it",
+      "translation": "Same wavelength, we’re on it",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l13",
+      "start": 35.054,
+      "end": 37.442,
+      "text": "96 Hertz, we lock in",
+      "translation": "96 Hertz, we lock in",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Hertz",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Hertz",
+            "occurrence": 1,
+            "charStart": 3,
+            "charEnd": 8
+          }
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "start": 37.442,
+      "end": 39.447,
+      "text": "주파수는 이미 In-phase",
+      "translation": "頻率早已 In-phase",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "phase",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "phase",
+            "occurrence": 1,
+            "charStart": 11,
+            "charEnd": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "start": 39.447,
+      "end": 43.659,
+      "text": "My heart 터질 듯 뛰어오르는 중",
+      "translation": "My heart 正像要爆開般跳動",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "My heart",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "My heart",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 8
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "뛰어오르는 중",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "뛰어오르는 중",
+            "occurrence": 1,
+            "charStart": 14,
+            "charEnd": 21
+          },
+          "romanizedText": "ttwieooreuneun jung"
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "start": 43.659,
+      "end": 47.323,
+      "text": "올라타 올려봐 Gear",
+      "translation": "坐上來，把 Gear 往上推",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "올라타",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "올라타",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 3
+          },
+          "romanizedText": "olrata"
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Gear",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Gear",
+            "occurrence": 1,
+            "charStart": 8,
+            "charEnd": 12
+          }
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "start": 47.323,
+      "end": 49.65,
+      "text": "파동 타고 스며드는 중",
+      "translation": "正乘著波動滲透進去",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "스며드는 중",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "스며드는 중",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 12
+          },
+          "romanizedText": "seumyeodeuneun jung"
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "start": 49.65,
+      "end": 52.418,
+      "text": "We resonate at perfect Hz",
+      "translation": "We resonate at perfect Hz",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l19",
+      "start": 52.418,
+      "end": 56.862,
+      "text": "Hertz Hertz Hertz Hertz Hertz",
+      "translation": "Hertz Hertz Hertz Hertz Hertz",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Hertz Hertz Hertz Hertz Hertz",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Hertz Hertz Hertz Hertz Hertz",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 29
+          }
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "start": 56.862,
+      "end": 60.208,
+      "text": "Hertz Hertz Hertz Hertz Hertz",
+      "translation": "Hertz Hertz Hertz Hertz Hertz",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Hertz Hertz Hertz Hertz Hertz",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Hertz Hertz Hertz Hertz Hertz",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 29
+          }
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "start": 60.208,
+      "end": 62.859,
+      "text": "Step in the room, my heart goes boom",
+      "translation": "Step in the room, my heart goes boom",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l22",
+      "start": 62.859,
+      "end": 64.825,
+      "text": "네 Vibe는 천천히 올라와 Zoom",
+      "translation": "你的 Vibe 慢慢升起 Zoom",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l23",
+      "start": 64.825,
+      "end": 66.83,
+      "text": "기분 좋은 상상을 하게끔",
+      "translation": "讓人忍不住產生美好的想像",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "하게끔",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "하게끔",
+            "occurrence": 1,
+            "charStart": 10,
+            "charEnd": 13
+          },
+          "romanizedText": "hagekkeum"
+        }
+      ]
+    },
+    {
+      "id": "l24",
+      "start": 66.83,
+      "end": 68.835,
+      "text": "이 질주는 잠을 깨기 싫은 꿈",
+      "translation": "這場疾馳是不想醒來的夢",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "싫은 꿈",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "싫은 꿈",
+            "occurrence": 1,
+            "charStart": 12,
+            "charEnd": 16
+          },
+          "romanizedText": "silheun kkum"
+        }
+      ]
+    },
+    {
+      "id": "l25",
+      "start": 68.835,
+      "end": 71.363,
+      "text": "Zero, One 사이에 두고",
+      "translation": "夾在 Zero, One 之間",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "One",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "One",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 9
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "고",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "고",
+            "occurrence": 1,
+            "charStart": 15,
+            "charEnd": 16
+          },
+          "romanizedText": "go"
+        }
+      ]
+    },
+    {
+      "id": "l26",
+      "start": 71.363,
+      "end": 73.26,
+      "text": "데이터처럼 중첩되어 가는 Track",
+      "translation": "像資料一樣逐漸重疊的 Track",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l27",
+      "start": 73.26,
+      "end": 75.473,
+      "text": "114 템포 가위바위보",
+      "translation": "114 節奏，剪刀石頭布",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "114",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "114",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 3
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "가위바위보",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "가위바위보",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 12
+          },
+          "romanizedText": "gawibawibo"
+        }
+      ]
+    },
+    {
+      "id": "l28",
+      "start": 75.473,
+      "end": 77.504,
+      "text": "엎치락뒤치락 내가 이긴 게임",
+      "translation": "你來我往，這場遊戲我贏了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l29",
+      "start": 77.504,
+      "end": 79.084,
+      "text": "또 끌어당기잖아",
+      "translation": "又把我吸引過去",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "슈웅~",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 8,
+            "charEnd": 8
+          },
+          "romanizedText": "syuung~"
+        }
+      ]
+    },
+    {
+      "id": "l30",
+      "start": 79.084,
+      "end": 81.356,
+      "text": "Same wavelength, we’re on it",
+      "translation": "Same wavelength, we’re on it",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l31",
+      "start": 81.356,
+      "end": 83.517,
+      "text": "96 Hertz, we lock in",
+      "translation": "96 Hertz, we lock in",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l32",
+      "start": 83.517,
+      "end": 85.696,
+      "text": "주파수는 이미 In-phase",
+      "translation": "頻率早已 In-phase",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "phase",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "phase",
+            "occurrence": 1,
+            "charStart": 11,
+            "charEnd": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "l33",
+      "start": 85.696,
+      "end": 89.651,
+      "text": "My heart 터질 듯 뛰어오르는 중",
+      "translation": "My heart 正像要爆開般跳動",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "My heart",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "My heart",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 8
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "뛰어오르는 중",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "뛰어오르는 중",
+            "occurrence": 1,
+            "charStart": 14,
+            "charEnd": 21
+          },
+          "romanizedText": "ttwieooreuneun jung"
+        }
+      ]
+    },
+    {
+      "id": "l34",
+      "start": 89.651,
+      "end": 93.27,
+      "text": "올라타 올려봐 Gear",
+      "translation": "坐上來，把 Gear 往上推",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "올라타",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "올라타",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 3
+          },
+          "romanizedText": "olrata"
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Gear",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Gear",
+            "occurrence": 1,
+            "charStart": 8,
+            "charEnd": 12
+          }
+        }
+      ]
+    },
+    {
+      "id": "l35",
+      "start": 93.27,
+      "end": 96.098,
+      "text": "파동 타고 스며드는 중",
+      "translation": "正乘著波動滲透進去",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "스며드는 중",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "스며드는 중",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 12
+          },
+          "romanizedText": "seumyeodeuneun jung"
+        }
+      ]
+    },
+    {
+      "id": "l36",
+      "start": 96.098,
+      "end": 98.531,
+      "text": "We resonate at perfect Hz",
+      "translation": "We resonate at perfect Hz",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l37",
+      "start": 98.531,
+      "end": 103.18,
+      "text": "Hertz Hertz Hertz Hertz Hertz",
+      "translation": "Hertz Hertz Hertz Hertz Hertz",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Hertz Hertz Hertz Hertz Hertz",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Hertz Hertz Hertz Hertz Hertz",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 29
+          }
+        }
+      ]
+    },
+    {
+      "id": "l38",
+      "start": 103.18,
+      "end": 107.354,
+      "text": "Hertz Hertz Hertz Hertz Hertz",
+      "translation": "Hertz Hertz Hertz Hertz Hertz",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Hertz Hertz Hertz Hertz Hertz",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Hertz Hertz Hertz Hertz Hertz",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 29
+          }
+        }
+      ]
+    },
+    {
+      "id": "l39",
+      "start": 107.354,
+      "end": 115.156,
+      "text": "(Hertz Hertz Hertz)",
+      "translation": "(Hertz Hertz Hertz)",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "별.똥.별.은. 별.이.의.",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 0,
+            "charEnd": 0
+          },
+          "romanizedText": "byeol.ttong.byeol.eun. byeol.i.ui."
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "올.라.타.봐.",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 7,
+            "charEnd": 7
+          },
+          "romanizedText": "ol.ra.ta.bwa."
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Hertz Hertz",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Hertz Hertz",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 18
+          }
+        }
+      ]
+    },
+    {
+      "id": "l40",
+      "start": 115.156,
+      "end": 117.609,
+      "text": "Same wavelength, we’re on it",
+      "translation": "Same wavelength, we’re on it",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l41",
+      "start": 117.609,
+      "end": 119.562,
+      "text": "96 Hertz, we lock in",
+      "translation": "96 Hertz, we lock in",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Hertz",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Hertz",
+            "occurrence": 1,
+            "charStart": 3,
+            "charEnd": 8
+          }
+        }
+      ]
+    },
+    {
+      "id": "l42",
+      "start": 119.562,
+      "end": 121.396,
+      "text": "주파수는 이미 In-phase",
+      "translation": "頻率早已 In-phase",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "phase",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "phase",
+            "occurrence": 1,
+            "charStart": 11,
+            "charEnd": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "l43",
+      "start": 121.396,
+      "end": 125.096,
+      "text": "My heart 터질 듯 뛰어오르는 중",
+      "translation": "My heart 正像要爆開般跳動",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "My heart",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "My heart",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 8
+          }
+        }
+      ]
+    },
+    {
+      "id": "l44",
+      "start": 125.096,
+      "end": 128.595,
+      "text": "올라타 올려봐 Gear",
+      "translation": "坐上來，把 Gear 往上推",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "올라타",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "올라타",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 3
+          },
+          "romanizedText": "olrata"
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Gear",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Gear",
+            "occurrence": 1,
+            "charStart": 8,
+            "charEnd": 12
+          }
+        }
+      ]
+    },
+    {
+      "id": "l45",
+      "start": 128.595,
+      "end": 132.104,
+      "text": "파동 타고 스며드는 중",
+      "translation": "正乘著波動滲透進去",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "스며드는 중",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "스며드는 중",
+            "occurrence": 1,
+            "charStart": 6,
+            "charEnd": 12
+          },
+          "romanizedText": "seumyeodeuneun jung"
+        }
+      ]
+    },
+    {
+      "id": "l46",
+      "start": 132.104,
+      "end": 134.642,
+      "text": "We resonate at perfect Hz",
+      "translation": "We resonate at perfect Hz",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l47",
+      "start": 134.642,
+      "end": 138.627,
+      "text": "Hertz Hertz Hertz Hertz Hertz",
+      "translation": "Hertz Hertz Hertz Hertz Hertz",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Hertz Hertz Hertz Hertz Hertz",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Hertz Hertz Hertz Hertz Hertz",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 29
+          }
+        }
+      ]
+    },
+    {
+      "id": "l48",
+      "start": 138.627,
+      "end": 146.843,
+      "text": "Hertz Hertz Hertz Hertz Hertz",
+      "translation": "Hertz Hertz Hertz Hertz Hertz",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Hertz Hertz Hertz Hertz Hertz",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Hertz Hertz Hertz Hertz Hertz",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 29
+          }
+        }
+      ]
+    }
+  ],
+  "chantEvents": [],
+  "lyricOffset": 0
+}

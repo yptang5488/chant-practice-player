@@ -1,0 +1,719 @@
+{
+  "id": "song_src_ad3a1270_24c815",
+  "title": "Waggy",
+  "artist": "MAMAMOO",
+  "audio": {
+    "sourceId": "src_ad3a1270",
+    "playbackUrl": "/media/raw/src_ad3a1270.mp3",
+    "duration": 201.247347,
+    "trimStart": 7,
+    "trimEnd": 0
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 5.12,
+      "end": 9.3,
+      "text": "쟤쟤쟤쟤쟤쟤쟤 쟤가 걔야",
+      "translation": "那個那個那個，那個就是那個人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "멍멍",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          },
+          "romanizedText": "meongmeong"
+        }
+      ]
+    },
+    {
+      "id": "l2",
+      "start": 9.3,
+      "end": 13.89,
+      "text": "걔걔걔걔걔걔걔 걔가 쟤야",
+      "translation": "那人那人那人，那人就是那個人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l3",
+      "start": 13.89,
+      "end": 17.16,
+      "text": "봄바람 타고서 내 앞에 나타난",
+      "translation": "乘著春風出現在我面前的",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l4",
+      "start": 17.16,
+      "end": 20.06,
+      "text": "쟤쟤쟤 쟤쟤쟤쟤 쟤가 걔야",
+      "translation": "那個那個那個，那個就是那個人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "쟤가 걔야",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "쟤가 걔야",
+            "occurrence": 1,
+            "charStart": 9,
+            "charEnd": 14
+          },
+          "romanizedText": "jyaega gyaeya"
+        }
+      ]
+    },
+    {
+      "id": "l5",
+      "start": 20.06,
+      "end": 24.64,
+      "text": "Je m'baladais sur l'avenue, 뭐라는 거야?",
+      "translation": "Je m'baladais sur l'avenue，你在說什麼？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l6",
+      "start": 24.64,
+      "end": 28.41,
+      "text": "그 애를 보면 나도 모를 노래가 나와",
+      "translation": "一看到那個人，我就唱出連自己都不懂的歌",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l7",
+      "start": 28.41,
+      "end": 32.37,
+      "text": "기분이 좋은 오후 햇살 같은",
+      "translation": "像心情很好的午後陽光",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l8",
+      "start": 32.37,
+      "end": 36.11,
+      "text": "상큼한 사람에게 빠진 것 같아",
+      "translation": "我好像迷上了那樣清爽的人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l9",
+      "start": 36.11,
+      "end": 39.93,
+      "text": "멍멍멍 멍멍이 때로는 부엉이",
+      "translation": "汪汪汪，小狗狗，有時又像貓頭鷹",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "멍멍멍 멍멍이",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "멍멍멍 멍멍이",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 7
+          },
+          "romanizedText": "meongmeongmeong meongmeongi"
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "start": 39.93,
+      "end": 43.64,
+      "text": "세상에 뭐 이런 생명체가 있을까?",
+      "translation": "世上怎麼會有這種生物呢？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l11",
+      "start": 43.64,
+      "end": 48.14,
+      "text": "You are my sunshine of my life",
+      "translation": "You are my sunshine of my life",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l12",
+      "start": 48.14,
+      "end": 51.31,
+      "text": "오, 사랑에 꼭 빠진 것 같아",
+      "translation": "噢，我好像真的陷入愛情了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l13",
+      "start": 51.31,
+      "end": 55.35,
+      "text": "쟤쟤쟤쟤쟤쟤쟤 쟤가 걔야",
+      "translation": "那個那個那個，那個就是那個人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "멍멍",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          },
+          "romanizedText": "meongmeong"
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "start": 55.35,
+      "end": 59.78,
+      "text": "걔걔걔걔걔걔걔 걔가 쟤야",
+      "translation": "那人那人那人，那人就是那個人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l15",
+      "start": 59.78,
+      "end": 63.33,
+      "text": "봄바람 타고서 내 앞에 나타난",
+      "translation": "乘著春風出現在我面前的",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l16",
+      "start": 63.33,
+      "end": 67.66,
+      "text": "쟤쟤쟤쟤쟤쟤쟤 쟤가 걔야",
+      "translation": "那個那個那個，那個就是那個人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "쟤가 걔야",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "쟤가 걔야",
+            "occurrence": 1,
+            "charStart": 8,
+            "charEnd": 13
+          },
+          "romanizedText": "jyaega gyaeya"
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "start": 67.66,
+      "end": 69.46,
+      "text": "이리 와, 빨리 와, 나를 봐, 어디 봐",
+      "translation": "過來，快過來，看著我，你在看哪裡",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "이리 와, 빨리 와, 나를 봐, 어디 봐",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "이리 와, 빨리 와, 나를 봐, 어디 봐",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 22
+          },
+          "romanizedText": "iri wa, ppalri wa, nareul bwa, eodi bwa"
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "start": 69.46,
+      "end": 71.49,
+      "text": "너 나 질투 많은 거 알잖아",
+      "translation": "你知道我很會吃醋吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l19",
+      "start": 71.49,
+      "end": 73.22,
+      "text": "잠깐만, 오늘만, 조금만, 나에게",
+      "translation": "等一下，就今天，一點點，給我",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "잠깐만, 오늘만, 조금만, 나에게",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "잠깐만, 오늘만, 조금만, 나에게",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 18
+          },
+          "romanizedText": "jamkkanman, oneulman, jogeumman, naege"
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "start": 73.22,
+      "end": 75.16,
+      "text": "시간 좀 내줘",
+      "translation": "抽點時間吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l21",
+      "start": 75.16,
+      "end": 76.97,
+      "text": "내가 말한 쟤가 걔야 (if you)",
+      "translation": "我說的那個人就是你 (if you)",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "if you",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "if you",
+            "occurrence": 1,
+            "charStart": 13,
+            "charEnd": 19
+          }
+        }
+      ]
+    },
+    {
+      "id": "l22",
+      "start": 76.97,
+      "end": 78.75,
+      "text": "그때 말한 애가 너야 (is you)",
+      "translation": "那時說的那個孩子就是你 (is you)",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "is you",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "is you",
+            "occurrence": 1,
+            "charStart": 13,
+            "charEnd": 19
+          }
+        }
+      ]
+    },
+    {
+      "id": "l23",
+      "start": 78.75,
+      "end": 80.57,
+      "text": "이젠 돌려 말하지 않을게요",
+      "translation": "現在我不會再拐彎抹角了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l24",
+      "start": 80.57,
+      "end": 82.1,
+      "text": "네가 내꺼였음 좋겠어, 모두 다 부럽게",
+      "translation": "希望你是我的，讓大家都羨慕",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l25",
+      "start": 82.1,
+      "end": 85.97,
+      "text": "멍멍멍 따라와, 이층집 강아지",
+      "translation": "汪汪汪，跟上來，二樓家的小狗",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l26",
+      "start": 85.97,
+      "end": 89.63,
+      "text": "나를 졸졸 따라올 땐 정말 너무 귀여워",
+      "translation": "你緊緊跟著我的時候真的太可愛",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l27",
+      "start": 89.63,
+      "end": 94.3,
+      "text": "You are my sunshine of my life",
+      "translation": "You are my sunshine of my life",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l28",
+      "start": 94.3,
+      "end": 97.97,
+      "text": "오, 사랑에 꼭 빠진 것 같아",
+      "translation": "噢，我好像真的陷入愛情了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l29",
+      "start": 97.97,
+      "end": 101.55,
+      "text": "쟤쟤쟤쟤쟤쟤쟤 쟤가 걔야",
+      "translation": "那個那個那個，那個就是那個人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "멍멍",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          },
+          "romanizedText": "meongmeong"
+        }
+      ]
+    },
+    {
+      "id": "l30",
+      "start": 101.55,
+      "end": 105.72,
+      "text": "걔걔걔걔걔걔걔 걔가 쟤야",
+      "translation": "那人那人那人，那人就是那個人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l31",
+      "start": 105.72,
+      "end": 108.9,
+      "text": "요즘 내 머릿속 방에 한가득",
+      "translation": "最近在我腦海的房間裡滿滿都是",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l32",
+      "start": 108.9,
+      "end": 113.85,
+      "text": "쟤쟤쟤쟤쟤쟤쟤 쟤가 걔야",
+      "translation": "那個那個那個，那個就是那個人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "쟤가 걔야",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "쟤가 걔야",
+            "occurrence": 1,
+            "charStart": 8,
+            "charEnd": 13
+          },
+          "romanizedText": "jyaega gyaeya"
+        }
+      ]
+    },
+    {
+      "id": "l33",
+      "start": 136.85,
+      "end": 140.51,
+      "text": "Hmm, 내일은 뭐 할까?",
+      "translation": "Hmm，明天要做什麼呢？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l34",
+      "start": 140.51,
+      "end": 144.98,
+      "text": "우리 함께 한강이나 걸을까?",
+      "translation": "我們要不要一起去漢江走走？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l35",
+      "start": 144.98,
+      "end": 148.71,
+      "text": "날씨도 좋은데",
+      "translation": "天氣也這麼好",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l36",
+      "start": 148.71,
+      "end": 156.66,
+      "text": "둘이 밖에서 맥주 한 잔 어때?",
+      "translation": "兩個人在外面喝杯啤酒怎麼樣？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l37",
+      "start": 156.66,
+      "end": 160.58,
+      "text": "쟤쟤쟤쟤쟤쟤쟤 쟤가 걔야",
+      "translation": "那個那個那個，那個就是那個人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "멍멍",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 13,
+            "charEnd": 13
+          },
+          "romanizedText": "meongmeong"
+        }
+      ]
+    },
+    {
+      "id": "l38",
+      "start": 160.58,
+      "end": 164.99,
+      "text": "걔걔걔걔걔걔걔 걔가 쟤야",
+      "translation": "那人那人那人，那人就是那個人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l39",
+      "start": 164.99,
+      "end": 168.37,
+      "text": "요즘 내 머릿속 방에 한가득",
+      "translation": "最近在我腦海的房間裡滿滿都是",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l40",
+      "start": 168.37,
+      "end": 171.8,
+      "text": "쟤쟤쟤쟤쟤쟤쟤 쟤가 걔야",
+      "translation": "那個那個那個，那個就是那個人",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "쟤가 걔야",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "쟤가 걔야",
+            "occurrence": 1,
+            "charStart": 8,
+            "charEnd": 13
+          },
+          "romanizedText": "jyaega gyaeya"
+        }
+      ]
+    },
+    {
+      "id": "l41",
+      "start": 171.8,
+      "end": 175.53,
+      "text": "멍멍멍 멍멍이 때로는 부엉이",
+      "translation": "汪汪汪，小狗狗，有時又像貓頭鷹",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "멍멍멍 멍멍이",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "멍멍멍 멍멍이",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 7
+          },
+          "romanizedText": "meongmeongmeong meongmeongi"
+        }
+      ]
+    },
+    {
+      "id": "l42",
+      "start": 175.53,
+      "end": 179.21,
+      "text": "세상에 뭐 이런 생명체가 있을까",
+      "translation": "世上怎麼會有這種生物呢",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l43",
+      "start": 179.21,
+      "end": 183.71,
+      "text": "You are my sunshine of my life",
+      "translation": "You are my sunshine of my life",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l44",
+      "start": 183.71,
+      "end": 201.247,
+      "text": "오, 사랑에 꼭 빠진 것 같아",
+      "translation": "噢，我好像真的陷入愛情了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "SCREAM!!!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 16,
+            "charEnd": 16
+          }
+        }
+      ]
+    }
+  ],
+  "chantEvents": [
+    {
+      "id": "chant_mr3o18sn",
+      "start": 2,
+      "end": 5,
+      "text": "김용선 문별이 정휘인 안혜진",
+      "label": "chant",
+      "romanizedText": "金容仙 文星伊 丁輝人 安惠真"
+    },
+    {
+      "id": "chant_mr3obyim",
+      "start": 114,
+      "end": 117,
+      "text": "멍!멍!멍!야응!야응!야응",
+      "label": "chant",
+      "romanizedText": "meong!meong!meong!yaeung!yaeung!yaeung"
+    },
+    {
+      "id": "chant_mr3ofq4r",
+      "start": 121,
+      "end": 123,
+      "text": "재가 Solar 재가 Moonbyul",
+      "label": "chant",
+      "romanizedText": "jaega Solar jaega Moonbyul"
+    },
+    {
+      "id": "chant_mr3ogg0x",
+      "start": 123,
+      "end": 125,
+      "text": "재가 Wheein 재가 Hwasa",
+      "label": "chant",
+      "romanizedText": "jaega Wheein jaega Hwasa"
+    },
+    {
+      "id": "chant_mr3oiw6f",
+      "start": 125,
+      "end": 129,
+      "text": "재가 걔야 마마무! 하나, 둘! 하나, 둘!",
+      "label": "chant",
+      "romanizedText": "jaega gyaeya Mamamoo! hana, dul! hana, dul!"
+    }
+  ],
+  "lyricOffset": 0
+}

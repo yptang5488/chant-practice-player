@@ -1,0 +1,1022 @@
+{
+  "id": "song_src_da884d1b_dcc6ba",
+  "title": "So cute",
+  "artist": "HWASA",
+  "audio": {
+    "sourceId": "src_da884d1b",
+    "playbackUrl": "/media/raw/src_da884d1b.mp3",
+    "duration": 213.971882,
+    "trimStart": 0,
+    "trimEnd": 0
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 4.748,
+      "end": 8.979,
+      "text": "아는 게 많아질 때마다",
+      "translation": "每當懂得越來越多",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l2",
+      "start": 8.979,
+      "end": 19.554,
+      "text": "무서워지잖아 내 맘속에선 why why why why why",
+      "translation": "就會變得害怕吧，在我心裡 why why why why why",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "쏘.큐.트",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 33,
+            "charEnd": 33
+          },
+          "romanizedText": "sso.kyu.teu"
+        }
+      ]
+    },
+    {
+      "id": "l3",
+      "start": 19.554,
+      "end": 28.086,
+      "text": "나의 작디작은 지혜가 초라해 보여도",
+      "translation": "就算我那微小的智慧看起來很寒酸",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l4",
+      "start": 28.086,
+      "end": 30.093,
+      "text": "아무렴 어때 babe",
+      "translation": "那又怎樣呢 babe",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "babe",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "babe",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 11
+          }
+        }
+      ]
+    },
+    {
+      "id": "l5",
+      "start": 30.093,
+      "end": 34.108,
+      "text": "눈물이 모여 wave 메마르지 않게",
+      "translation": "眼淚聚成 wave，別讓它乾涸",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "wave",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "wave",
+            "occurrence": 1,
+            "charStart": 7,
+            "charEnd": 11
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "SCREAM!!!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 19,
+            "charEnd": 19
+          }
+        }
+      ]
+    },
+    {
+      "id": "l6",
+      "start": 34.108,
+      "end": 36.116,
+      "text": "I wanna be just fine",
+      "translation": "I wanna be just fine",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l7",
+      "start": 36.116,
+      "end": 41.213,
+      "text": "넋두리로 I'll be ok",
+      "translation": "就當作抱怨吧，I'll be ok",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Oh~Oh~",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 15,
+            "charEnd": 15
+          }
+        }
+      ]
+    },
+    {
+      "id": "l8",
+      "start": 41.213,
+      "end": 47.233,
+      "text": "모두 다 사랑할 순 없을까",
+      "translation": "能不能把一切都愛著呢",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "아~아~",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 14,
+            "charEnd": 14
+          },
+          "romanizedText": "a~a~"
+        },
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "까",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "까",
+            "occurrence": 1,
+            "charStart": 13,
+            "charEnd": 14
+          },
+          "romanizedText": "kka"
+        }
+      ]
+    },
+    {
+      "id": "l9",
+      "start": 47.233,
+      "end": 50.556,
+      "text": "So cute",
+      "translation": "So cute",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Ahn.Hye.Jin",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 7,
+            "charEnd": 7
+          }
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "start": 50.556,
+      "end": 54.334,
+      "text": "단비가 돼 볼까?",
+      "translation": "要不要成為甘霖呢？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "귀.여.위",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 9,
+            "charEnd": 9
+          },
+          "romanizedText": "gwi.yeo.wi"
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "start": 54.334,
+      "end": 59.604,
+      "text": "나 원하는 건 smile with some love",
+      "translation": "我想要的是 smile with some love",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "love",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "love",
+            "occurrence": 1,
+            "charStart": 24,
+            "charEnd": 28
+          }
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "start": 59.604,
+      "end": 62.614,
+      "text": "What you do ah, what you wanna do ah",
+      "translation": "What you do ah, what you wanna do ah",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l13",
+      "start": 62.614,
+      "end": 69.141,
+      "text": "So whoo 향기가 될까?",
+      "translation": "So whoo，要不要成為香氣呢？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "So.Cu.te!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 8,
+            "charEnd": 8
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "향.좋.다",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 15,
+            "charEnd": 15
+          },
+          "romanizedText": "hyang.jot.da"
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "start": 69.141,
+      "end": 73.906,
+      "text": "나 원하는 건 life with some love",
+      "translation": "我想要的是 life with some love",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "love",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "love",
+            "occurrence": 1,
+            "charStart": 23,
+            "charEnd": 27
+          }
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "start": 73.906,
+      "end": 78.427,
+      "text": "난 그저 That's enough",
+      "translation": "我只是覺得 That's enough",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l16",
+      "start": 78.427,
+      "end": 82.255,
+      "text": "What you do ah, what you wanna do ah",
+      "translation": "What you do ah, what you wanna do ah",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "What you do ah, what you wanna do ah",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "What you do ah, what you wanna do ah",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 36
+          }
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "start": 82.255,
+      "end": 86.59,
+      "text": "흔들림 속에 시가 되려나",
+      "translation": "在搖晃之中，會不會成為詩呢",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l18",
+      "start": 86.59,
+      "end": 92.855,
+      "text": "그럼 헤매어보자 먼 길을 돌아도",
+      "translation": "那就迷路看看吧，就算繞了遠路",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "돌아도",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "돌아도",
+            "occurrence": 1,
+            "charStart": 14,
+            "charEnd": 17
+          },
+          "romanizedText": "dorado"
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "start": 92.855,
+      "end": 94.862,
+      "text": "Let's go for a walk",
+      "translation": "Let's go for a walk",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "for a walk",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "for a walk",
+            "occurrence": 1,
+            "charStart": 9,
+            "charEnd": 19
+          }
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "start": 94.862,
+      "end": 96.868,
+      "text": "옆자린 비워둬",
+      "translation": "把旁邊的位置留空",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "비워둬",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "비워둬",
+            "occurrence": 1,
+            "charStart": 4,
+            "charEnd": 7
+          },
+          "romanizedText": "biwodwo"
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "start": 96.868,
+      "end": 99.126,
+      "text": "I wanna be just fine",
+      "translation": "I wanna be just fine",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "SCREAM!!!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 0,
+            "charEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "l22",
+      "start": 99.126,
+      "end": 103.893,
+      "text": "넋두리로 I'll be ok",
+      "translation": "就當作抱怨吧，I'll be ok",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Oh~Oh~",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 15,
+            "charEnd": 15
+          }
+        }
+      ]
+    },
+    {
+      "id": "l23",
+      "start": 103.893,
+      "end": 110.418,
+      "text": "모두 다 안아버릴 거야 난 dive",
+      "translation": "我要把一切都擁入懷裡，然後 dive",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "dive",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "dive",
+            "occurrence": 1,
+            "charStart": 15,
+            "charEnd": 19
+          }
+        }
+      ]
+    },
+    {
+      "id": "l24",
+      "start": 110.418,
+      "end": 113.68,
+      "text": "So cute",
+      "translation": "So cute",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Ahy.Hye.Jin",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 7,
+            "charEnd": 7
+          }
+        }
+      ]
+    },
+    {
+      "id": "l25",
+      "start": 113.68,
+      "end": 117.192,
+      "text": "단비가 돼 볼까?",
+      "translation": "要不要成為甘霖呢？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "귀.여.위",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 9,
+            "charEnd": 9
+          },
+          "romanizedText": "gwi.yeo.wi"
+        }
+      ]
+    },
+    {
+      "id": "l26",
+      "start": 117.192,
+      "end": 122.457,
+      "text": "나 원하는 건 smile with some love",
+      "translation": "我想要的是 smile with some love",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "love",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "love",
+            "occurrence": 1,
+            "charStart": 24,
+            "charEnd": 28
+          }
+        }
+      ]
+    },
+    {
+      "id": "l27",
+      "start": 122.457,
+      "end": 125.468,
+      "text": "What you do ah, what you wanna do ah",
+      "translation": "What you do ah, what you wanna do ah",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l28",
+      "start": 125.468,
+      "end": 131.995,
+      "text": "So whoo 향기가 될까?",
+      "translation": "So whoo，要不要成為香氣呢？",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "So.Cu.te!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 7,
+            "charEnd": 7
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "향.좋.다",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 15,
+            "charEnd": 15
+          },
+          "romanizedText": "hyang.jot.da"
+        }
+      ]
+    },
+    {
+      "id": "l29",
+      "start": 131.995,
+      "end": 136.507,
+      "text": "나 원하는 건 life with some love",
+      "translation": "我想要的是 life with some love",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "love",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "love",
+            "occurrence": 1,
+            "charStart": 23,
+            "charEnd": 27
+          }
+        }
+      ]
+    },
+    {
+      "id": "l30",
+      "start": 136.507,
+      "end": 141.022,
+      "text": "난 그저 That's enough",
+      "translation": "我只是覺得 That's enough",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l31",
+      "start": 141.022,
+      "end": 144.533,
+      "text": "What you do ah, what you wanna do ah",
+      "translation": "What you do ah, what you wanna do ah",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l32",
+      "start": 144.533,
+      "end": 148.295,
+      "text": "What you do ah, what you wanna do ah",
+      "translation": "What you do ah, what you wanna do ah",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "What you do ah, what you wanna do ah",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "What you do ah, what you wanna do ah",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 36
+          }
+        }
+      ]
+    },
+    {
+      "id": "l33",
+      "start": 148.295,
+      "end": 152.058,
+      "text": "What you do ah, what you wanna do ah",
+      "translation": "What you do ah, what you wanna do ah",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l34",
+      "start": 152.058,
+      "end": 154.863,
+      "text": "So cute! Can help myself",
+      "translation": "So cute! Can help myself",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "So cute! Can help myself",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "So cute! Can help myself",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 24
+          }
+        }
+      ]
+    },
+    {
+      "id": "l35",
+      "start": 154.863,
+      "end": 157.871,
+      "text": "So cute",
+      "translation": "So cute",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Ahn.Hye.Jin",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 7,
+            "charEnd": 7
+          }
+        }
+      ]
+    },
+    {
+      "id": "l36",
+      "start": 157.871,
+      "end": 161.417,
+      "text": "단비가 내려와",
+      "translation": "甘霖落下來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "사랑해",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 7,
+            "charEnd": 7
+          },
+          "romanizedText": "saranghae"
+        }
+      ]
+    },
+    {
+      "id": "l37",
+      "start": 161.417,
+      "end": 166.943,
+      "text": "나 원하는 건 smile with some love",
+      "translation": "我想要的是 smile with some love",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "love",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "love",
+            "occurrence": 1,
+            "charStart": 24,
+            "charEnd": 28
+          }
+        }
+      ]
+    },
+    {
+      "id": "l38",
+      "start": 166.943,
+      "end": 169.724,
+      "text": "What you do ah, what you wanna do ah",
+      "translation": "What you do ah, what you wanna do ah",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l39",
+      "start": 169.724,
+      "end": 176.247,
+      "text": "So whoo 향기가 되자",
+      "translation": "So whoo，成為香氣吧",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "귀.여.위",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 14,
+            "charEnd": 14
+          },
+          "romanizedText": "gwi.yeo.wi"
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "정.말.로",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 7,
+            "charEnd": 7
+          },
+          "romanizedText": "jeong.mal.ro"
+        }
+      ]
+    },
+    {
+      "id": "l40",
+      "start": 176.247,
+      "end": 180.773,
+      "text": "나 원하는 건 life with some love",
+      "translation": "我想要的是 life with some love",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "love",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "love",
+            "occurrence": 1,
+            "charStart": 23,
+            "charEnd": 27
+          }
+        }
+      ]
+    },
+    {
+      "id": "l41",
+      "start": 180.773,
+      "end": 184.524,
+      "text": "난 그저 That's enough",
+      "translation": "我只是覺得 That's enough",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l42",
+      "start": 184.524,
+      "end": 187.785,
+      "text": "So cute (What you do ah, what you wanna do ah)",
+      "translation": "So cute (What you do ah, what you wanna do ah)",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "SCREAM!!!",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 8,
+            "charEnd": 8
+          }
+        }
+      ]
+    },
+    {
+      "id": "l43",
+      "start": 187.785,
+      "end": 191.299,
+      "text": "I wanna be just fine (What you do ah, what you wanna do O)",
+      "translation": "I wanna be just fine (What you do ah, what you wanna do O)",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l44",
+      "start": 191.299,
+      "end": 195.057,
+      "text": "What you wanna do ah ah ah (What you do ah, what you wanna do ah)",
+      "translation": "What you wanna do ah ah ah (What you do ah, what you wanna do ah)",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l45",
+      "start": 195.057,
+      "end": 198.068,
+      "text": "단비가 돼 볼까 ya ya ya",
+      "translation": "要不要成為甘霖 ya ya ya",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l46",
+      "start": 198.068,
+      "end": 200.357,
+      "text": "Smile with some love",
+      "translation": "Smile with some love",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l47",
+      "start": 200.357,
+      "end": 201.108,
+      "text": "(What you do ah, what you wanna do ah)",
+      "translation": "(What you do ah, what you wanna do ah)",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l48",
+      "start": 201.108,
+      "end": 202.362,
+      "text": "Woo ㅡ I wanna be just fine",
+      "translation": "Woo ㅡ I wanna be just fine",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l49",
+      "start": 202.362,
+      "end": 205.195,
+      "text": "(What you do ah, what you wanna do ah)",
+      "translation": "(What you do ah, what you wanna do ah)",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l50",
+      "start": 205.195,
+      "end": 213.972,
+      "text": "(What you do ah, what you wanna do ah)",
+      "translation": "(What you do ah, what you wanna do ah)",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    }
+  ],
+  "chantEvents": [
+    {
+      "id": "chant_mr3pbenz",
+      "start": 2,
+      "end": 4,
+      "text": "Hwa.sa.의.쏘.큐.트",
+      "label": "chant",
+      "romanizedText": "Hwa.sa.ui.sso.kyu.teu"
+    }
+  ],
+  "lyricOffset": 0
+}

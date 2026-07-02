@@ -31,14 +31,14 @@
       "notes": [
         {
           "type": "chant",
-          "mode": "inline",
-          "label": "sing-along",
+          "mode": "standalone",
+          "label": "chant",
           "text": "봐",
-          "placement": "inline",
+          "placement": "insert-at",
           "anchor": {
-            "matchText": "봐",
-            "occurrence": 1,
-            "charStart": 18,
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 19,
             "charEnd": 19
           },
           "romanizedText": "bwa"

@@ -1,0 +1,1203 @@
+{
+  "id": "song_src_f842b2ab_c26a79",
+  "title": "Girl Crush",
+  "artist": "MAMAMOO",
+  "audio": {
+    "sourceId": "src_f842b2ab",
+    "playbackUrl": "/media/raw/src_f842b2ab.mp3",
+    "duration": 187.176054,
+    "trimStart": 0,
+    "trimEnd": 0
+  },
+  "lyrics": [
+    {
+      "id": "l1",
+      "start": 8.93,
+      "end": 11.98,
+      "text": "이따 거기서 봐",
+      "translation": "等一下在那裡見",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l2",
+      "start": 11.98,
+      "end": 14.33,
+      "text": "이번엔 장담해",
+      "translation": "這次我敢保證",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l3",
+      "start": 14.33,
+      "end": 16.43,
+      "text": "찾았어 hot place",
+      "translation": "找到了 hot place",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "hot place",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "hot place",
+            "occurrence": 1,
+            "charStart": 4,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l4",
+      "start": 16.43,
+      "end": 19.5,
+      "text": "예감이 괜찮아",
+      "translation": "預感很不錯",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l5",
+      "start": 19.5,
+      "end": 21.85,
+      "text": "정말로 기대돼",
+      "translation": "真的好期待",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l6",
+      "start": 21.85,
+      "end": 23.89,
+      "text": "날 비출 spotlight",
+      "translation": "照耀我的 spotlight",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "spotlight",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "spotlight",
+            "occurrence": 1,
+            "charStart": 5,
+            "charEnd": 14
+          }
+        }
+      ]
+    },
+    {
+      "id": "l7",
+      "start": 23.89,
+      "end": 25.88,
+      "text": "눈꼬린 더 길게",
+      "translation": "眼尾再拉長一點",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l8",
+      "start": 25.88,
+      "end": 27.7,
+      "text": "콧대는 더 높게",
+      "translation": "鼻樑再挺一點",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l9",
+      "start": 27.7,
+      "end": 29.79,
+      "text": "화장이 진할수록",
+      "translation": "妝越是濃",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l10",
+      "start": 29.79,
+      "end": 31.41,
+      "text": "커져가는 자신감",
+      "translation": "自信就越來越大",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l11",
+      "start": 31.41,
+      "end": 33.29,
+      "text": "근데 왜 my boyfriend",
+      "translation": "可是為什麼 my boyfriend",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l12",
+      "start": 33.29,
+      "end": 34.86,
+      "text": "눈빛이 수상해",
+      "translation": "眼神有點可疑",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l13",
+      "start": 34.86,
+      "end": 36.09,
+      "text": "Oh my god",
+      "translation": "Oh my god",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Oh my god",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Oh my god",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "start": 36.09,
+      "end": 38.45,
+      "text": "지금 나를 의심해 말도 안돼",
+      "translation": "現在懷疑我，太不像話了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l15",
+      "start": 38.45,
+      "end": 40.09,
+      "text": "Hey you",
+      "translation": "Hey you",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l16",
+      "start": 40.09,
+      "end": 41.78,
+      "text": "너 간당간당해",
+      "translation": "你快要踩線了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l17",
+      "start": 41.78,
+      "end": 45.57,
+      "text": "갈대처럼 난 왔다갔다해",
+      "translation": "我像蘆葦一樣搖擺不定",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l18",
+      "start": 45.57,
+      "end": 48.77,
+      "text": "왜 또 쿨하지 못해",
+      "translation": "為什麼又不能酷一點",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Ho",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 5,
+            "charEnd": 5
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Ho",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 7,
+            "charEnd": 7
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Ho",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 10,
+            "charEnd": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "start": 48.77,
+      "end": 53.11,
+      "text": "I just wanna be awesome girl",
+      "translation": "I just wanna be awesome girl",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "awesome girl",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "awesome girl",
+            "occurrence": 1,
+            "charStart": 16,
+            "charEnd": 28
+          }
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "start": 53.11,
+      "end": 56.26,
+      "text": "Girl crush cool every day I do",
+      "translation": "Girl crush cool every day I do",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Girl crush",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Girl crush",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "start": 56.26,
+      "end": 58.73,
+      "text": "Go girl crush red color lipstick",
+      "translation": "Go girl crush red color lipstick",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Go girl crush",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Go girl crush",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l22",
+      "start": 58.73,
+      "end": 60.19,
+      "text": "뒤태는 apple hip",
+      "translation": "背影是 apple hip",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l23",
+      "start": 60.19,
+      "end": 63.76,
+      "text": "Go girl crush cool every day I do",
+      "translation": "Go girl crush cool every day I do",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Go girl crush",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Go girl crush",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l24",
+      "start": 63.76,
+      "end": 66.07,
+      "text": "Go girl crush cash money",
+      "translation": "Go girl crush cash money",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Go girl crush",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Go girl crush",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l25",
+      "start": 66.07,
+      "end": 67.53,
+      "text": "나도 충분히 벌어",
+      "translation": "我也賺得夠多",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l26",
+      "start": 67.53,
+      "end": 70.72,
+      "text": "Go girl crush",
+      "translation": "Go girl crush",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Go girl crush",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Go girl crush",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l27",
+      "start": 70.72,
+      "end": 72.66,
+      "text": "I love myself",
+      "translation": "I love myself",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l28",
+      "start": 72.66,
+      "end": 75.68,
+      "text": "요즘 나 잘나가",
+      "translation": "最近我很紅",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l29",
+      "start": 75.68,
+      "end": 78.11,
+      "text": "애교는 기본에",
+      "translation": "撒嬌是基本",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l30",
+      "start": 78.11,
+      "end": 80.16,
+      "text": "섹시는 highlight",
+      "translation": "性感是 highlight",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "highlight",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "highlight",
+            "occurrence": 1,
+            "charStart": 4,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l31",
+      "start": 80.16,
+      "end": 83.26,
+      "text": "예쁘고 달콤한",
+      "translation": "漂亮又甜美的",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l32",
+      "start": 83.26,
+      "end": 84.49,
+      "text": "표현들은",
+      "translation": "那些形容",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l33",
+      "start": 84.49,
+      "end": 85.4,
+      "text": "No thanks",
+      "translation": "No thanks",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l34",
+      "start": 85.4,
+      "end": 87.6,
+      "text": "탈 날지 몰라",
+      "translation": "可能會讓我不舒服",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "몰라",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "몰라",
+            "occurrence": 1,
+            "charStart": 5,
+            "charEnd": 7
+          },
+          "romanizedText": "molra"
+        }
+      ]
+    },
+    {
+      "id": "l35",
+      "start": 87.6,
+      "end": 91.36,
+      "text": "눈꼬린 더 길게 콧대는 더 높게",
+      "translation": "眼尾再拉長，鼻樑再挺一點",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l36",
+      "start": 91.36,
+      "end": 93.57,
+      "text": "화장이 진할수록",
+      "translation": "妝越是濃",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l37",
+      "start": 93.57,
+      "end": 95.14,
+      "text": "커져가는 자신감",
+      "translation": "自信就越來越大",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l38",
+      "start": 95.14,
+      "end": 97.08,
+      "text": "근데 왜 my boyfriend",
+      "translation": "可是為什麼 my boyfriend",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l39",
+      "start": 97.08,
+      "end": 98.49,
+      "text": "눈빛이 수상해",
+      "translation": "眼神有點可疑",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l40",
+      "start": 98.49,
+      "end": 99.85,
+      "text": "Oh my god",
+      "translation": "Oh my god",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Oh my god",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Oh my god",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "l41",
+      "start": 99.85,
+      "end": 102.18,
+      "text": "지금 나를 의심해 말도 안 돼",
+      "translation": "現在懷疑我，太不像話了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l42",
+      "start": 102.18,
+      "end": 103.83,
+      "text": "Hey you",
+      "translation": "Hey you",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l43",
+      "start": 103.83,
+      "end": 105.51,
+      "text": "너 간당간당해",
+      "translation": "你快要踩線了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l44",
+      "start": 105.51,
+      "end": 109.27,
+      "text": "갈대처럼 난 왔다갔다해",
+      "translation": "我像蘆葦一樣搖擺不定",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l45",
+      "start": 109.27,
+      "end": 112.52,
+      "text": "왜 또 쿨하지 못해",
+      "translation": "為什麼又不能酷一點",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Ho",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 5,
+            "charEnd": 5
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Ho",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 7,
+            "charEnd": 7
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Ho",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 10,
+            "charEnd": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": "l46",
+      "start": 112.52,
+      "end": 116.74,
+      "text": "I just wanna be awesome girl",
+      "translation": "I just wanna be awesome girl",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "awesome girl",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "awesome girl",
+            "occurrence": 1,
+            "charStart": 16,
+            "charEnd": 28
+          }
+        }
+      ]
+    },
+    {
+      "id": "l47",
+      "start": 116.74,
+      "end": 119.99,
+      "text": "Girl crush cool every day I do",
+      "translation": "Girl crush cool every day I do",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Girl crush",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Girl crush",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": "l48",
+      "start": 119.99,
+      "end": 122.62,
+      "text": "Go girl crush red color lipstick",
+      "translation": "Go girl crush red color lipstick",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Go girl crush",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Go girl crush",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l49",
+      "start": 122.62,
+      "end": 123.88,
+      "text": "뒤태는 apple hip",
+      "translation": "背影是 apple hip",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l50",
+      "start": 123.88,
+      "end": 127.55,
+      "text": "Go girl crush cool every day I do",
+      "translation": "Go girl crush cool every day I do",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Go girl crush",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Go girl crush",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l51",
+      "start": 127.55,
+      "end": 129.83,
+      "text": "Go girl crush cash money",
+      "translation": "Go girl crush cash money",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Go girl crush",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Go girl crush",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l52",
+      "start": 129.83,
+      "end": 131.24,
+      "text": "나도 충분히 벌어",
+      "translation": "我也賺得夠多",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l53",
+      "start": 131.24,
+      "end": 132.45,
+      "text": "Go girl crush",
+      "translation": "Go girl crush",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Go girl crush",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Go girl crush",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l54",
+      "start": 132.45,
+      "end": 133.66,
+      "text": "나는 안 해 밀당",
+      "translation": "我不玩推拉",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l55",
+      "start": 133.66,
+      "end": 135.44,
+      "text": "내 감정에 솔직하지",
+      "translation": "對自己的感情很坦率",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l56",
+      "start": 135.44,
+      "end": 137.95,
+      "text": "다른 여자들의 고민과는 좀 달라",
+      "translation": "和其他女生的煩惱有點不一樣",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l57",
+      "start": 137.95,
+      "end": 139.54,
+      "text": "I'm freakin' naughty girl",
+      "translation": "I'm freakin' naughty girl",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l58",
+      "start": 139.54,
+      "end": 141.31,
+      "text": "남들 시선 의식 안 해",
+      "translation": "不在意別人的眼光",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l59",
+      "start": 141.31,
+      "end": 142.79,
+      "text": "Cause I love myself",
+      "translation": "Cause I love myself",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l60",
+      "start": 142.79,
+      "end": 144.87,
+      "text": "조금 외로우면 어때 내 생각엔",
+      "translation": "有點孤單又怎樣，在我看來",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l61",
+      "start": 144.87,
+      "end": 147.21,
+      "text": "마치 넌 애정결핍같아",
+      "translation": "你好像缺愛一樣",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l62",
+      "start": 147.21,
+      "end": 150.53,
+      "text": "Hey you 너 간당간당해",
+      "translation": "Hey you，你快要踩線了",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l63",
+      "start": 150.53,
+      "end": 154.24,
+      "text": "갈대처럼 난 왔다갔다해",
+      "translation": "我像蘆葦一樣搖擺不定",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l64",
+      "start": 154.24,
+      "end": 157.45,
+      "text": "왜 또 쿨하지 못해",
+      "translation": "為什麼又不能酷一點",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Ho",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 5,
+            "charEnd": 5
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Ho",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 7,
+            "charEnd": 7
+          }
+        },
+        {
+          "type": "chant",
+          "mode": "standalone",
+          "label": "chant",
+          "text": "Ho",
+          "placement": "insert-at",
+          "anchor": {
+            "matchText": "",
+            "occurrence": 0,
+            "charStart": 10,
+            "charEnd": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": "l65",
+      "start": 157.45,
+      "end": 161.72,
+      "text": "I just wanna be awesome girl",
+      "translation": "I just wanna be awesome girl",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "awesome girl",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "awesome girl",
+            "occurrence": 1,
+            "charStart": 16,
+            "charEnd": 28
+          }
+        }
+      ]
+    },
+    {
+      "id": "l66",
+      "start": 161.72,
+      "end": 165.04,
+      "text": "Girl crush cool every day I do",
+      "translation": "Girl crush cool every day I do",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Girl crush",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Girl crush",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": "l67",
+      "start": 165.04,
+      "end": 167.58,
+      "text": "Go girl crush red color lipstick",
+      "translation": "Go girl crush red color lipstick",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Go girl crush",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Go girl crush",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l68",
+      "start": 167.58,
+      "end": 168.85,
+      "text": "뒤태는 apple hip",
+      "translation": "背影是 apple hip",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l69",
+      "start": 168.85,
+      "end": 172.52,
+      "text": "Go girl crush cool every day I do",
+      "translation": "Go girl crush cool every day I do",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Go girl crush",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Go girl crush",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l70",
+      "start": 172.52,
+      "end": 174.81,
+      "text": "Go girl crush cash money",
+      "translation": "Go girl crush cash money",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Go girl crush",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Go girl crush",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l71",
+      "start": 174.81,
+      "end": 176.24,
+      "text": "나도 충분히 벌어",
+      "translation": "我也賺得夠多",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    },
+    {
+      "id": "l72",
+      "start": 176.24,
+      "end": 179.45,
+      "text": "Go girl crush",
+      "translation": "Go girl crush",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": [
+        {
+          "type": "chant",
+          "mode": "inline",
+          "label": "sing-along",
+          "text": "Go girl crush",
+          "placement": "inline",
+          "anchor": {
+            "matchText": "Go girl crush",
+            "occurrence": 1,
+            "charStart": 0,
+            "charEnd": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "l73",
+      "start": 179.45,
+      "end": 187.176,
+      "text": "I love myself",
+      "translation": "I love myself",
+      "confidence": 0.9,
+      "segments": [],
+      "notes": []
+    }
+  ],
+  "chantEvents": [],
+  "lyricOffset": 0
+}

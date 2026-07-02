@@ -111,6 +111,16 @@
       "songUrl": "./practice-data/songs/song_src_68756f98_63bdd4.json"
     },
     {
+      "id": "song_src_78089229_9fb725",
+      "title": "Hertz",
+      "artist": "Moon Byul",
+      "hasLyrics": true,
+      "hasTranslation": true,
+      "hasNotes": true,
+      "playerPath": "/youtube-player/song_src_78089229_9fb725",
+      "songUrl": "./practice-data/songs/song_src_78089229_9fb725.json"
+    },
+    {
       "id": "song_src_78240bc1_871183",
       "title": "Wind flower",
       "artist": "MAMAMOO",
@@ -171,6 +181,16 @@
       "songUrl": "./practice-data/songs/song_src_aaf2a49c_da3ed6.json"
     },
     {
+      "id": "song_src_ad3a1270_24c815",
+      "title": "Waggy",
+      "artist": "MAMAMOO",
+      "hasLyrics": true,
+      "hasTranslation": true,
+      "hasNotes": true,
+      "playerPath": "/youtube-player/song_src_ad3a1270_24c815",
+      "songUrl": "./practice-data/songs/song_src_ad3a1270_24c815.json"
+    },
+    {
       "id": "song_src_af38b169_d775d4",
       "title": "You're the Best",
       "artist": "MAMAMOO",
@@ -201,6 +221,16 @@
       "songUrl": "./practice-data/songs/song_src_d5b67b13_5cb2f3.json"
     },
     {
+      "id": "song_src_da884d1b_dcc6ba",
+      "title": "So cute",
+      "artist": "HWASA",
+      "hasLyrics": true,
+      "hasTranslation": true,
+      "hasNotes": true,
+      "playerPath": "/youtube-player/song_src_da884d1b_dcc6ba",
+      "songUrl": "./practice-data/songs/song_src_da884d1b_dcc6ba.json"
+    },
+    {
       "id": "song_src_dd5b4bae_8c9aab",
       "title": "L.I.E.C",
       "artist": "MAMAMOO",
@@ -229,6 +259,16 @@
       "hasNotes": true,
       "playerPath": "/youtube-player/song_src_f06bfa7b_15c8c9",
       "songUrl": "./practice-data/songs/song_src_f06bfa7b_15c8c9.json"
+    },
+    {
+      "id": "song_src_f842b2ab_c26a79",
+      "title": "Girl Crush",
+      "artist": "MAMAMOO",
+      "hasLyrics": true,
+      "hasTranslation": true,
+      "hasNotes": true,
+      "playerPath": "/youtube-player/song_src_f842b2ab_c26a79",
+      "songUrl": "./practice-data/songs/song_src_f842b2ab_c26a79.json"
     }
   ],
   "sources": [
@@ -277,6 +317,10 @@
       "sourceUrl": "./practice-data/sources/src_68756f98.json"
     },
     {
+      "id": "src_78089229",
+      "sourceUrl": "./practice-data/sources/src_78089229.json"
+    },
+    {
       "id": "src_78240bc1",
       "sourceUrl": "./practice-data/sources/src_78240bc1.json"
     },
@@ -301,6 +345,10 @@
       "sourceUrl": "./practice-data/sources/src_29de72a6.json"
     },
     {
+      "id": "src_ad3a1270",
+      "sourceUrl": "./practice-data/sources/src_ad3a1270.json"
+    },
+    {
       "id": "src_af38b169",
       "sourceUrl": "./practice-data/sources/src_af38b169.json"
     },
@@ -313,6 +361,10 @@
       "sourceUrl": "./practice-data/sources/src_d5b67b13.json"
     },
     {
+      "id": "src_da884d1b",
+      "sourceUrl": "./practice-data/sources/src_da884d1b.json"
+    },
+    {
       "id": "src_dd5b4bae",
       "sourceUrl": "./practice-data/sources/src_dd5b4bae.json"
     },
@@ -323,6 +375,10 @@
     {
       "id": "src_f06bfa7b",
       "sourceUrl": "./practice-data/sources/src_f06bfa7b.json"
+    },
+    {
+      "id": "src_f842b2ab",
+      "sourceUrl": "./practice-data/sources/src_f842b2ab.json"
     }
   ]
 }
